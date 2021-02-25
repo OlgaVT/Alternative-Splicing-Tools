@@ -2,13 +2,21 @@
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
 #### RUM
-
 Last release: 2015, January, 27th
-* [URL] (http://cbil.upenn.edu/RUM/)
-* [GitHub] (https://github.com/itmat/rum)
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/21775302/) 
+* [URL](http://cbil.upenn.edu/RUM/)
+* [GitHub](https://github.com/itmat/rum)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
+#### Scipio
+a tool based on the alignment program BLAT to determine the precise gene structure given a protein sequence and a genome sequence
+Last release: 2013, May, 24th
+* [URL](https://www.webscipio.org/webscipio/download_scipio)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
 ## Alternative splicing and differential splicing tools
 ### Event-level
+#### Webscipio
+a tool for prediction of eukaryotic gene structure
+* [URL](https://www.webscipio.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 ### Isoform-level
 ### Exon-level
 #### SpliceTrap
