@@ -25,6 +25,17 @@ Last release: 2012, May, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
 
+#### KISSPLICE: an alternative splicing event detection tool
+Last release: 2020, July, 2nd
+* [URL](http://kissplice.prabi.fr/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22537044/)
+
+#### rMATS: a differential splicing detection
+Last release: 2021, February, 8th
+* [URL](http://rnaseq-mats.sourceforge.net/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22266656/)
+* [GitHub](https://github.com/Xinglab/rmats-turbo)
+
 #### SpliceSeq
 a tool for investigation of alternative mRNA splicing patterns in data from high-throughput mRNA sequencing studies. The tool detect events, compare between samples and predict the consequence on a protein structure
 
@@ -57,9 +68,16 @@ Last release: 2010, September, 9th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
 
 #### MMSEQ: an isoform quantification tool
+
 Last release: 2019, November, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
 * [GitHub](https://github.com/eturro/mmseq)
+
+#### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
+Last release: 2014, April, 24th
+* [URL](http://splicegrapher.sourceforge.net/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22293517/)
+
 ### Exon-level
 #### DEXSeq: a differential exon usage tool
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
