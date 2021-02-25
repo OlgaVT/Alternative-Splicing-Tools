@@ -1,3 +1,9 @@
+#### Title
+Last release:
+* [URL]
+* [PubMed]
+* [GitHub]
+
 # Alternative-Splicing-List
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
@@ -14,10 +20,29 @@ Last release: 2013, May, 24th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
 ## Alternative splicing and differential splicing detection tools
 ### Event-level
+#### DSGSeq: a differential splicing detection tool
+Last release: 2012, May, 14th
+* [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
+
+#### SpliceSeq
+a tool for investigation of alternative mRNA splicing patterns in data from high-throughput mRNA sequencing studies. The tool detect events, compare between samples and predict the consequence on a protein structure
+
+Last release: 2014, February, 21st
+* [URL](https://bioinformatics.mdanderson.org/public-software/spliceseq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22820202/)
+
+
 #### Webscipio: a web tool for prediction of eukaryotic gene structures
 * [URL](https://www.webscipio.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
+
 ### Isoform-level
+#### DiffSplice: a differential isoform expression detection tool
+Last release: 2013, January, 1st
+* [URL](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
+
 #### IsoEm2: an isoform quantification tool
 
 Last release: 2017, April, 3rd
@@ -36,6 +61,10 @@ Last release: 2019, November, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
 * [GitHub](https://github.com/eturro/mmseq)
 ### Exon-level
+#### DEXSeq: a differential exon usage tool
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
+
 #### SpliceTrap
 a method to quantify exon inclusion levels using paired-end RNA-seq data
 
@@ -49,6 +78,14 @@ Last update: 2017, May, 4th, 196,446 splicing events
 Organism: human
 * [URL](http://srv00.recas.ba.infn.it/ASPicDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21051348/)
+
+### HEXEvent: a database of Human EXon splicing Events
+Last update: 2017, September, 29th
+
+Organism: human
+* [URL](http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23118488/)
+
 ### SpliceAid2: a database of human splicing factors expression data and RNA target motifs
 Last update: 2013 February:	71 splicing factors, 2,339 RNA binding sites
 
