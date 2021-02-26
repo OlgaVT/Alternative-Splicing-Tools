@@ -12,13 +12,14 @@ Last release: 2013, May, 24th
 * [URL](https://www.webscipio.org/webscipio/download_scipio)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
 
-### UnSplicer: a splice-aware alignment and junction detection tool
+#### UnSplicer: a splice-aware alignment and junction detection tool
 Last release: 2013, November, 25th
 * [URL](http://exon.gatech.edu/Genemark/paul/unsplicer/index.htm)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24259430/)
 
 ## Alternative splicing and differential splicing detection tools
 ### Event-level
+
 #### DSGSeq: a differential splicing detection tool
 Last release: 2012, May, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
@@ -32,8 +33,15 @@ Last release: 2020, July, 2nd
 #### rMATS: a differential splicing detection
 Last release: 2021, February, 8th
 * [URL](http://rnaseq-mats.sourceforge.net/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22266656/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25480548/)
 * [GitHub](https://github.com/Xinglab/rmats-turbo)
+
+#### SeqGSEA: a gene set enrichment analysis with differential expression and splicing
+Last release: 2018, December, 12th (the last commit)
+
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SeqGSEA.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
+* [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
 
 #### SpliceSeq: a tool for investigation of alternative mRNA splicing patterns in data from RNA-seq.
 The tool detects events, compares between samples and predicts the consequence on a protein structure
@@ -56,6 +64,11 @@ Last release: 2019, October, 24th (the last commit)
 Last release: 2013, January, 1st
 * [URL](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
+
+#### Integrated Genome Browser: a visual analysis of alternative splicing
+Last release: 2020, December, 3rd 
+* [URL](https://www.bioviz.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
 
 #### IsoEm2: an isoform quantification tool
 Last release: 2017, April, 3rd
@@ -103,6 +116,11 @@ Last release: 2015, February, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23821651/)
 * [GitHub](https://github.com/nariai/tigar2)
 
+#### Traph: an isoform quantification tool
+Last release: 2014, September, 2nd
+* [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734627/)
+
 ### Exon-level
 #### DEXSeq: a differential exon usage tool
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
@@ -144,6 +162,13 @@ Last release: 2013, January, 13th (the last commit)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
 
 ## Databases
+### AceView: a database of alternative splicing isoforms
+Last update: 2012, October, 16th
+
+Organisms: human, mouse, rat, worm, arabidopsis
+* [URL](https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/16925834/)
+
 ### AltTrans: a database of alternative splicing and alternative polyadenilation (archived)
 Last update: 2008, September, 5th
 
