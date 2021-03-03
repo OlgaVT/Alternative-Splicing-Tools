@@ -19,8 +19,13 @@ Last release: 2013, November, 25th
 
 ## Alternative splicing and differential splicing detection tools
 ### Event-level
+#### casper: an alternative splicing detection tool
+Last release:_ not found_. Published in 2014.
 
-#### DSGSeq: a differential splicing detection tool
+* [Biocondictor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24795787/)
+
+#### DSGseq: a differential splicing detection tool
 Last release: 2012, May, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
@@ -43,6 +48,12 @@ Last release: 2018, December, 12th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
 * [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
 
+#### spliceR: a tool for alternative splicing, differential detection and isoform switching
+Last release:_ not found_. Published in 2014
+
+* [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
+
 #### SpliceSeq: a tool for investigation of alternative mRNA splicing patterns in data from RNA-seq.
 The tool detects events, compares between samples and predicts the consequence on a protein structure
 
@@ -50,7 +61,7 @@ Last release: 2014, February, 21st
 * [URL](https://bioinformatics.mdanderson.org/public-software/spliceseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22820202/)
 
-#### SplicingCompass: a diffrential splicing tool
+#### SplicingCompass: a differential splicing tool
 Last release: 2019, October, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23449093/)
 * [GitHub](https://github.com/KoenigLabNM/SplicingCompass)
@@ -60,10 +71,27 @@ Last release: 2019, October, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 
 ### Isoform-level
+#### Cufflinks: a suite of tools for an isoform quantification and differential expression tool
+* Cufflinks assembles transcriptomes from RNA-Seq data and quantifies their expression.
+* Cuffcompare compares the assembled transcriptomes
+* Cuffmerge merges the tranacriptomes from multiple RNA-Seq libraries
+* Cuffquant computes the gene and transcript expression profiles 
+* Cuffdiff compares expression levels of genes and transcripts in RNA-Seq
+* Cuffnorm normalizes the expression levels
+Last release: 2016, July, 1st
+* [URL](http://cole-trapnell-lab.github.io/cufflinks/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23222703/)
+* [GitHub](https://github.com/cole-trapnell-lab/cufflinks)
+
 #### DiffSplice: a differential isoform expression detection tool
 Last release: 2013, January, 1st
 * [URL](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
+
+#### FineSplice: a TopHat2 wrapper to identify expressed juntions
+Last release: 2014, April, 1st
+* [URL](https://sourceforge.net/projects/finesplice/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24574529/)
 
 #### Integrated Genome Browser: a visual analysis of alternative splicing
 Last release: 2020, December, 3rd 
@@ -81,10 +109,21 @@ Last release: 2010, September, 9th
 * [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
 
+#### IUTA: a differential isoform expression tool
+Last release:_ not found_. Published in 2014.
+* [URL](https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25283306/)
+
 #### MMSEQ: an isoform quantification tool
 Last release: 2019, November, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
 * [GitHub](https://github.com/eturro/mmseq)
+
+#### MISO: a differential isoform expression tool
+Last release: 2019, May, 17th. No longer maintained.
+* [URL](http://hollywood.mit.edu/burgelab/miso/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21057496/)
+* [GitHub](https://github.com/yarden/MISO)
 
 #### NURD: an isoform quantification tool
 Last release: _not found_. Published in 2013.
@@ -106,10 +145,21 @@ Last release: _not found_. Published in 2013
 * [URL](https://jhui2014.github.io/rseqdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24260225/)
 
+#### SigFuge: a differential isoform expression detection tool
+Last release:_ not found_. Published in 2014.
+* [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
+
 #### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
 Last release: 2014, April, 24th
 * [URL](http://splicegrapher.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22293517/)
+
+#### spliceR: a tool for alternative splicing, differential detection and isoform switching
+Last release:_ not found_. Published in 2014
+
+* [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
 
 #### TIGAR2: an isoform quantification tool from longer RNA-Seq
 Last release: 2015, February, 19th
@@ -137,8 +187,15 @@ Last release: 2015, July, 17th (the last commit)
 Last release: _not found_. Published in 2020.
 * [BioConductor](https://bioconductor.org/packages/release/bioc/html/ExCluster.html)
 
-#### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
+#### MISO: a differential isoform expression tool
+The tool also detects differentially regulated exons
 
+Last release: 2019, May, 17th. No longer maintained.
+* [URL](http://hollywood.mit.edu/burgelab/miso/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21057496/)
+* [GitHub](https://github.com/yarden/MISO)
+* 
+#### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
 Last release: 2013, May, 17th
 * [URL](http://rulai.cshl.edu/splicetrap/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21896509/)
@@ -149,9 +206,13 @@ Last release: 2013, March, 12th
 * [GutHub](https://github.com/Xinglab/GLiMMPS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23876401/)
 
+### sQTLseekeR: an sQTL detection
+Last release: 2015, June, 29th
+* [GitHub](https://github.com/guigolab/sQTLseekeR)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25140736/)
+
 ### SplicePlot: an sQTL visualization
 Last release: 2013, October, 15th
-
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24363378/)
 * [GitHub](https://github.com/wueric/SplicePlot)
 
@@ -160,6 +221,19 @@ Last release: 2013, October, 15th
 Last release: 2013, January, 13th (the last commit)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23816174/)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
+
+## Proteomics
+### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
+Last release: 2017, June 21st (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
+* [GitHub](https://github.com/yafeng/SpliceVista)
+
+## Other
+### PrimerSeq: a tool for RT-PCR primers design that evaluate alternative splicing events
+Last release: 2016, November, 18th
+* [URL](http://primerseq.sourceforge.net/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24747190/)
+* [GitHub](https://github.com/ctokheim/PrimerSeq)
 
 ## Databases
 ### AceView: a database of alternative splicing isoforms
@@ -211,12 +285,19 @@ Organism: human
 * [URL](http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23118488/)
 
+### Kassiopeia: a database of mutually exclusive exonomes
+Last update: _not found_
+
+Organism: human, fruit fly, worm, Arabidopsis
+* [URL](https://kassiopeia.motorprotein.de/kassiopeia)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24507667/)
+
 ### PolyA_DB: a database of pre-mRNA cleavage and polyA sites
 Last update: 2018, August. 107 human samples, 246 mouse samples, 11 rat samples, 9 chicken samples.
 
 Organisms: human, mouse, rat, chicken
-* [URL] (https://exon.apps.wistar.org/PolyA_DB/)
-* [PubMed] (https://pubmed.ncbi.nlm.nih.gov/29069441/)
+* [URL](https://exon.apps.wistar.org/PolyA_DB/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29069441/)
 
 ### ProSAS: a database of the effects of alternative splicing events on the structure of the resulting protein isoforms.
 Last update: _not found_. Published in 2008.
