@@ -1,6 +1,22 @@
 # Alternative-Splicing-List
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
+#### GSNAP: a splice-aware mapping tool
+Last release: 2021, February, 22nd
+* [URL](http://research-pub.gene.com/gmap/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20147302/)
+
+#### MapSplice3: a splice-aware mapping tool
+Last release:
+* [URL](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20802226/)
+* [GitHub](https://github.com/LiuBioinfo/MapSplice)
+
+#### PALMapper: a splice-aware mapping tool
+Last release: 2013, July, 2013
+* [URL](https://bmi.inf.ethz.ch/supplements/palmapper)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21154708/)
+
 #### RUM: a splice-aware mapping tool
 Last release: 2015, January, 27th
 * [URL](http://cbil.upenn.edu/RUM/)
@@ -11,6 +27,11 @@ Last release: 2015, January, 27th
 Last release: 2013, May, 24th
 * [URL](https://www.webscipio.org/webscipio/download_scipio)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
+
+#### STAR: a splice-aware mapping tool
+Last release: 2021, February, 20th
+* [GitHub](https://github.com/alexdobin/STAR/releases)
+* [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530905/)
 
 #### UnSplicer: a splice-aware alignment and junction detection tool
 Last release: 2013, November, 25th
@@ -109,6 +130,11 @@ Last release: 2010, September, 9th
 * [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
 
+#### ISP: a tool for isoforms inference
+Last release: 2014, October, 15th
+* [URL](http://alumni.cs.ucr.edu/~liw/isp.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25708199/)
+
 #### IUTA: a differential isoform expression tool
 Last release:_ not found_. Published in 2014.
 * [URL](https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm)
@@ -139,6 +165,12 @@ Last release: 2013, October, 25th
 Last release: 2013, October, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24215023/)
+
+#### rDiff: a differential isoform expression detection tool
+Last release: 2020, June, 19th (the last commit)
+* [URL](https://public.bmi.inf.ethz.ch/user/drewe/rdiff/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23585274/)
+* [GitHub](https://github.com/ratschlab/rDiff)
 
 #### rSeqDiff: a differential isoform expression detection tool
 Last release: _not found_. Published in 2013
