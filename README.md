@@ -216,6 +216,46 @@ Last release: 2013, October, 15th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24363378/)
 * [GitHub](https://github.com/wueric/SplicePlot)
 
+## Splice sites prediction and variations analysis
+### GeneSplicer: a splice site prediction
+Last release:_ not found_
+* [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
+
+### Human Splicing Finder: a splice site prediction (free limited access)
+Last release:_ not found_
+* [URL](https://www.genomnis.com/access-hsf)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/19339519/)
+
+### MaxEntScan: a tool for human 5'splice sites scoring
+Last release:_ not found_
+* [URL](http://hollywood.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq.html)
+
+### NetAspGene: a splice site prediction in Aspergillus
+Last release:_ not found_
+* [URL](https://services.healthtech.dtu.dk/service.php?NetAspGene-1.0)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/18948220/)
+
+### NetGene2 Server: a splice site prediction
+Last release: 2017, May, 30th
+* [URL 1](http://www.cbs.dtu.dk/services/NetGene2/)
+* [URL 2](https://services.healthtech.dtu.dk/service.php?NetGene2-2.42)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/2067018/)
+
+### NetUTR: a splice site presiction in 5'UTR regions of human genes
+Last release: _ not found_
+* [URL](https://services.healthtech.dtu.dk/service.php?NetUTR-1.0)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/14960723/)
+
+### NNSPLICE: a splice site prediction by neural network
+Last release: 1997, January
+* [URL](https://www.fruitfly.org/seq_tools/splice.html)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/9278062/)
+
+### SpliceView: a splice site prediction
+Last release:_ not found_
+* [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
+
 ## Alternative splicing regulation
 ### ExonSuite: a tool for PUF binding regions analysis
 Last release: 2013, January, 13th (the last commit)
