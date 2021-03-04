@@ -1,13 +1,18 @@
 # Alternative-Splicing-List
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
+#### BFAST: a BLAT-like mapping tool
+Last release: 2011, October, 29th
+* [URL](https://sourceforge.net/projects/bfast/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/19907642/)
+
 #### GSNAP: a splice-aware mapping tool
 Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20147302/)
 
 #### MapSplice3: a splice-aware mapping tool
-Last release:
+Last release: 2019, May, 30th (the last commit)
 * [URL](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20802226/)
 * [GitHub](https://github.com/LiuBioinfo/MapSplice)
@@ -27,6 +32,16 @@ Last release: 2015, January, 27th
 Last release: 2013, May, 24th
 * [URL](https://www.webscipio.org/webscipio/download_scipio)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
+
+#### SeqSaw: a splice-aware mapping tool
+Last release:_ not found_
+* [URL](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
+
+#### SpliceMap: a splice-aware mapping tool
+Last release: 2010, October, 23rd
+* [URL](https://web.stanford.edu/group/wonglab/SpliceMap/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20371516/)
 
 #### STAR: a splice-aware mapping tool
 Last release: 2021, February, 20th
@@ -87,7 +102,13 @@ Last release: 2019, October, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23449093/)
 * [GitHub](https://github.com/KoenigLabNM/SplicingCompass)
 
+#### SplicingTypesAnno: a tools for latrenative splicing event detection
+Last release: 2015, July, 31st
+* [URL](https://sourceforge.net/projects/splicingtypes/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25720307/)
+
 #### Webscipio: a web tool for prediction of eukaryotic gene structures
+Last release:
 * [URL](https://www.webscipio.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 
@@ -109,6 +130,11 @@ Last release: 2013, January, 1st
 * [URL](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
 
+#### EBseq: a differential isoform expression detection tool
+Last release:_ not found_
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23428641/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/EBSeq.html)
+
 #### FineSplice: a TopHat2 wrapper to identify expressed juntions
 Last release: 2014, April, 1st
 * [URL](https://sourceforge.net/projects/finesplice/files/)
@@ -129,6 +155,11 @@ Last release: 2017, April, 3rd
 Last release: 2010, September, 9th
 * [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
+
+#### iso-lTSP: an isoform switch detection
+Last release: 2015, May, 5th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25578962/)
+* [BitBucket](https://bitbucket.org/regulatorygenomicsupf/iso-ktsp/src/master/)
 
 #### ISP: a tool for isoforms inference
 Last release: 2014, October, 15th
@@ -171,6 +202,12 @@ Last release: 2020, June, 19th (the last commit)
 * [URL](https://public.bmi.inf.ethz.ch/user/drewe/rdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23585274/)
 * [GitHub](https://github.com/ratschlab/rDiff)
+
+#### RSEM: an isoform quantification tool
+Last release: 2020, February, 14th
+* [URL](https://deweylab.github.io/RSEM/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21816040/)
+* [GitHub](https://github.com/deweylab/RSEM)
 
 #### rSeqDiff: a differential isoform expression detection tool
 Last release: _not found_. Published in 2013
@@ -219,14 +256,26 @@ Last release: 2015, July, 17th (the last commit)
 Last release: _not found_. Published in 2020.
 * [BioConductor](https://bioconductor.org/packages/release/bioc/html/ExCluster.html)
 
+#### HMMSplicer: a splice junctions detection
+Last release: 2010, November, 25th
+* [URL](http://derisilab.ucsf.edu/index.php?software=105)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21079731/)
+
 #### MISO: a differential isoform expression tool
-The tool also detects differentially regulated exons
+The tool also detects differentially regulated exons.
+MISO also presents sashimi plots for exon expression visualisation.
 
 Last release: 2019, May, 17th. No longer maintained.
 * [URL](http://hollywood.mit.edu/burgelab/miso/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21057496/)
+* [PubMed MISO](https://pubmed.ncbi.nlm.nih.gov/21057496/)
+* [PubMed sashimi plots](https://pubmed.ncbi.nlm.nih.gov/25617416/)
 * [GitHub](https://github.com/yarden/MISO)
-* 
+
+#### SpliceJumper:  a splice junctions detection
+Last release: 2015, June, 29th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26678515/)
+* [GitHub](https://github.com/simoncchu/SpliceJumper)
+
 #### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
 Last release: 2013, May, 17th
 * [URL](http://rulai.cshl.edu/splicetrap/)
@@ -237,6 +286,11 @@ Last release: 2013, May, 17th
 Last release: 2013, March, 12th
 * [GutHub](https://github.com/Xinglab/GLiMMPS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23876401/)
+
+### PVAAS: a tool to identify SNVs associated with aberrant splicing
+Last release:
+* [URL](http://pvaas.sourceforge.net/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25573917/)
 
 ### sQTLseekeR: an sQTL detection
 Last release: 2015, June, 29th
