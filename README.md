@@ -55,7 +55,17 @@ Last release: 2013, November, 25th
 
 ## Alternative splicing and differential splicing detection tools
 ### Event-level
-#### casper: an alternative splicing detection tool
+### AltAnalyze: an alternative splicing event detection tool
+Last release: 2021, January, 14th
+* [URL](http://www.altanalyze.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+
+#### ASprofile: an alternative splicing event detection tool
+Last release: 
+* [URL](http://ccb.jhu.edu/software/ASprofile/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24555089/)
+
+#### casper: an alternative splicing event detection tool
 Last release:_ not found_. Published in 2014.
 
 * [Biocondictor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
@@ -66,10 +76,20 @@ Last release: 2012, May, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
 
+#### GESS: an exon skipping detection tool
+Last release: *not found*
+* [URL](http://jinlab.net/GESS_Web/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24369421/)
+
 #### KISSPLICE: an alternative splicing event detection tool
 Last release: 2020, July, 2nd
 * [URL](http://kissplice.prabi.fr/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22537044/)
+
+### nagnag: a nagnag splicing prediction tool
+Last release: 2015, August, 4th
+* [URL](https://sourceforge.net/projects/nagnag/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26028313/)
 
 #### rMATS: a differential splicing detection
 Last release: 2021, February, 8th
@@ -84,7 +104,13 @@ Last release: 2018, December, 12th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
 * [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
 
-#### spliceR: a tool for alternative splicing, differential detection and isoform switching
+#### SplicePie: an order of splicing prediction
+Last release: 2015, February, 20th (the last commit)
+
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25800735/)
+* [GitHub](https://github.com/pulyakhina/splicing_analysis_pipeline)
+
+#### spliceR: a tool for alternative splicing events, differential splicing detection and isoform switching
 Last release:_ not found_. Published in 2014
 
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
@@ -102,7 +128,7 @@ Last release: 2019, October, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23449093/)
 * [GitHub](https://github.com/KoenigLabNM/SplicingCompass)
 
-#### SplicingTypesAnno: a tools for latrenative splicing event detection
+#### SplicingTypesAnno: a alternative splicing event detection tool
 Last release: 2015, July, 31st
 * [URL](https://sourceforge.net/projects/splicingtypes/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25720307/)
@@ -113,7 +139,22 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 
 ### Isoform-level
-#### Cufflinks: a suite of tools for an isoform quantification and differential expression tool
+#### BitSeq: an isoform quantification and differential isoform expression tool
+Last release: *not found*
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BitSeq.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22563066/)
+
+#### CEM: a transcriptome assmbly and isoform quantification tool
+Last release: 2012, November, 17th
+* [URL](http://alumni.cs.ucr.edu/~liw/cem.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23060617/)
+
+#### CLASS: a transcriptome assembly tool
+Last release: 2017, May, 17th
+* [URL](https://sourceforge.net/projects/splicebox/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734605/)
+
+#### Cufflinks: a suite of tools for an isoform quantification and differential isoform expression tool
 * Cufflinks assembles transcriptomes from RNA-Seq data and quantifies their expression.
 * Cuffcompare compares the assembled transcriptomes
 * Cuffmerge merges the tranacriptomes from multiple RNA-Seq libraries
@@ -145,6 +186,11 @@ Last release: 2020, December, 3rd
 * [URL](https://www.bioviz.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
 
+#### iReckon: an isoform inference and quantification tool
+Last release: *not found*
+* [URL](http://compbio.cs.toronto.edu/ireckon/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23204306/)
+
 #### IsoEm2: an isoform quantification tool
 Last release: 2017, April, 3rd
 * [URL](https://dna.engr.uconn.edu/?page_id=105)
@@ -156,10 +202,15 @@ Last release: 2010, September, 9th
 * [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
 
-#### iso-lTSP: an isoform switch detection
+#### iso-kTSP: an isoform switch detection
 Last release: 2015, May, 5th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25578962/)
 * [BitBucket](https://bitbucket.org/regulatorygenomicsupf/iso-ktsp/src/master/)
+
+#### isoLASSO: a transcriptome assembly and isoform quantification tool
+Last release: 2012, November, 17th
+* [URL](http://alumni.cs.ucr.edu/~liw/isolasso.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951053/)
 
 #### ISP: a tool for isoforms inference
 Last release: 2014, October, 15th
@@ -182,10 +233,21 @@ Last release: 2019, May, 17th. No longer maintained.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21057496/)
 * [GitHub](https://github.com/yarden/MISO)
 
+#### MIETIE: an isoform inference and quantification tool
+Last release: 2016, March, 18th
+* [URL](https://bmi.inf.ethz.ch/supplements/mitie)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23980025/)
+* [GitHub](https://github.com/ratschlab/MiTie)
+
 #### NURD: an isoform quantification tool
 Last release: _not found_. Published in 2013.
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/NURD/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23837734/)
+
+#### Oases: a transcriptome assembly tool
+Last release: 2011, December, 6th
+* [URL](https://www.ebi.ac.uk/~zerbino/oases/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22368243/)
 
 #### PSGInfer: an isoforms inference and differential analysis tool
 Last release: 2013, October, 25th
@@ -214,10 +276,21 @@ Last release: _not found_. Published in 2013
 * [URL](https://jhui2014.github.io/rseqdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24260225/)
 
+#### Scripture: a transcriptome assembly tool
+Last release:
+* [URL](http://software.broadinstitute.org/software/scripture/home)
+* [PubMed]()
+
 #### SigFuge: a differential isoform expression detection tool
 Last release:_ not found_. Published in 2014.
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
+
+#### SOAPdenovo-trans: a trenariptome assembly tool
+Last release: 2017, August, 23rd
+* [URL](https://sourceforge.net/projects/soapdenovotrans/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
+* [GitHub](https://github.com/aquaskyline/SOAPdenovo-Trans)
 
 #### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
 Last release: 2014, April, 24th
@@ -230,15 +303,37 @@ Last release:_ not found_. Published in 2014
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
 
+#### StringTie: a transcriptome assembly and isoform quantification tool
+Last release: 2021, March, 4th
+* [URL](http://ccb.jhu.edu/software/stringtie/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25690850/)
+
+#### SUPPA: an isoform quantification tool
+Last release: 2018, February, 22nd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26179515/)
+* [GitHub](https://github.com/comprna/SUPPA)
+* [BitBucker](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
+
 #### TIGAR2: an isoform quantification tool from longer RNA-Seq
 Last release: 2015, February, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23821651/)
 * [GitHub](https://github.com/nariai/tigar2)
 
+#### TRANS-Abyss: a transcriptome assembly tool
+Last release: 2018, February, 19th
+* [URL](https://www.bcgsc.ca/resources/software/trans-abyss)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20935650/)
+* [GitHub](https://github.com/bcgsc/transabyss)
+
 #### Traph: an isoform quantification tool
 Last release: 2014, September, 2nd
 * [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734627/)
+
+#### Trinity: a transcriptome assembly tool
+Last release: 2015, January, 24th
+* [URL](https://sourceforge.net/projects/trinityrnaseq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
 
 ### Exon-level
 #### DEXSeq: a differential exon usage tool
@@ -354,7 +449,24 @@ Last release: 2017, June 21st (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
 * [GitHub](https://github.com/yafeng/SpliceVista)
 
+## Network analysis
+### DomainGraph: effect of alternative splicing on domain-domain interactions
+Last release: December, 2018
+* [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+
 ## Other
+### BEERS: RNA-Seq reads with splicing simulation
+Last release: 2015, December, 9th (the last commit)
+* [URL](http://cbil.upenn.edu/BEERS/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
+* [GitHub](https://github.com/itmat/beers_simulator)
+
+### PPLine: a pipeline for SNP calling and gene/isoform quantification
+Last release: 2018, March, 26th
+* [URL](https://sourceforge.net/projects/ppline/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26147802/)
+
 ### PrimerSeq: a tool for RT-PCR primers design that evaluate alternative splicing events
 Last release: 2016, November, 18th
 * [URL](http://primerseq.sourceforge.net/)
