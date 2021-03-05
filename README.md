@@ -6,6 +6,11 @@ Last release: 2011, October, 29th
 * [URL](https://sourceforge.net/projects/bfast/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19907642/)
 
+#### GEM-mapper: a maping tool
+Last release: 2020, September, 25th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23103880/)
+* [GitHub](https://github.com/smarco/gem3-mapper)
+
 #### GSNAP: a splice-aware mapping tool
 Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
@@ -139,6 +144,17 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 
 ### Isoform-level
+#### Alexa-Seq: an isoform qunification and differential isoform expression tool
+Last release: *not found*. Not maintained.
+* [URL](http://www.alexaplatform.org/alexa_seq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20835245/)
+
+#### Augustus: an isoform inference tool
+Last release: 2020, December, 11th
+* [URL](http://bioinf.uni-greifswald.de/augustus/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/16845043/)
+* [GitHub](https://github.com/Gaius-Augustus/Augustus)
+
 #### BitSeq: an isoform quantification and differential isoform expression tool
 Last release: *not found*
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BitSeq.html)
@@ -239,6 +255,16 @@ Last release: 2016, March, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23980025/)
 * [GitHub](https://github.com/ratschlab/MiTie)
 
+#### mtim: an isoform inference tool
+Last release: 2013, April, 18th
+* [arXiv](https://arxiv.org/abs/1309.5211)
+* [GitHub](https://github.com/nicococo/mTIM)
+
+#### NLDMSeq: an isoform quantification tool
+Last release: 2016, June, 27th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26475308/)
+* [GitHub](https://github.com/PUGEA/NLDMseq)
+
 #### NURD: an isoform quantification tool
 Last release: _not found_. Published in 2013.
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/NURD/)
@@ -286,7 +312,13 @@ Last release:_ not found_. Published in 2014.
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
 
-#### SOAPdenovo-trans: a trenariptome assembly tool
+#### SLIDE: an isoform inference and quantification tool
+Last release: 2012, May, 17th
+* [URL](http://www.stat.ucla.edu/~jingyi.li/software-and-data.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22135461/)
+
+
+#### SOAPdenovo-trans: a transcriptome assembly tool
 Last release: 2017, August, 23rd
 * [URL](https://sourceforge.net/projects/soapdenovotrans/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
@@ -334,6 +366,12 @@ Last release: 2014, September, 2nd
 Last release: 2015, January, 24th
 * [URL](https://sourceforge.net/projects/trinityrnaseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
+
+#### Velvet: a transcriptome assembly tool
+Last release: 2018, July, 5th
+* [URL](https://www.ebi.ac.uk/~zerbino/velvet/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/18349386/)
+* [GitHub](https://github.com/dzerbino/velvet/tree/master)
 
 ### Exon-level
 #### DEXSeq: a differential exon usage tool
@@ -444,6 +482,12 @@ Last release: 2013, January, 13th (the last commit)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
 
 ## Proteomics
+### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
+Last release: *not found*
+* [URL](http://openslice.fenyolab.org/cgi-bin/pyquilts_cgi.pl)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26631509/)
+* [GitHub](https://github.com/ekawaler/pyQUILTS/) - on a very early stage
+
 ### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
 Last release: 2017, June 21st (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
@@ -461,6 +505,11 @@ Last release: 2015, December, 9th (the last commit)
 * [URL](http://cbil.upenn.edu/BEERS/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
 * [GitHub](https://github.com/itmat/beers_simulator)
+
+### FSOM: a methylation patterns associated with alternative splicing
+Last release: 2015, September, 3rd
+* [URL](https://sourceforge.net/projects/fsom/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
 
 ### PPLine: a pipeline for SNP calling and gene/isoform quantification
 Last release: 2018, March, 26th
@@ -556,3 +605,8 @@ Last update: _not found_. Published in 2010.
 * [URL 1](http://www.tassdb.info/)
 * [URL 2](http://tassdb2.leibniz-fli.de/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20429909)
+
+### TCGA SpliceSeq: splicing patterns alternation in TCGA
+Last update: *not found*
+* [URL](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
