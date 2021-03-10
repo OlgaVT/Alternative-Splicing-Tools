@@ -105,6 +105,11 @@ Last release: *not found*
 * [URL](http://jinlab.net/GESS_Web/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24369421/)
 
+#### IRFinder: an intron retention identification tool
+Last release: 2020, August, 27th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28298237/)
+* [GitHub](https://github.com/williamritchie/IRFinder)
+
 #### jSplice: a differential splicing detection tool
 Last release: 2017, July, 4th. Not maintained.
 * [URL]()
@@ -120,6 +125,11 @@ Last release: 2020, July, 2nd
 Last release: *not found*
 * [URL](https://majiq.biociphers.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26829591/)
+
+#### Manananggal: a visualization of alternative splicing events
+Last release: 2016, December, 8th (the last commit)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
+* [GitHub](https://github.com/barannm/Manananggal)
 
 ### nagnag: a nagnag splicing prediction tool
 Last release: 2015, August, 4th
@@ -201,6 +211,11 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
 
 ### Isoform-level
+#### AERON: an isoform quantification and gene-fusion detection from long reads
+Last release: 202, November, 23rd (the last commit)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.27.921338v1)
+* [GitHub](https://github.com/SchulzLab/Aeron)
+
 #### Alexa-Seq: an isoform qunification and differential isoform expression tool
 Last release: *not found*. Not maintained.
 * [URL](http://www.alexaplatform.org/alexa_seq/)
@@ -260,6 +275,11 @@ Last release: 2014, April, 1st
 * [URL](https://sourceforge.net/projects/finesplice/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24574529/)
 
+#### GFFView: a RNA-Seq viewer
+Last release: *not found*
+* [URL](http://120.27.116.110/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
+
 #### Integrated Genome Browser: a visual analysis of alternative splicing
 Last release: 2020, December, 3rd 
 * [URL](https://www.bioviz.org/)
@@ -291,6 +311,11 @@ Last release: 2012, November, 17th
 * [URL](http://alumni.cs.ucr.edu/~liw/isolasso.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951053/)
 
+#### IsoSeq de novo: an isoform identification from IsoSeq (Python scripts)
+Last release: 2017, September, 14th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28316149/)
+* [GitHub](https://github.com/liuxiaoxian/IsoSeq_AS_de_novo)
+
 #### ISP: a tool for isoforms inference
 Last release: 2014, October, 15th
 * [URL](http://alumni.cs.ucr.edu/~liw/isp.html)
@@ -302,10 +327,14 @@ Last release:_ not found_. Published in 2014.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25283306/)
 
 #### kallisto: an isoform quantification tool
+sleuth is a differential isoform expression tool after kallisto analysis
+
 Last release: 2020, February, 13th
-* [URL](https://pachterlab.github.io/kallisto/about)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27043002/)
-* [GitHub](https://github.com/pachterlab/kallisto)
+* [URL kallisto](https://pachterlab.github.io/kallisto/about)
+* [URL sleuth](http://pachterlab.github.io/sleuth/about)
+* [PubMed kallisto](https://pubmed.ncbi.nlm.nih.gov/27043002/)
+* [PubMed sleuth](https://pubmed.ncbi.nlm.nih.gov/28581496/)
+* [GitHub kallisto](https://github.com/pachterlab/kallisto)
 
 #### MMSEQ: an isoform quantification tool
 Last release: 2019, November, 11th
@@ -354,6 +383,12 @@ Last release: 2013, October, 14th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24215023/)
 
+#### rnaSPAdes: a transcriptome assembly tool
+Last release: 2021, February
+* [URL](http://cab.spbu.ru/software/rnaspades/)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.24.918482v1)
+* [GitHub](https://github.com/ablab/spades)
+
 #### rDiff: a differential isoform expression detection tool
 Last release: 2020, June, 19th (the last commit)
 * [URL](https://public.bmi.inf.ethz.ch/user/drewe/rdiff/)
@@ -373,6 +408,11 @@ Last release: 2020, February, 14th
 Last release: _not found_. Published in 2013
 * [URL](https://jhui2014.github.io/rseqdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24260225/)
+
+#### rSeqNP: a differential isoform expression detection tool
+Last release: 
+* [URL](https://jhui2014.github.io/rseqnp/)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25717189)
 
 #### SDEAP: a differential isoform expression detection tool for population data
 Last release: 2017, March, 15th (the last commit)
@@ -488,6 +528,12 @@ Last release: 2016, April, 13th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27095197/)
 * [GitHub](https://github.com/iaingallagher/iGEMS_scripts)
 
+#### iTAD: a switch-like exons identification
+Last release: *not found*
+
+Upon request
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542625/)
+
 #### JunctionSeq: a differential exon and junctions usage
 Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27257077/)
@@ -503,10 +549,12 @@ Last release: 2019, May, 17th. No longer maintained.
 * [PubMed sashimi plots](https://pubmed.ncbi.nlm.nih.gov/25617416/)
 * [GitHub](https://github.com/yarden/MISO)
 
-#### Read-Split-Run: a splice junctions detection
+#### Read-Split-Run: a splice junctions detection (base on Read-Split-Walk)
 Last release: 2016, January, 6th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27556805/)
-* [GitHub](https://github.com/xuric/read-split-run)
+* [URL RSW](http://isu.indstate.edu/ybai2/RSW/index.html)
+* [PubMed RSW](https://www.ncbi.nlm.nih.gov/pubmed/24991935/)
+* [PubMed RSR](https://pubmed.ncbi.nlm.nih.gov/27556805/)
+* [GitHub RSR](https://github.com/xuric/read-split-run)
 
 #### SpliceJumper: a splice junctions detection
 Last release: 2015, June, 29th (the last commit)
@@ -544,8 +592,17 @@ Last release: 2013, October, 15th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24363378/)
 * [GitHub](https://github.com/wueric/SplicePlot)
 
+### ulfasQTL: an sQTL detection (based on sQTLseekeR)
+Last release: *not found*
+* [URL](http://bioinfo.au.tsinghua.edu.cn/software/ulfasQTL/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
+
 ## Splice sites prediction and variations analysis
-### EBChangePoint: a splice site prediction
+### CrypSplice: a cryptic splice variations prediction tool
+Last release: 
+* [URL](http://liuzlab.org/software/crypsplice/#hoem)
+
+### EBChangePoint: a splice site prediction tool
 Last release: 2015, May
 * [URL](http://ebchangepoint.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873932/)
@@ -585,6 +642,11 @@ Last release: 1997, January
 * [URL](https://www.fruitfly.org/seq_tools/splice.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/9278062/)
 
+### rPGA: a hidden splicing variations
+Last release: 2016, June, 24th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28766294/)
+* [GitHub](https://github.com/Xinglab/rPGA)
+
 ### SpliceView: a splice site prediction
 Last release:_ not found_
 * [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
@@ -612,6 +674,11 @@ Last release: 2017, June 21st (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
 * [GitHub](https://github.com/yafeng/SpliceVista)
 
+### SPLICIFY: a proteogenomic pipeline for differential splice variant identification
+Last release: 2018, May, 28th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28747380/)
+* [GitHub](https://github.com/NKI-TGO/SPLICIFY)
+
 ## Network analysis
 ### CoSpliceNet: a co-splicing network tool
 Last release: 2017, October, 18th (the last commit)
@@ -625,7 +692,17 @@ Last release: December, 2018
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
 
 ## Single cell data
-### SingleSplice
+### BRIE: an isoform quantification tool
+Last release: 2018, June, 3rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28655331/)
+* [GitHub](https://github.com/huangyh09/brie)
+
+### Expedition: an alternative splicing detection tool
+Last release: 
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28673540/)
+* [GitHub](https://github.com/YeoLab/Expedition)
+
+### SingleSplice: an alternative splicing detection tool
 Last release: 2016, July, 7th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26740580/)
 * [GitHub](https://github.com/jw156605/SingleSplice)
@@ -641,6 +718,16 @@ Last release: 2015, December, 9th (the last commit)
 Last release: 2015, September, 3rd
 * [URL](https://sourceforge.net/projects/fsom/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
+
+### IsoSel: an isoform phylogenetic analysis tool
+Last release: *not found*
+* [URL](http://doua.prabi.fr/software/isosel)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28323858/)
+
+### NMD Classifier: a nonsense mediated decay classifier
+Last release: 2019, April, 11th
+* [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 
 ### PPLine: a pipeline for SNP calling and gene/isoform quantification
 Last release: 2018, March, 26th
@@ -748,3 +835,8 @@ Last update: _not found_. Published in 2010.
 Last update: *not found*
 * [URL](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
+
+### VastDB: a database of alternative splicing profiles
+Last release: 2020, December, 21st
+* [URL](https://vastdb.crg.eu/wiki/Main_Page)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
