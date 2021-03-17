@@ -549,12 +549,14 @@ Last release: 2019, May, 17th. No longer maintained.
 * [PubMed sashimi plots](https://pubmed.ncbi.nlm.nih.gov/25617416/)
 * [GitHub](https://github.com/yarden/MISO)
 
-#### Read-Split-Run: a splice junctions detection (base on Read-Split-Walk)
+#### Read-Splict-Fly: a splice junctions detection (base on Read-Split-Walk and Read-Split-Run)
 Last release: 2016, January, 6th
 * [URL RSW](http://isu.indstate.edu/ybai2/RSW/index.html)
+* [URL RSF](http://bioinf1.indstate.edu:3096/about)
 * [PubMed RSW](https://www.ncbi.nlm.nih.gov/pubmed/24991935/)
 * [PubMed RSR](https://pubmed.ncbi.nlm.nih.gov/27556805/)
 * [GitHub RSR](https://github.com/xuric/read-split-run)
+* [GitHub RSF](https://github.com/kinnejeff/read-split-fly)
 
 #### SpliceJumper: a splice junctions detection
 Last release: 2015, June, 29th (the last commit)
