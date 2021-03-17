@@ -598,6 +598,11 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
 
 ## Splice sites prediction and variations analysis
+### CRYP-SKIP: an effect of exonic mutation
+Laste release: 2008
+* [URL](https://cryp-skip.img.cas.cz/)
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19142208)
+
 ### CrypSplice: a cryptic splice variations prediction tool
 Last release: 
 * [URL](http://liuzlab.org/software/crypsplice/#hoem)
@@ -647,6 +652,16 @@ Last release: 2016, June, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28766294/)
 * [GitHub](https://github.com/Xinglab/rPGA)
 
+### SKIPPY: a tool for detection of exonic variants that modulate splicing
+Last release: 2011, March, 2nd
+* [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20158892)
+
+### Spliceman: a web tool for predition of sequence variations in splicing
+Last release:
+* [URL](http://fairbrother.biomed.brown.edu/spliceman/index.cgi)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22328782/)
+
 ### SpliceView: a splice site prediction
 Last release:_ not found_
 * [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
@@ -657,10 +672,25 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
 
 ## Alternative splicing regulation
+### ESEFinder: a web tool for exon splicing enhancers identification
+Last release: *not found*
+* [URL](http://krainer01.cshl.edu/cgi-bin/tools/ESE3/esefinder.cgi?process=home)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/12824367/)
+
+### ExonScan: a regulatory exonic motifs identitfication (Upon request)
+Last release: *not found*
+* [URL](http://hollywood.mit.edu/burgelab/software.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/15607979/)
+
 ### ExonSuite: a tool for PUF binding regions analysis
 Last release: 2013, January, 13th (the last commit)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23816174/)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
+
+### RBPmap: a tool for mapping binding sites of RNA binding proteins
+Last release: 2021, February
+* [URL](http://rbpmap.technion.ac.il/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24829458/)
 
 ## Proteomics
 ### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
@@ -708,6 +738,11 @@ Last release: 2016, July, 7th (the last commit)
 * [GitHub](https://github.com/jw156605/SingleSplice)
 
 ## Other
+### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
+Last release: 2005, July, 10th
+* [URL](http://hollywood.mit.edu/burgelab/software.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
+
 ### BEERS: RNA-Seq reads with splicing simulation
 Last release: 2015, December, 9th (the last commit)
 * [URL](http://cbil.upenn.edu/BEERS/)
@@ -739,6 +774,11 @@ Last release: 2016, November, 18th
 * [URL](http://primerseq.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24747190/)
 * [GitHub](https://github.com/ctokheim/PrimerSeq)
+
+### UNCOVER: the algorithm for predicting conserved alternatively spliced exons (and retained introns) in orthologous intron pairs (Upon request)
+Last release: *not found*
+* [URL](http://hollywood.mit.edu/burgelab/software.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/16110330/)
 
 ## Databases
 ### AceView: a database of alternative splicing isoforms
@@ -816,6 +856,13 @@ Last update: _not found_. Published in 2008.
 
 * [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
+
+### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
+Last update: 2013, February
+
+Organism: human
+* [URL](http://www.introni.it/splicing.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/19261717/)
 
 ### SpliceAid2: a database of human splicing factors expression data and RNA target motifs
 Last update: 2013 February:	71 splicing factors, 2,339 RNA binding sites
