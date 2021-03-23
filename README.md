@@ -86,9 +86,13 @@ Last release:
 
 #### casper: an alternative splicing event detection tool
 Last release:_ not found_. Published in 2014.
-
 * [Biocondictor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24795787/)
+
+#### DIEGO: a differential alternative splicing tool
+Last release: 2019, December, 3rd
+* [URL](http://www.bioinf.uni-leipzig.de/Software/DIEGO/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29088309/)
 
 #### DSGseq: a differential splicing detection tool
 Last release: 2012, May, 14th
@@ -99,6 +103,11 @@ Last release: 2012, May, 14th
 Last release: *not found* 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27315794/)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/EventPointer.html)
+
+#### FARLINE: a pipeline for alternative splicing event detection
+Last release: *not found*
+* [URL](http://kissplice.prabi.fr/pipeline_ks_farline/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29523794/)
 
 #### GESS: an exon skipping detection tool
 Last release: *not found*
@@ -117,14 +126,18 @@ Last release: 2017, July, 4th. Not maintained.
 * [GitHub](https://github.com/yannchristinat/jsplice)
 
 #### KISSPLICE: an alternative splicing event detection tool
+KISSDE for differential splicing analysis
 Last release: 2020, July, 2nd
-* [URL](http://kissplice.prabi.fr/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22537044/)
+* [URL 1](http://kissplice.prabi.fr/)
+* [URL 2](http://kissplice.prabi.fr/pipeline_ks_farline/)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/22537044/)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/29523794/)
 
 #### MAJIQ: an alternative splicing event detection tool
 Last release: *not found*
 * [URL](https://majiq.biociphers.org/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26829591/)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/26829591/)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/29236961/)
 
 #### Manananggal: a visualization of alternative splicing events
 Last release: 2016, December, 8th (the last commit)
@@ -170,6 +183,12 @@ Last release: 2019, November, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873928/)
 * [GitHub](https://github.com/ratschlab/spladder)
 
+#### SpliceDetector: an alternative splicing event detection tool
+Last release: *not found*
+* [URL Google Drive](https://drive.google.com/open?id=1dlXKzbvxOH3A85_DVR__V2eI5s16-llv)
+* [URL Dropbox](https://www.dropbox.com/s/j5o0og159ig6tej/SpliceDetector%20Executable%20File.rar?dl=0)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29567976/)
+
 #### SplicePie: an order of splicing prediction
 Last release: 2015, February, 20th (the last commit)
 
@@ -212,7 +231,7 @@ Last release:
 
 ### Isoform-level
 #### AERON: an isoform quantification and gene-fusion detection from long reads
-Last release: 202, November, 23rd (the last commit)
+Last release: 2020, November, 23rd (the last commit)
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.27.921338v1)
 * [GitHub](https://github.com/SchulzLab/Aeron)
 
@@ -227,12 +246,22 @@ Last release: 2020, December, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16845043/)
 * [GitHub](https://github.com/Gaius-Augustus/Augustus)
 
+#### BIISQ: an isoform inference tool
+Last release: 2017, March, 19th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29703885/)
+* [GitHub](https://github.com/bee-hive/BIISQ)
+
 #### BitSeq: an isoform quantification and differential isoform expression tool
 Last release: 2019, August, 12th (the last commit cjBitSeq)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BitSeq.html)
 * [PubMed BitSeq](https://pubmed.ncbi.nlm.nih.gov/22563066/)
 * [PubMed cjBitSeq](https://pubmed.ncbi.nlm.nih.gov/29091583/)
 * [GitHub cjBitSeq](https://github.com/mqbssppe/cjBitSeq)
+
+#### CAS-viewer: a visualization tool of cancer alternatively splicing
+Last release: 2017
+* [URL](http://genomics.chpc.utah.edu/cas/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
 
 #### CEM: a transcriptome assmbly and isoform quantification tool
 Last release: 2012, November, 17th
@@ -282,6 +311,11 @@ Last release: 2014, April, 1st
 Last release: *not found*
 * [URL](http://120.27.116.110/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
+
+#### GSReg: a differential isoform expression
+Last release: *not found*
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29342249/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GSReg.html)
 
 #### Integrated Genome Browser: a visual analysis of alternative splicing
 Last release: 2020, December, 3rd 
@@ -455,7 +489,6 @@ Last release: 2014, April, 24th
 
 #### spliceR: a tool for alternative splicing, differential detection and isoform switching
 Last release:_ not found_. Published in 2014
-
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
 
@@ -467,6 +500,7 @@ Last release: 2021, March, 4th
 #### SUPPA: an isoform quantification tool
 Last release: 2018, February, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26179515/)
+* [PubMed SUPPA2](https://pubmed.ncbi.nlm.nih.gov/29571299/)
 * [GitHub](https://github.com/comprna/SUPPA)
 * [BitBucker](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
 
@@ -508,6 +542,11 @@ Last release: 2018, July, 5th
 * [GitHub](https://github.com/dzerbino/velvet/tree/master)
 
 ### Exon-level
+#### ChopStitch: an exon identification and splice graph construction out of transcriptome assembly and WGS
+Last release: 2018, November, 8th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29300846/)
+* [GitHub](https://github.com/bcgsc/ChopStitch)
+
 #### DEXSeq: a differential exon usage tool
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
@@ -522,6 +561,11 @@ Last release: 2015, July, 17th (the last commit)
 #### ExCluster: a differential exon expression tool
 Last release: _not found_. Published in 2020.
 * [BioConductor](https://bioconductor.org/packages/release/bioc/html/ExCluster.html)
+
+#### FreePSI: an exon-inclusion ratio quantification tool
+Last release: 2017, September, 5th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29136203/)
+* [GitHub](https://github.com/JY-Zhou/FreePSI)
 
 #### HMMSplicer: a splice junctions detection
 Last release: 2010, November, 25th
@@ -540,6 +584,11 @@ Last release: 2020, April, 18th
 Last release: 2016, April, 13th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27095197/)
 * [GitHub](https://github.com/iaingallagher/iGEMS_scripts)
+
+#### IntEREst: an intron retention estimation tool
+Last release: *not found*
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IntEREst.html)
 
 #### iTAD: a switch-like exons identification
 Last release: *not found*
@@ -647,6 +696,11 @@ Last release:_ not found_
 ### MaxEntScan: a tool for human 5'splice sites scoring
 Last release:_ not found_
 * [URL](http://hollywood.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq.html)
+
+### MIRA: a tool for mutation identification for RNA Alterations
+Last release: 2018, July, 3rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
+* [GitHub](https://github.com/comprna/MIRA)
 
 ### NetAspGene: a splice site prediction in Aspergillus
 Last release:_ not found_
@@ -803,6 +857,17 @@ Last release: 2016, November, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24747190/)
 * [GitHub](https://github.com/ctokheim/PrimerSeq)
 
+### SEASTAR: an alternative transcription start sites detection tool
+Last release: 2017, October, 26th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29546410/)
+* [GitHub](https://github.com/Xinglab/SEASTAR)
+
+### TraC: a shared between splice variants sequences
+Last release: 2018, May, 24th
+* [URL](http://labs.pathology.jhu.edu/nauen/trac/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29763731/)
+* [GitHub](https://github.com/nauenlab/TraC)
+
 ### UNCOVER: the algorithm for predicting conserved alternatively spliced exons (and retained introns) in orthologous intron pairs (Upon request)
 Last release: *not found*
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
@@ -829,6 +894,13 @@ Last update: 2021
 Organisims: 19 vertebrate and invertebrate genomes
 * [URL](http://appris.bioinfo.cnio.es/#/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
+
+### ASpedia: a database of human alternative splicing
+Last update: 2017, June, 30th
+
+Organisims: human
+* [URL](http://combio.snu.ac.kr/aspedia/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29106599/)
 
 ### ASPicDB: a database of alternative splicing patterns in human genes
 Last update: 2017, May, 4th, 196,446 splicing events	
@@ -910,6 +982,12 @@ Last update: _not found_. Published in 2010.
 Last update: *not found*
 * [URL](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
+
+### TSVdb: TCGA splicing variants database
+Last update: 2020, May, 9th (the last commit)
+* [URL](http://www.tsvdb.com/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29843604/)
+* [GitHub](https://github.com/wenjie1991/TSVdb)
 
 ### VastDB: a database of alternative splicing profiles
 Last release: 2020, December, 21st
