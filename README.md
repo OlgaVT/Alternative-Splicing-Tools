@@ -228,9 +228,11 @@ Last release: 2020, December, 11th
 * [GitHub](https://github.com/Gaius-Augustus/Augustus)
 
 #### BitSeq: an isoform quantification and differential isoform expression tool
-Last release: *not found*
+Last release: 2019, August, 12th (the last commit cjBitSeq)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BitSeq.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22563066/)
+* [PubMed BitSeq](https://pubmed.ncbi.nlm.nih.gov/22563066/)
+* [PubMed cjBitSeq](https://pubmed.ncbi.nlm.nih.gov/29091583/)
+* [GitHub cjBitSeq](https://github.com/mqbssppe/cjBitSeq)
 
 #### CEM: a transcriptome assmbly and isoform quantification tool
 Last release: 2012, November, 17th
@@ -261,9 +263,10 @@ Last release: 2013, January, 1st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
 
 #### DRIMseq: a differential isoform expression detection tool
-Last release: *not found*
+Last release: 2017, December, 20th (the last commit of BayesDRIMSeq)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28105305/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DRIMSeq.html)
+* [GitHub Bayes DRIMSeq](https://github.com/mqbssppe/BayesDRIMSeq)
 
 #### EBseq: a differential isoform expression detection tool
 Last release:_ not found_
@@ -440,6 +443,11 @@ Last release: 2017, August, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
 * [GitHub](https://github.com/aquaskyline/SOAPdenovo-Trans)
 
+#### Sparselso: an isoform identification tool
+Last release: 2017, October, 11th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968634/)
+* [GitHub](https://github.com/henryxushi/SparseIso)
+
 #### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
 Last release: 2014, April, 24th
 * [URL](http://splicegrapher.sourceforge.net/)
@@ -487,6 +495,11 @@ Last release: 2020, September, 9th (the last commit)
 Last release: 2015, January, 24th
 * [URL](https://sourceforge.net/projects/trinityrnaseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
+
+#### TSIS: a time-series isoform switches detection tool
+Last release: 2018, December, 29th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29028262/)
+* [GitHub](https://github.com/wyguo/TSIS)
 
 #### Velvet: a transcriptome assembly tool
 Last release: 2018, July, 5th
@@ -538,6 +551,13 @@ Upon request
 Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27257077/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/JunctionSeq.html)
+
+#### LeafCutter: an intron quantification and differential analysis
+Last release: 2017, September, 26th
+* [URL LeafViz](https://leafcutter.shinyapps.io/leafviz/)
+* [URL](http://davidaknowles.github.io/leafcutter/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229983/)
+* [GitHub](https://github.com/davidaknowles/leafcutter)
 
 #### MISO: a differential isoform expression tool
 The tool also detects differentially regulated exons.
@@ -738,6 +758,12 @@ Last release:
 Last release: 2016, July, 7th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26740580/)
 * [GitHub](https://github.com/jw156605/SingleSplice)
+
+## Long reads
+### SpliceHunter
+Last release: 2017, March, 23rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
+* [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
