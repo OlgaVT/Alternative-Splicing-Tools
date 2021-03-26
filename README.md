@@ -21,6 +21,11 @@ Last release: 2019, February, 8th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30096157/)
 * [GitHub](https://github.com/LiuBioinfo/iMapSplice)
 
+#### Magic-BLAST: an RNA-Seq aligner
+Last release: 2021, March
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31345161/)
+* [GitHub](https://github.com/ncbi/magicblast)
+
 #### MapSplice3: a splice-aware mapping tool
 Last release: 2019, May, 30th (the last commit)
 * [URL](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
@@ -52,6 +57,11 @@ Last release: 2013, May, 24th
 Last release:_ not found_
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
+
+#### SpliceFamAlign: a CDS-to-gene alignment
+Last release: 2018, August, 6th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30925859/)
+* [GitHub](https://github.com/UdeS-CoBIUS/SpliceFamAlign)
 
 #### SpliceMap: a splice-aware mapping tool
 Last release: 2010, October, 23rd
@@ -100,11 +110,21 @@ Last release:
 * [URL](http://ccb.jhu.edu/software/ASprofile/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24555089/)
 
+#### AStrap: an alternative splicing event prediction from transcript sequence
+Last release: 2020, November, 13th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535139/)
+* [GitHub](https://github.com/BMILAB/AStrap)
+
 #### CASH: a differential splicing analysis tool
 Last release: 2018, April, 3rd
 * [URL 1](https://soft.novelbio.com/cash/)
 * [URL 2](https://sourceforge.net/projects/cash-program/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28387786/)
+
+#### CATANA: an alternative splicing annotation
+Last release: 2018, November, 28th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202999/)
+* [GitHub](https://github.com/shiauck/CATANA)
 
 #### casper: an alternative splicing event detection tool
 Last release: *not found*
@@ -116,6 +136,19 @@ Last release: 2018, July, 4th (the last commit)
 * [URL](http://cossmo.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949959/)
 * [GitHub](https://github.com/PSI-Lab/COSSMO)
+
+#### DARTS: an alternative splicing event detection tool
+Last release: 2019, February, 26th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30923373/)
+* [GitHub](https://github.com/Xinglab/DARTS)
+
+#### Deep Splicing Code: an alternative splicing event prediction from sequence
+Last release: 2020, September, 5th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
+* [GitHub](https://github.com/louadi/DSC)
+
+#### DeepDSSR: a donor splice site recognition (a model)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
 
 #### DIEGO: a differential alternative splicing tool
 Last release: 2019, December, 3rd
@@ -177,12 +210,22 @@ Last release: 2016, December, 8th (the last commit)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
 * [GitHub](https://github.com/barannm/Manananggal)
 
-### nagnag: a nagnag splicing prediction tool
+#### nagnag: a nagnag splicing prediction tool
 Last release: 2015, August, 4th
 * [URL](https://sourceforge.net/projects/nagnag/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26028313/)
 
-### PTESFinder: a post-transcriptional exon shuffling
+#### psichomics: an alternative splicing quantification and visualization tool
+Last release: *not found*
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30277515/)
+* [Bioconductor](http://bioconductor.org/packages/release/bioc/html/psichomics.html)
+
+#### PSI-Sigma: a differential splicing detection tool
+Last release: 2021, February, 16th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31135034/)
+* [GitHub](https://github.com/wososa/PSI-Sigma)
+
+#### PTESFinder: a post-transcriptional exon shuffling
 Last release: 2019, September, 4th
 * [URL](https://sourceforge.net/projects/ptesfinder-v1/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26758031/)
@@ -267,6 +310,11 @@ Last release: 2021, March
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30220560/)
 * [GitHub](https://github.com/timbitz/Whippet.jl)
 
+#### Yanagi: a differential alternative splicing tool
+Last release: 2019, November, 27th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31409274/)
+* [GitHub](https://github.com/HCBravoLab/yanagi)
+
 ### Isoform-level
 #### AERON: an isoform quantification and gene-fusion detection from long reads
 Last release: 2020, November, 23rd (the last commit)
@@ -310,6 +358,12 @@ Last release: 2017
 Last release: 2012, November, 17th
 * [URL](http://alumni.cs.ucr.edu/~liw/cem.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23060617/)
+
+#### CIDANE: an isoform quantification and reconstruction tool
+Last release: 2019, February, 12th
+* [URL](http://ccb.jhu.edu/software/cidane/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30539557/)
+* [Bitbucket](https://bitbucket.org/canzar/cidane/src/master/)
 
 #### CLASS2: a transcriptome assembly tool
 Last release: 2017, May, 17th
@@ -380,6 +434,11 @@ Last release: 2017, April, 3rd
 * [URL](https://dna.engr.uconn.edu/?page_id=105)
 * [GitHub](https://github.com/mandricigor/isoem2)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21504602/)
+
+#### IsoformSwitchAnalyzer: an isoform switch detection
+Last release: *not found*
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30989184/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IsoformSwitchAnalyzeR.html)
 
 #### IsoInfer: a tool for isoforms inference
 Last release: 2010, September, 9th
@@ -654,10 +713,8 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IntEREst.html)
 
-#### iTAD: a switch-like exons identification
+#### iTAD: a switch-like exons identification (Upon request)
 Last release: *not found*
-
-Upon request
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542625/)
 
 #### JunctionSeq: a differential exon and junctions usage
@@ -707,6 +764,11 @@ Last release: 2013, May, 17th
 * [URL](http://rulai.cshl.edu/splicetrap/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21896509/)
 
+#### SpliceV: a splicing visualization
+Last release: 2019, September, 27th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
+* [GitHub](https://github.com/flemingtonlab/SpliceV)
+
 #### SplicingGraphs: a splicing graphs creation, visualization and quantification tool
 Last release: 2020, November, 3rd
 * [GitHub](https://github.com/Bioconductor/SplicingGraphs)
@@ -745,6 +807,11 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
 
 ## Splice sites prediction and variations analysis
+### CADD-splice: a a varian effect on alternative splicing
+Last release: *not found*
+* [URL](https://cadd.gs.washington.edu/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33618777/)
+
 ### CRYP-SKIP: an effect of exonic mutation
 Laste release: 2008
 * [URL](https://cryp-skip.img.cas.cz/)
@@ -759,10 +826,20 @@ Last release: 2015, May
 * [URL](http://ebchangepoint.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873932/)
 
+### EX-SKIP: a variant effect prediction on alternative splicing
+Last release: 2010
+* [URL](https://ex-skip.img.cas.cz/)
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21309043)
+
 ### GeneSplicer: a splice site prediction
 Last release:_ not found_
 * [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
+
+### HAL: an effect od variants on alternative splicing
+Last release: *not found*
+* [URL](http://splicing.cs.washington.edu/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26496609/)
 
 ### Human Splicing Finder: a splice site prediction (free limited access)
 Last release:_ not found_
@@ -777,6 +854,12 @@ Last release:_ not found_
 Last release: 2018, July, 3rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
 * [GitHub](https://github.com/comprna/MIRA)
+
+### MMSplice: a tool for prediction of effect of genetic variants on alternative splicing
+Last release: 2021, February, 20th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
+* [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
+* [Kipoi](http://kipoi.org/models/MMSplice/)
 
 ### NetAspGene: a splice site prediction in Aspergillus
 Last release:_ not found_
@@ -799,15 +882,46 @@ Last release: 1997, January
 * [URL](https://www.fruitfly.org/seq_tools/splice.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/9278062/)
 
+### PEPSI: a prediction of PSI value changes due to genetic variants
+Last release: 2019, May, 15th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31074545/)
+* [GitHub](https://github.com/rwang916/PEPSI)
+
+### PredPSI-SVR: a prediction of PSI value changes due to genetic variants
+Last release: 2020, July, 10th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31070294/)
+* [GitHub](https://github.com/chenkenbio/PredPSI-SVR)
+
+### regSNP-intron: a tool which predicts disease-causing probability of human intronic single nucleotide variants (iSNVs)
+Last release: 2019, September, 27th
+* [URL](https://regsnps-intron.ccbb.iupui.edu/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31779641/)
+* [GitHub](https://github.com/yunliu/regsnp_intron)
+
 ### rPGA: a hidden splicing variations
 Last release: 2016, June, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28766294/)
 * [GitHub](https://github.com/Xinglab/rPGA)
 
+### SAVNet: a tool for detection of effect of genetic variants on alternative splicing
+Last release: 2019, May, 18th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31687339/)
+* [GitHub](https://github.com/friend1ws/SAVNet)
+
+### SiLVA: prediction of synonymous (silent) mutations within the human genome
+Last release: 2013, July, 12th
+* [URL](http://compbio.cs.toronto.edu/silva/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23736532/)
+
 ### SKIPPY: a tool for detection of exonic variants that modulate splicing
 Last release: 2011, March, 2nd
 * [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20158892)
+
+### SpliceAI: a tool for detection of effect of genetic variants on alternative splicing
+Last release: 2020, March, 7th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30661751/)
+* [GitHub](https://github.com/Illumina/SpliceAI)
 
 ### Spliceman: a web tool for predition of sequence variations in splicing
 Last release:
@@ -851,11 +965,21 @@ Last release: 2021, February
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24829458/)
 
 ## Proteomics
+### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
+Last release: March, 2021 (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31825849/)
+* [GitHub](https://github.com/ed-lau/jcast)
+
 ### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
 Last release: *not found*
 * [URL](http://openslice.fenyolab.org/cgi-bin/pyquilts_cgi.pl)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26631509/)
 * [GitHub](https://github.com/ekawaler/pyQUILTS/) - on a very early stage
+
+### PASS: an alternative splicing detection from proteome
+Last release: 2019, April, 29th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31095856/)
+* [GitHub](https://github.com/wupengomics/PASS)
 
 ### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
 Last release: 2017, June 21st (the last commit)
@@ -878,6 +1002,11 @@ Last release: 2017, October, 18th (the last commit)
 Last release: December, 2018
 * [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+
+### n1pas: a alternatevely spliced pathway detection
+Last release: 2019, April, 3rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
+* [GitHub](https://github.com/grizant/n1pas/tree/master)
 
 ### PathwaySplice: a pathway analysis for alternative splicing genes
 Last release: *not found*
@@ -906,6 +1035,12 @@ Last release: 2017, March, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
 * [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
+## Isoform Function Prediction
+### DIFFUSE
+Last release: 2020, October, 29th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31510699/)
+* [GitHub](https://github.com/haochenucr/DIFFUSE)
+
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
@@ -927,6 +1062,11 @@ Last release: 2015, September, 3rd
 Last release: *not found*
 * [URL](http://doua.prabi.fr/software/isosel)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28323858/)
+
+### Matt: a down-stream alternative splicing analysis
+Last release: 2019, May, 27th
+* [URL](http://matt.crg.eu/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30010778/)
 
 ### Mirage: multiple sequence isoform alignment
 Last release: 2021, January, 21st
@@ -954,11 +1094,22 @@ Last release: 2017, October, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29546410/)
 * [GitHub](https://github.com/Xinglab/SEASTAR)
 
+### SimSpliceEvol: an alternative splicing-aware simulation of biological sequence evolution
+Last release: 2019, august, 2nd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842741/)
+* [GitHub](https://github.com/UdeS-CoBIUS/SimSpliceEvol)
+
 ### TraC: a shared between splice variants sequences
 Last release: 2018, May, 24th
 * [URL](http://labs.pathology.jhu.edu/nauen/trac/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29763731/)
 * [GitHub](https://github.com/nauenlab/TraC)
+
+### TranscriptAchilles: a transcript-level biomarkers for cancer
+Last release: 2019
+* [URL](https://biotecnun.unav.es/app/TranscriptAchilles)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30942869/)
+* [GitLab](https://gitlab.com/fcarazo.m/transcriptachilles)
 
 ### UNCOVER: the algorithm for predicting conserved alternatively spliced exons (and retained introns) in orthologous intron pairs (Upon request)
 Last release: *not found*
@@ -1000,6 +1151,13 @@ Last update: 2017, May, 4th, 196,446 splicing events
 Organism: human
 * [URL](http://srv00.recas.ba.infn.it/ASPicDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21051348/)
+
+### CancerSplicingQTL: a database of SNPs that affect alternative splicing
+Last update: 2021
+
+Organism: human
+* [URL](http://www.cancersplicingqtl-hust.com/#/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30329095/)
 
 ### DBTSS: a database of transcription start sites
 Last update: 2017, December, 21st
