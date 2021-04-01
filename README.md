@@ -1093,6 +1093,11 @@ Last release: 2017, October, 18th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27793091/)
 * [GitHub](https://github.com/Delasa/co-spliceNet)
 
+### DIGGER: a role of alternative splicing in protein-protein interactions
+Last release: *not found*
+* [URL](https://exbio.wzw.tum.de/digger/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32976589/)
+
 ### DomainGraph: effect of alternative splicing on domain-domain interactions
 Last release: December, 2018
 * [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
@@ -1185,6 +1190,11 @@ Last release: 2020, August, 17th
 Last release: 2005, July, 10th
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
+
+### ASimulatoR: RNA-Seq reads with splicing simulation
+Last release: 2020, December, 16th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33647976/)
+* [GitHub](https://github.com/biomedbigdata/ASimulatoR)
 
 ### ASNEO: a detection of alternative splicing neoantigens
 Last release: 2020, May, 24th
@@ -1435,6 +1445,7 @@ Organisms: human, mouse, rat, chicken
 ### ProSAS: a database of the effects of alternative splicing events on the structure of the resulting protein isoforms.
 Last update: _not found_. Published in 2008.
 
+Organism
 * [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
 
