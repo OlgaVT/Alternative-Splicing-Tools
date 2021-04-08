@@ -135,6 +135,12 @@ Last release: 2021, January, 14th
 * [URL](http://www.altanalyze.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
 
+### ARH-Seq: a differential splicing detection tool
+Last release: 2014
+
+The R code is in the supplementary materials
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24920826/)
+
 #### ASDT: an alternative splicing event detection tool
 Last release: 2018, April, 17th
 * [URL](http://aias.biol.uoa.gr/~mtheo/)
@@ -145,6 +151,12 @@ Last release: 2020, June, 22nd
 * [URL](https://asgal.algolab.eu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30458725/)
 * [GitHub](https://github.com/AlgoLab/galig)
+
+#### ASpli: an alternative splicing event and differential splicing detection tool
+Last release: 2017, February, 25th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33677494/)
+* [GitHub](https://github.com/estepi/ASpli)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/ASpli.html)
 
 #### ASprofile: an alternative splicing event detection tool
 Last release: 
