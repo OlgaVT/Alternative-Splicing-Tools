@@ -661,6 +661,12 @@ Last release:
 * [URL](https://jhui2014.github.io/rseqnp/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25717189)
 
+#### Sailfish: an isoform quantification tool
+Last release: 2016, April, 14th
+* [URL](https://sailfish.readthedocs.io/en/master/sailfish.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24752080/)
+* [GitHub](https://github.com/kingsfordgroup/sailfish)
+
 #### salmon: an isoform quantification tool
 Last release: 2020, November, 26th
 * [URL](https://combine-lab.github.io/salmon/)
