@@ -1,36 +1,67 @@
 # Alternative-Splicing-List
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
+#### BBMap
+Last release: 2021, February, 3rd
+* [URL](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/)
+* [GitHub](https://github.com/BioInfoTools/BBMap)
+
 #### BFAST: a BLAT-like mapping tool
 Last release: 2011, October, 29th
 * [URL](https://sourceforge.net/projects/bfast/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19907642/)
 
-#### GEM-mapper: a maping tool
+#### ContextMap2
+Last release: *not found*
+* [URL](https://www.bio.ifi.lmu.de/software/contextmap/)
+* [PubMed](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0557-5)
+
+#### CRAC
+Last release: 2016, January, 29th
+* [URL](http://crac.gforge.inria.fr/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23537109/)
+
+#### DART
+Last release: 2019, May, 7th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968831/)
+* [GitHub](https://github.com/hsinnan75/Dart)
+
+#### GEM-mapper
 Last release: 2020, September, 25th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23103880/)
 * [GitHub](https://github.com/smarco/gem3-mapper)
 
-#### GSNAP: a splice-aware mapping tool
+#### GSNAP
 Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20147302/)
+
+#### HISAT2
+Last release: 2020, July, 24th
+* [URL](http://daehwankimlab.github.io/hisat2/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31375807/)
+* [GitHub](https://github.com/DaehwanKimLab/hisat2)
 
 #### iMapSplice: a personalized RNA-Seq alignment tool
 Last release: 2019, February, 8th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30096157/)
 * [GitHub](https://github.com/LiuBioinfo/iMapSplice)
 
-#### Magic-BLAST: an RNA-Seq aligner
+#### Magic-BLAST
 Last release: 2021, March
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31345161/)
 * [GitHub](https://github.com/ncbi/magicblast)
 
-#### MapSplice3: a splice-aware mapping tool
+#### MapSplice3
 Last release: 2019, May, 30th (the last commit)
 * [URL](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20802226/)
 * [GitHub](https://github.com/LiuBioinfo/MapSplice)
+
+#### minimap2
+Last release: 2019, May, 5th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29750242/)
+* [GitHub](https://github.com/lh3/minimap2)
 
 #### PALMapper: a splice-aware mapping tool
 Last release: 2013, July, 2013
@@ -52,6 +83,11 @@ Last release: 2015, January, 27th
 Last release: 2013, May, 24th
 * [URL](https://www.webscipio.org/webscipio/download_scipio)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
+
+#### segemehl
+Last release: 2018, December, 25th
+* [URL](https://www.bioinf.uni-leipzig.de/Software/segemehl/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24626854/)
 
 #### SeqSaw: a splice-aware mapping tool
 Last release:_ not found_
