@@ -5,6 +5,7 @@ A list of alternative splicing analysis resources
 Last release: 2021, February, 3rd
 * [URL](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/)
 * [GitHub](https://github.com/BioInfoTools/BBMap)
+* [Paper](http://bib.irb.hr/datoteka/773708.Josip_Maric_diplomski.pdf)
 
 #### BFAST: a BLAT-like mapping tool
 Last release: 2011, October, 29th
