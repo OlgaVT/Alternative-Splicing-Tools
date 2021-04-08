@@ -1,4 +1,4 @@
-# Alternative-Splicing-List
+# Alternative Splicing Tools
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
 #### BBMap
