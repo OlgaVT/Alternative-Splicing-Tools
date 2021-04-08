@@ -661,6 +661,12 @@ Last release:
 * [URL](https://jhui2014.github.io/rseqnp/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25717189)
 
+#### salmon: an isoform quantification tool
+Last release: 2020, November, 26th
+* [URL](https://combine-lab.github.io/salmon/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28263959/)
+* [GitHub](https://github.com/COMBINE-lab/salmon)
+
 #### SDEAP: a differential isoform expression detection tool for population data
 Last release: 2017, March, 15th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27522083/)
