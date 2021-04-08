@@ -307,6 +307,11 @@ Last release: 2017, May, 24th
 * [URL](http://rssf.i2bc.paris-saclay.fr/Software/rnaprof.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26849165/)
 
+#### SAJR: a differential splicing tool
+Last release: *not found*
+* [URL](http://storage.bioinf.fbb.msu.ru/~mazin/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23340839/)
+
 #### SeqGSEA: a gene set enrichment analysis with differential expression and splicing
 Last release: 2018, December, 12th (the last commit)
 
