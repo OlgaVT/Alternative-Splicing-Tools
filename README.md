@@ -27,11 +27,6 @@ Last release: 2019, May, 7th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968831/)
 * [GitHub](https://github.com/hsinnan75/Dart)
 
-#### GEM-mapper
-Last release: 2020, September, 25th (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23103880/)
-* [GitHub](https://github.com/smarco/gem3-mapper)
-
 #### GSNAP
 Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
