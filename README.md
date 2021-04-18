@@ -87,7 +87,7 @@ Last release: 2018, December, 25th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24626854/)
 
 #### SeqSaw: a splice-aware mapping tool
-Last release:_ not found_
+Last release: 2011, August, 10th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
 
