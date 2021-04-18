@@ -68,6 +68,7 @@ Last release: 2013, July, 2013
 Last release: 
 * [URL](http://rail.bio/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27592709/)
+* [GitHub](https://github.com/nellore/rail/releases)
 
 #### RUM: a splice-aware mapping tool
 Last release: 2015, January, 27th
