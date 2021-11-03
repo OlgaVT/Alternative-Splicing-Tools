@@ -587,6 +587,11 @@ Last release: 2016, March, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23980025/)
 * [GitHub](https://github.com/ratschlab/MiTie)
 
+#### MINTIE
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34686194/)
+* [GitHub] (https://github.com/Oshlack/MINTIE)
+
 #### mtim: an isoform inference tool
 Last release: 2013, April, 18th
 * [arXiv](https://arxiv.org/abs/1309.5211)
