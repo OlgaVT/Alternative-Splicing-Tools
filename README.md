@@ -434,6 +434,12 @@ Last release: 2019, August, 12th (the last commit cjBitSeq)
 * [PubMed cjBitSeq](https://pubmed.ncbi.nlm.nih.gov/29091583/)
 * [GitHub cjBitSeq](https://github.com/mqbssppe/cjBitSeq)
 
+#### Cancer DEIso: a differential gene and isoform expression in cancer
+Laste release:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34589189/)
+* [URL] (http://cosbi4.ee.ncku.edu.tw/DEIso/)
+
 #### CAS-viewer: a visualization tool of cancer alternatively splicing
 Last release: 2017
 * [URL](http://genomics.chpc.utah.edu/cas/)
@@ -743,6 +749,11 @@ Last release: 2014, April, 24th
 Last release:_ not found_. Published in 2014
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
+
+### SplicingFactory: an isoform diversity
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34499147/)
+* [Bioconductor] https://www.bioconductor.org/packages/release/bioc/html/SplicingFactory.html
 
 #### StringTie: a transcriptome assembly and isoform quantification tool
 Last release: 2021, March, 4th
@@ -1308,6 +1319,11 @@ Last release: 2020, August, 17th
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
 
+### SRCP
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34556162/)
+* [GitHub] (https://github.com/avigayel/SRCP)
+
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
@@ -1329,6 +1345,11 @@ Last release: 2015, December, 9th (the last commit)
 * [URL](http://cbil.upenn.edu/BEERS/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
 * [GitHub](https://github.com/itmat/beers_simulator)
+
+### CAMPAREE: an RNA expression simulator
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34563123/)
+* [GitHub] (https://github.com/itmat/CAMPAREE)
 
 #### Enhanced Integrated Gradients: a method to identify specific features
 Last release: 2020, June, 30th
@@ -1451,6 +1472,11 @@ Organisims: 19 vertebrate and invertebrate genomes
 * [URL](http://appris.bioinfo.cnio.es/#/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
 
+### ASCOT
+Last update
+* [URL] (http://ascot.cs.jhu.edu/)
+* [GitHub] (https://github.com/jpling/ascot)
+
 ### ASlive: a database for alternative splicing in livestock animals
 Last update: 2019, June, 25th
 
@@ -1541,6 +1567,11 @@ Last update: 2021, February, 8th
 Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
+
+### OncoSplicing
+Last update:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34554251/)
+* [URL] (http://www.oncosplicing.com/)
 
 ### oRNAment: a database of putative RNA binding protein target sites in the transcriptomes of model species
 Last update:
