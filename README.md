@@ -1288,6 +1288,10 @@ Last release: 2020, August, 17th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28265491/)
 * [GitHub](https://github.com/dieterich-lab/FUCHS)
 
+### psirc
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
+
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
