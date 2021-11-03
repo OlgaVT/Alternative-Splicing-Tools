@@ -1271,6 +1271,12 @@ Last release: 2020, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32007626/)
 * [GitHub](https://github.com/xiaofengsong/CircAST)
 
+## Circall
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34645386/)
+* [GitHub] (https://github.com/datngu/Circall)
+* [URL] (https://www.meb.ki.se/sites/biostatwiki/circall)
+
 ### CirComPara2
 Last release:
 * [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34698333/)
