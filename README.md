@@ -1244,6 +1244,11 @@ Last release: 2020, May, 4th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32188845/)
 * [GitHub](https://github.com/BrooksLabUCSC/flair)
 
+### FLAME: a bioinformatics pipeline for alternative splicing analysis of gene-specific or transcriptome-wide long-read sequencing data
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34253685/)
+* [GitHub] (https://github.com/marabouboy/FLAME)
+
 ### scallop-LR: a transcritome assembler
 Last release: 2020, May, 22nd
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
@@ -1526,6 +1531,11 @@ Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
 
+### oRNAment: a database of putative RNA binding protein target sites in the transcriptomes of model species
+Last update:
+* [URL] (http://rnabiology.ircm.qc.ca/oRNAment/)
+* [Pubmed] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145663/)
+
 ### Pan-cancer repository of validated natural and cryptic mRNA splicing mutations
 Last update: *not found*
 
@@ -1559,6 +1569,11 @@ Last update: _not found_. Published in 2008.
 Organism
 * [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
+
+### RBPDB
+Last update: 
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/21036867/)
+* [URL] (http://rbpdb.ccbr.utoronto.ca/)
 
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
 Last update: 2013, February
