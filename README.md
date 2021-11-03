@@ -982,8 +982,13 @@ Last release: *not found*
 
 ### Human Splicing Finder: a splice site prediction (free limited access)
 Last release:_ not found_
-* [URL](https://www.genomnis.com/access-hsf)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19339519/)
+* [URL](https://www.genomnis.com/access-hsf)
+
+### KipoiSplice
+Laste release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/31138913/)
+* [URL] (https://kipoi.org/)
 
 ### MaxEntScan: a tool for human 5'splice sites scoring
 Last release:_ not found_
@@ -1047,6 +1052,12 @@ Last release: 2019, May, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31687339/)
 * [GitHub](https://github.com/friend1ws/SAVNet)
 
+### S-CAP
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/30804562/)
+* [URL] (http://bejerano.stanford.edu/scap/)
+* [Bitbucket] (https://bitbucket.org/bejerano/splicing_classifier/)
+
 ### SiLVA: prediction of synonymous (silent) mutations within the human genome
 Last release: 2013, July, 12th
 * [URL](http://compbio.cs.toronto.edu/silva/)
@@ -1054,8 +1065,13 @@ Last release: 2013, July, 12th
 
 ### SKIPPY: a tool for detection of exonic variants that modulate splicing
 Last release: 2011, March, 2nd
-* [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20158892)
+* * [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
+
+### SPIDEX
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/25525159/)
+* [URL] (http://www.openbioinformatics.org/annovar/spidex_download_form.php)
 
 ### SpliceAI: a tool for detection of effect of genetic variants on alternative splicing
 Last release: 2020, March, 7th
@@ -1075,6 +1091,11 @@ Last release: *not found*
 Last release: 
 * [URL](http://tools.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
+
+### TraP: transcript inferred pathogenecity score
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/28794409/)
+* [URL] (http://trap-score.org/)
 
 ## Alternative splicing regulation
 ### BPP: a branch point prediction
