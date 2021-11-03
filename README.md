@@ -1223,12 +1223,16 @@ Last release: 2020, October, 29th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31510699/)
 * [GitHub](https://github.com/haochenucr/DIFFUSE)
 
-## Circular RNAs
 
 ### CircAST
 Last release: 2020, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32007626/)
 * [GitHub](https://github.com/xiaofengsong/CircAST)
+
+### CirComPara2
+Last release:
+* [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34698333/)
+* [GitHub] (https://github.com/egaffo/CirComPara2)
 
 ### CircSplice
 Last release: 2019, February, 27th
