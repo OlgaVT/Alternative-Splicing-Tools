@@ -576,6 +576,11 @@ Last release: 2020, February, 13th
 * [PubMed sleuth](https://pubmed.ncbi.nlm.nih.gov/28581496/)
 * [GitHub kallisto](https://github.com/pachterlab/kallisto)
 
+### metaDIEA: a differential isoform expression analysis
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34698224/)
+* [GitHub] (https://github.com/BiodataAnalysisGroup/metaDIEA)
+
 #### MMSEQ: an isoform quantification tool
 Last release: 2019, November, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
