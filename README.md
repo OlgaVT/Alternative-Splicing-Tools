@@ -1571,3 +1571,8 @@ Last update: 2020, May, 9th (the last commit)
 Last release: 2020, December, 21st
 * [URL](https://vastdb.crg.eu/wiki/Main_Page)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
+
+## Benchmark studies
+
+### Splice variants
+* [Pubmed] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
