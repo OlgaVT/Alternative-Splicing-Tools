@@ -422,6 +422,11 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32178699/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BANDITS.html)
 
+#### BayesDenovo: a transcriptome assembley
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
+* [GitHub] (https://github.com/henryxushi/BayesDenovo)
+
 #### BIISQ: an isoform inference tool
 Last release: 2017, March, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29703885/)
@@ -1108,6 +1113,10 @@ Last release:
 * [URL](http://tools.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
 
+### SQUIRLS: a tool that detects changes in splicing regulatory sequences
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34289339/)
+
 ### TraP: transcript inferred pathogenecity score
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/28794409/)
@@ -1518,6 +1527,18 @@ Last update: 2017, December, 21st
 Organism: human
 * [URL](https://dbtss.hgc.jp/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/29126224)
+
+### eQTL Catalogue: a database of eQTL and sQTL
+Last update:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34493866/)
+* [URL] (https://www.ebi.ac.uk/eqtl/)
+
+### ExonSkipAD: exon skipping in Alzheimer's disease
+Last update:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33497435/)
+* [URL] (https://ccsm.uth.edu/ExonSkipAD/)
 
 ### ExonSkipDB: a functional characterization of skipped exons
 Last update: *not found*
