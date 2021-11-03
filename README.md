@@ -496,6 +496,12 @@ Last release: 2017, December, 20th (the last commit of BayesDRIMSeq)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DRIMSeq.html)
 * [GitHub Bayes DRIMSeq](https://github.com/mqbssppe/BayesDRIMSeq)
 
+#### DTUrtle: a differential transcript usage for bulk and single-cell RNA-Seq
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34469510/)
+* [Github 1] (https://github.com/TobiTekath/DTUrtle)
+* [GitHub 2] (https://tobitekath.github.io/DTUrtle/)
+
 #### EBseq: a differential isoform expression detection tool
 Last release:_ not found_
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23428641/)
@@ -941,6 +947,12 @@ Last release: 2018, June, 22th
 * [GitHub](https://github.com/zavolanlab/TECtool)
 
 ## sQTL analysis
+### FIVEx: a eQTL and sQTL browser
+Last release:
+* [URL] (https://fivex.sph.umich.edu)
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34459872/)
+* [Github] (https://github.com/statgen/fivex)
+
 ### GLiMMPS: an sQTL detection
 Last release: 2013, March, 12th
 * [GutHub](https://github.com/Xinglab/GLiMMPS)
@@ -1240,8 +1252,10 @@ Last release: *not found*
 ## Single cell data
 ### BRIE: an isoform quantification tool
 Last release: 2018, June, 3rd
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28655331/)
+* [PubMed BRIE](https://pubmed.ncbi.nlm.nih.gov/28655331/)
+* [Pubmed BRIE2] (https://pubmed.ncbi.nlm.nih.gov/34452629/)
 * [GitHub](https://github.com/huangyh09/brie)
+* [Pypi] (https://pypi.org/project/brie/)
 
 ### Expedition: an alternative splicing detection tool
 Last release: 
@@ -1360,15 +1374,19 @@ Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34563123/)
 * [GitHub] (https://github.com/itmat/CAMPAREE)
 
-#### Enhanced Integrated Gradients: a method to identify specific features
+### Enhanced Integrated Gradients: a method to identify specific features
 Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
 * [Bitbucket](https://bitbucket.org/biociphers/eig/src/master/)
 
-#### ESPRNN: epigenome-based splicing prediction
+### ESPRNN: epigenome-based splicing prediction
 Last release: 2020, February, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32584815/)
 * [GitHub](https://github.com/gersteinlab/esprnn)
+
+### ExOrthist: an exon evolution
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34416914/)
+* [Github] (https://github.com/biocorecrg/ExOrthist)
 
 ### FSOM: a methylation patterns associated with alternative splicing
 Last release: 2015, September, 3rd
@@ -1506,6 +1524,12 @@ Last update: 2017, May, 4th, 196,446 splicing events
 Organism: human
 * [URL](http://srv00.recas.ba.infn.it/ASPicDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21051348/)
+
+### ASPN: a splicing-derived neoepitopes database
+Last update:
+
+* [URL] (http://jianglab.org.cn/ASPN/)
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34285345/)
 
 ### CancerSplicingQTL: a database of SNPs that affect alternative splicing
 Last update: 2021
