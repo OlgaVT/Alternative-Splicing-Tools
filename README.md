@@ -1320,6 +1320,10 @@ Last release: *not found*
 * [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
 
+### PIC-Me: a classification model between paralogs and isoforms
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
+
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
