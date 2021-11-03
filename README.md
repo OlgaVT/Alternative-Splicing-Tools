@@ -456,6 +456,12 @@ Last release: 2017, May, 17th
 * [PubMed CLASS](https://pubmed.ncbi.nlm.nih.gov/23734605/)
 * [PubMed CLASS2](https://pubmed.ncbi.nlm.nih.gov/26975657/)
 
+#### ConSemble: a tool for trascriptome assembly improvement
+Last release:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674629/)
+* [URL] (http://bioinfolab.unl.edu/emlab/consemble/ )
+ 
 #### Cufflinks: a suite of tools for an isoform quantification and differential isoform expression tool
 * Cufflinks assembles transcriptomes from RNA-Seq data and quantifies their expression.
 * Cuffcompare compares the assembled transcriptomes
@@ -1080,6 +1086,11 @@ Last release: 2017, May, 22nd (the last commit)
 Last release: *not found*
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/094003v1)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/branchpointer.html)
+
+### dsRBPBind: the effect of RNA secondary structure on double stranded RNA-protein binding
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34668517/)
+* [URL] http://bioserv.mps.ohio-state.edu/dsRBPBind
 
 ### dSreg: a differential splicing and regulation prediction
 Last release: 2019 August 7th
