@@ -1195,6 +1195,11 @@ Last release: 2016
 * [URL](http://regulatorygenomics.upf.edu/Software/SVM_BP/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21124863/)
 
+### WDFSMF: an RNA-AS target prediction
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34410342/)
+* [Github] (https://github.com/yushanqiu/WDFSMF)
+
 ## Proteomics
 ### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
 Last release: March, 2021 (the last commit)
@@ -1498,6 +1503,12 @@ Last update: 2021
 Organisims: 19 vertebrate and invertebrate genomes
 * [URL](http://appris.bioinfo.cnio.es/#/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
+
+### Arabidopsis PeptideAtlas
+Last update
+
+* [URL] (www.peptideatlas.org/builds/arabidopsis/)
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34411258/)
 
 ### ASCOT
 Last update
