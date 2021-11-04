@@ -1262,10 +1262,21 @@ Last release: 2018, June, 3rd
 * [GitHub](https://github.com/huangyh09/brie)
 * [Pypi] (https://pypi.org/project/brie/)
 
+#### DTUrtle: a differential transcript usage for bulk and single-cell RNA-Seq
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34469510/)
+* [Github 1] (https://github.com/TobiTekath/DTUrtle)
+* [GitHub 2] (https://tobitekath.github.io/DTUrtle/)
+
 ### Expedition: an alternative splicing detection tool
 Last release: 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28673540/)
 * [GitHub](https://github.com/YeoLab/Expedition)
+
+### SICILIAN: splice junctions identfication in bulk and single RNA-Seq
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34353340/)
+* [GitHub] (https://github.com/salzmanlab/SICILIAN)
 
 ### SingleSplice: an alternative splicing detection tool
 Last release: 2016, July, 7th (the last commit)
