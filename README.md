@@ -794,6 +794,11 @@ Last release: 2018, February, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20935650/)
 * [GitHub](https://github.com/bcgsc/transabyss)
 
+#### TransRef: a transcriptome assembly
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34254977/)
+* [Sourceforge] (https://sourceforge.net/projects/transassembly/files/)
+
 #### Traph: an isoform quantification tool
 Last release: 2014, September, 2nd
 * [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
@@ -906,7 +911,7 @@ Last release: 2018, March, 19th
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302956/)
 * [GitHub](https://github.com/TGAC/portcullis)
 
-#### Read-Splict-Fly: a splice junctions detection (base on Read-Split-Walk and Read-Split-Run)
+#### Read-Split-Fly: a splice junctions detection (base on Read-Split-Walk and Read-Split-Run)
 Last release: 2016, January, 6th
 * [URL RSW](http://isu.indstate.edu/ybai2/RSW/index.html)
 * [URL RSF](http://bioinf1.indstate.edu:3096/about)
@@ -924,6 +929,11 @@ Last release: 2015, June, 29th (the last commit)
 Last release: 2021, February, 15th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31617569/)
 * [GitHub](https://github.com/raphaelleman/SpliceLauncher)
+
+#### SPLICE-q: an intron splicing efficiency
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266387/)
+* [GitHub] (https://github.com/vrmelo/SPLICE-q)
 
 #### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
 Last release: 2013, May, 17th
@@ -1018,6 +1028,11 @@ Last release:_ not found_
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19339519/)
 * [URL](https://www.genomnis.com/access-hsf)
 
+### IntSplice2
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34349788/)
+* [URL] (https://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice2)
+
 ### KipoiSplice
 Laste release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/31138913/)
@@ -1037,6 +1052,11 @@ Last release: 2021, February, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 * [Kipoi](http://kipoi.org/models/MMSplice/)
+
+### MutationTaster2021
+Laste release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33893808/)
+* [URL] (https://www.genecascade.org/MutationTaster2021/)
 
 ### NetAspGene: a splice site prediction in Aspergillus
 Last release:_ not found_
@@ -1119,6 +1139,11 @@ Last release:
 ### SpliceView: a splice site prediction
 Last release: *not found*
 * [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
+
+### SpliceViNCI: a non-canonical splice sites prediction
+Laste release:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34088258/)
 
 ### SPANR: a splicing-based analysis of SNVs
 Last release: 
@@ -1314,23 +1339,54 @@ Last release: 2017, March, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
 * [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
+### uLTRA
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
+* [GitHub] (https://github.com/ksahlin/ultra)
+
 ## Isoform Function Prediction
+
+### DeepIsoFun
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/30535380/)
+* [GitHub] (https://github.com/dls03/DeepIsoFun/)
+
 ### DIFFUSE
 Last release: 2020, October, 29th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31510699/)
 * [GitHub](https://github.com/haochenucr/DIFFUSE)
 
+### DMIL-IsoFun
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34282449/)
+* [URL] (http://www.sdu-idea.cn/codes.php?name=DMIL-Isofun)
 
+### IsoDA: an isoform-disease association prediction
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33826865/)
+* [URL] (http://mlda.swu.edu.cn/codes.php?name=IsoDA)
+
+### NMD Classifier: a nonsense mediated decay classifier
+Last release: 2019, April, 11th
+* [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
+
+## Circular RNA
 ### CircAST
 Last release: 2020, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32007626/)
 * [GitHub](https://github.com/xiaofengsong/CircAST)
 
-## Circall
+### Circall
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34645386/)
 * [GitHub] (https://github.com/datngu/Circall)
 * [URL] (https://www.meb.ki.se/sites/biostatwiki/circall)
+
+### CircIMPACT
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34356060/)
+* [Github] (https://github.com/AFBuratin/circIMPACT)
 
 ### CirComPara2
 Last release:
@@ -1353,6 +1409,10 @@ Last release: 2021, March, 15th
 Last release: 2020, August, 17th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28265491/)
 * [GitHub](https://github.com/dieterich-lab/FUCHS)
+
+### JEDI
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34252942/)
+* [Github] (https://github.com/hallogameboy/JEDI)
 
 ### psirc
 Last release
@@ -1395,6 +1455,11 @@ Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
 * [Bitbucket](https://bitbucket.org/biociphers/eig/src/master/)
 
+### eSkip-Finder: a machine learning-based web application and database to identify the optimal sequences of antisense oligonucleotides for exon skipping
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34104972/)
+* [URL] (https://eskip-finder.org)
+
 ### ESPRNN: epigenome-based splicing prediction
 Last release: 2020, February, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32584815/)
@@ -1423,11 +1488,6 @@ Last release: 2019, May, 27th
 Last release: 2021, January, 21st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31080963/)
 * [GitHub](https://github.com/TravisWheelerLab/Mirage)
-
-### NMD Classifier: a nonsense mediated decay classifier
-Last release: 2019, April, 11th
-* [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 
 ### OneStopRNAseq: a pipeline for RNA-Seq analysis
 Includes rMATS and DEXSeq
@@ -1470,6 +1530,10 @@ Last release: 2019, august, 2nd
 Last release: 2020, July, 6th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32926128/)
 * [GitHub](https://github.com/AlgoLab/shark)
+
+### ThorAxe: an evolutionary splicing graphs construction
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266979/)
 
 ### TraC: a shared between splice variants sequences
 Last release: 2018, May, 24th
@@ -1652,6 +1716,12 @@ Organism: human
 * [URL](https://validsplicemut.cytognomix.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31275557/)
 
+### PID: Plant Intron Database
+Last update
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34111777/)
+* [URL] (http://biodb.sdau.edu.cn/PID/index.php)
+
 ### Plant Alternative Splicing Database
 Last update: 2019
 
@@ -1721,7 +1791,14 @@ Last release: 2020, December, 21st
 * [URL](https://vastdb.crg.eu/wiki/Main_Page)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
 
+## Visualization
+### DoChaP: a domain-splicing visualization
+Laste release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33988713/)
+* [URL] (https://dochap.bgu.ac.il/)
+
 ## Benchmark studies
 
 ### Splice variants
-* [Pubmed] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
+* [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
+* [Benchmarking deep learning splice prediction tools using functional splice assays] (https://pubmed.ncbi.nlm.nih.gov/33942434/)
