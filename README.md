@@ -375,6 +375,10 @@ Last release: 2015, July, 31st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25720307/)
 * [URL](https://sourceforge.net/projects/splicingtypes/files/)
 
+#### SpliSER: a splice site strength quantification
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34017946/)
+* [Github] (https://github.com/CraigIDent/SpliSER)
+
 #### SUVA
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34152934/)
@@ -885,6 +889,10 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IntEREst.html)
 
+#### Intron-Essentiality
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33906938/)
+* [GitHub] (https://github.com/evendrow/Intron-Essentiality/)
+
 #### iTAD: a switch-like exons identification (Upon request)
 Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542625/)
@@ -1381,6 +1389,10 @@ Last release:
 Last release: 2019, April, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 * [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+
+### TRIFID
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34046593/)
+* [Bitbucket] (https://gitlab.com/bu_cnio/trifid)
 
 ### TS-Isofun: a tissue-specific isoform function prediction
 Last release
