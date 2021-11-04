@@ -37,6 +37,7 @@ Last release: 2020, July, 24th
 * [URL](http://daehwankimlab.github.io/hisat2/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31375807/)
 * [GitHub](https://github.com/DaehwanKimLab/hisat2)
+* [Pubmed HISAT-3N] (https://pubmed.ncbi.nlm.nih.gov/34103331/)
 
 #### iMapSplice: a personalized RNA-Seq alignment tool
 Last release: 2019, February, 8th
@@ -371,8 +372,13 @@ Last release: 2019, October, 24th (the last commit)
 
 #### SplicingTypesAnno: a alternative splicing event detection tool
 Last release: 2015, July, 31st
-* [URL](https://sourceforge.net/projects/splicingtypes/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25720307/)
+* [URL](https://sourceforge.net/projects/splicingtypes/files/)
+
+#### SUVA
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34152934/)
+* [Github] (https://github.com/ablifedev/SUVA)
 
 #### Vials: a visualization of alternative splicing tool
 Last release: 2017, February, 7th
@@ -1329,6 +1335,11 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34253685/)
 * [GitHub] (https://github.com/marabouboy/FLAME)
 
+### LIQA
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
+* [Github] (https://github.com/WGLab/LIQA)
+
 ### scallop-LR: a transcritome assembler
 Last release: 2020, May, 22nd
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
@@ -1368,10 +1379,19 @@ Last release:
 
 ### NMD Classifier: a nonsense mediated decay classifier
 Last release: 2019, April, 11th
-* [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
+* [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+
+### TS-Isofun: a tissue-specific isoform function prediction
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34185647/)
 
 ## Circular RNA
+### AQUARIUM
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34115093/)
+* [Github] (https://github.com/wanjun-group-seu/AQUARIUM)
+
 ### CircAST
 Last release: 2020, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32007626/)
@@ -1404,6 +1424,10 @@ Last release: 2021, March, 15th
 * [URL](https://sourceforge.net/projects/ciri/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27350239/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30660194/)
+
+### DMC-CDA
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34103016/)
+* [Github] (https://github.com/zzl1996zzl/DMC-CDA)
 
 ### FUCHS
 Last release: 2020, August, 17th
@@ -1489,6 +1513,10 @@ Last release: 2021, January, 21st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31080963/)
 * [GitHub](https://github.com/TravisWheelerLab/Mirage)
 
+### MOCCASIN: a correction for confounders
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34099673/)
+* [Bitbucket] (https://bitbucket.org/biociphers/moccasin/src/master/)
+
 ### OneStopRNAseq: a pipeline for RNA-Seq analysis
 Includes rMATS and DEXSeq
 
@@ -1499,6 +1527,11 @@ Last release: *not found*
 ### PIC-Me: a classification model between paralogs and isoforms
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
+
+### Reboot:
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34316711/)
+* [URL] (https://galantelab.github.io/reboot/)
 
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
@@ -1780,6 +1813,11 @@ Last update: *not found*
 * [URL](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
 
+### TeaAS: a database of alternative splicing in tea plants
+Last update
+* [URL] (http://www.teaas.cn/index.php)
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34154536/)
+
 ### TSVdb: TCGA splicing variants database
 Last update: 2020, May, 9th (the last commit)
 * [URL](http://www.tsvdb.com/)
@@ -1802,3 +1840,6 @@ Laste release:
 ### Splice variants
 * [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
 * [Benchmarking deep learning splice prediction tools using functional splice assays] (https://pubmed.ncbi.nlm.nih.gov/33942434/)
+
+### Splicing
+* [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers] (https://pubmed.ncbi.nlm.nih.gov/34174808/)
