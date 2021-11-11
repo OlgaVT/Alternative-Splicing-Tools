@@ -252,6 +252,11 @@ Last release: 2020, August, 27th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28298237/)
 * [GitHub](https://github.com/williamritchie/IRFinder)
 
+#### IsoSplitter
+Last release:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021065/)
+* [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
+
 #### jSplice: a differential splicing detection tool
 Last release: 2017, July, 4th. Not maintained.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27153587/)
@@ -532,6 +537,11 @@ Last release: *not found*
 * [URL](http://120.27.116.110/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
 
+#### Graph Salmon: a transcript abundance quantification
+Last release:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33971903/)
+* [GitHub](https://github.com/Kingsford-Group/subgraphquant)
+
 #### GSReg: a differential isoform expression
 Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29342249/)
@@ -634,6 +644,11 @@ Last release:
 Last release: 2013, April, 18th
 * [arXiv](https://arxiv.org/abs/1309.5211)
 * [GitHub](https://github.com/nicococo/mTIM)
+
+#### MultiTrans: a transcriptome assembly
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34033544/)
+* [GitHub] (https://github.com/jzbio/MultiTrans)
 
 #### NBSplice: a differential isoform usage
 Last release: *not found*
@@ -1067,6 +1082,11 @@ Last release: 2021, February, 20th
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 * [Kipoi](http://kipoi.org/models/MMSplice/)
 
+### ModCon: a splice site usage modification tool
+Last release: 
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34136105/)
+* [GitHub](https://github.com/caggtaagtat/ModCon)
+
 ### MutationTaster2021
 Laste release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33893808/)
@@ -1451,13 +1471,18 @@ Last release: 2020, August, 17th
 * [Github] (https://github.com/hallogameboy/JEDI)
 
 ### psirc
-Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
 
 ### SRCP
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34556162/)
 * [GitHub] (https://github.com/avigayel/SRCP)
+
+## Aberrant Splicing
+### Bisbee
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34031440/)
+* [GitHub] (https://github.com/tgen/bisbee)
 
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
@@ -1502,8 +1527,12 @@ Last release: 2020, February, 11th
 * [GitHub](https://github.com/gersteinlab/esprnn)
 
 ### ExOrthist: an exon evolution
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34416914/)
-* [Github] (https://github.com/biocorecrg/ExOrthist)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34416914/)
+* [Github](https://github.com/biocorecrg/ExOrthist)
+
+### ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34014317/)
+* [GitHub](https://github.com/ay-lab/ExTraMapper and http://ay-lab-tools.lji.org/extramapper)
 
 ### FSOM: a methylation patterns associated with alternative splicing
 Last release: 2015, September, 3rd
@@ -1739,7 +1768,6 @@ Organism: human, fruit fly, worm, Arabidopsis
 
 ### LncAS2Cancer: alternative splicing in lncRNAs in cancer
 Last update: 2021, February, 8th
-
 Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
@@ -1843,9 +1871,13 @@ Last release: 2020, December, 21st
 
 ## Visualization
 ### DoChaP: a domain-splicing visualization
-Laste release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33988713/)
-* [URL] (https://dochap.bgu.ac.il/)
+Last release:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
+* [URL](https://dochap.bgu.ac.il/)
+
+### Jutils: A visualization toolkit for differential alternative splicing events
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
+* [GitHub](https://github.com/Splicebox/Jutils)
 
 ## Benchmark studies
 
