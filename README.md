@@ -411,6 +411,11 @@ Last release: 2019, November, 27th
 * [GitHub](https://github.com/HCBravoLab/yanagi)
 
 ### Isoform-level
+#### ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel
+Last release:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33948626/)
+* [GitHub](https://github.com/mccabes292/actor)
+
 #### AERON: an isoform quantification and gene-fusion detection from long reads
 Last release: 2020, November, 23rd (the last commit)
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.27.921338v1)
@@ -1882,8 +1887,9 @@ Last release:
 ## Benchmark studies
 
 ### Splice variants
-* [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
-* [Benchmarking deep learning splice prediction tools using functional splice assays] (https://pubmed.ncbi.nlm.nih.gov/33942434/)
+* [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
+* [Benchmarking deep learning splice prediction tools using functional splice assays](https://pubmed.ncbi.nlm.nih.gov/33942434/)
+* [Exon identity influences splicing induced by exonic variants and in silico prediction efficacy](https://www.sciencedirect.com/science/article/abs/pii/S1569199320309358?via%3Dihub)
 
 ### Splicing
 * [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers] (https://pubmed.ncbi.nlm.nih.gov/34174808/)
