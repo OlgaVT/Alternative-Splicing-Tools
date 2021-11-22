@@ -150,6 +150,10 @@ Last release: 2020, June, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30458725/)
 * [GitHub](https://github.com/AlgoLab/galig)
 
+#### AS-Quant
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33922891/)
+* [GitHub](https://github.com/CompbioLabUCF/AS-Quant)
+
 #### ASpli: an alternative splicing event and differential splicing detection tool
 Last release: 2017, February, 25th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33677494/)
@@ -1407,8 +1411,16 @@ Last release:
 
 ### IsoDA: an isoform-disease association prediction
 Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33826865/)
-* [URL] (http://mlda.swu.edu.cn/codes.php?name=IsoDA)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33826865/)
+* [URL](http://mlda.swu.edu.cn/codes.php?name=IsoDA)
+
+### Iso-Net
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32534132/)
+* [GitHub](https://github.com/Dingjie-Wang/Iso-Net)
+
+### IsoResolve
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32966552/)
+* [GitHub](https://github.com/genemine/IsoResolve)
 
 ### NMD Classifier: a nonsense mediated decay classifier
 Last release: 2019, April, 11th
@@ -1605,7 +1617,7 @@ Last release: 2019, august, 2nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842741/)
 * [GitHub](https://github.com/UdeS-CoBIUS/SimSpliceEvol)
 
-### Shark: aapping-free tool for fishing relevant reads in an RNA-Seq sample
+### Shark: mapping-free tool for fishing relevant reads in an RNA-Seq sample
 Last release: 2020, July, 6th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32926128/)
 * [GitHub](https://github.com/AlgoLab/shark)
