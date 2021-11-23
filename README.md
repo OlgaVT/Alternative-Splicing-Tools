@@ -869,6 +869,10 @@ Last release: 2018, November, 8th
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
 
+### diffUTR: a differential exon usage analysis
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33849458/)
+* [Bioconductor](http://bioconductor.org/packages/release/bioc/html/diffUTR.html)
+
 #### ExClust: a package for constitutive exons analysis
 Part of the sysSeq package.
 
@@ -1090,6 +1094,10 @@ Last release: 2021, February, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 * [Kipoi](http://kipoi.org/models/MMSplice/)
+
+### MTSplice
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33789710/)
+* [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 
 ### ModCon: a splice site usage modification tool
 Last release: 
@@ -1788,6 +1796,10 @@ Last update: 2021, February, 8th
 Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
+
+### MutSpliceDB: A database of splice sites variants with RNA-seq based evidence on effects on splicing
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33600011/)
+* [URL](https://brb.nci.nih.gov/splicing)
 
 ### OncoSplicing
 Last update:
