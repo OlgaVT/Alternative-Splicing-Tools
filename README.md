@@ -1310,6 +1310,10 @@ Last release: 2017, October, 18th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27793091/)
 * [GitHub](https://github.com/Delasa/co-spliceNet)
 
+### DeepIII: an isoform-isoform interaction prediction
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33764878/)
+* [URL](http://mlda.swu.edu.cn/codes.php?name=DeepIII)
+
 ### DIGGER: a role of alternative splicing in protein-protein interactions
 Last release: *not found*
 * [URL](https://exbio.wzw.tum.de/digger/)
@@ -1444,10 +1448,12 @@ Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34185647/)
 
 ## Circular RNA
+[Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
+
 ### AQUARIUM
 Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34115093/)
-* [Github] (https://github.com/wanjun-group-seu/AQUARIUM)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34115093/)
+* [Github](https://github.com/wanjun-group-seu/AQUARIUM)
 
 ### CircAST
 Last release: 2020, February, 26th
@@ -1629,6 +1635,10 @@ Last release: 2019, august, 2nd
 Last release: 2020, July, 6th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32926128/)
 * [GitHub](https://github.com/AlgoLab/shark)
+
+### SLIDR and SLOPPR: flexible identification of spliced leader trans-splicing and prediction of eukaryotic operons from RNA-Seq data
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33752599/)
+* [GitHub](https://github.com/wenzelm/slidr-sloppr)
 
 ### ThorAxe: an evolutionary splicing graphs construction
 Last release:
@@ -1897,6 +1907,10 @@ Last update: 2020, May, 9th (the last commit)
 Last release: 2020, December, 21st
 * [URL](https://vastdb.crg.eu/wiki/Main_Page)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
+
+### VirusCircBase: a database of virus circular RNAs
+* [URL](http://www.computationalbiology.cn/ViruscircBase/home.html)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32349124/)
 
 ## Visualization
 ### DoChaP: a domain-splicing visualization
