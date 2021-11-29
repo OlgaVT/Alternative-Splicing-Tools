@@ -1,6 +1,10 @@
 # Alternative Splicing Tools
 A list of alternative splicing analysis resources
 ## Splice-aware mapping tools
+### 2passtools: a filtered realignment
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33648554/)
+* [GitHub](https://github.com/bartongroup/2passtools)
+
 #### BBMap
 Last release: 2021, February, 3rd
 * [URL](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/)
@@ -1211,6 +1215,10 @@ Last release
 * [URL] (http://trap-score.org/)
 
 ## Alternative splicing regulation
+### AIRBP: Identification of RNA-binding proteins using machine learning techniques
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33685590/)
+* [URL](http://cs.uno.edu/∼tamjid/Software/AIRBP/code_data.zip)
+
 ### BPP: a branch point prediction
 Last release: 2017, May, 22nd (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28633445/)
