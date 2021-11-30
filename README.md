@@ -933,6 +933,10 @@ Last release: 2017, September, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229983/)
 * [GitHub](https://github.com/davidaknowles/leafcutter)
 
+#### MicroExonator
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33482885/)
+* [GitHub](https://github.com/hemberg-lab/MicroExonator)
+
 #### MISO: a differential isoform expression tool
 The tool also detects differentially regulated exons.
 MISO also presents sashimi plots for exon expression visualisation.
@@ -1089,6 +1093,11 @@ Laste release
 ### MaxEntScan: a tool for human 5'splice sites scoring
 Last release:_ not found_
 * [URL](http://hollywood.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq.html)
+
+### McSplicer
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33515239/)
+* [GitHub](https://github.com/canzarlab/McSplicer)
+* [Zenodo](https://doi.org/10.5281/zenodo.4449881)
 
 ### MIRA: a tool for mutation identification for RNA Alterations
 Last release: 2018, July, 3rd
@@ -1536,6 +1545,10 @@ Last release
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34031440/)
 * [GitHub] (https://github.com/tgen/bisbee)
+
+### FRASER
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33483494/)
+* [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 ## Other
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
