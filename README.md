@@ -1532,6 +1532,10 @@ Last release: 2020, August, 17th
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34252942/)
 * [Github] (https://github.com/hallogameboy/JEDI)
 
+### PCirc
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407069/)
+* [GitHub](https://github.com/Lilab-SNNU/Pcirc)
+
 ### psirc
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
 
@@ -1656,6 +1660,10 @@ Last release: 2016, November, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24747190/)
 * [GitHub](https://github.com/ctokheim/PrimerSeq)
 
+### SCISSOR: a framework for identifying structural changes in RNA transcripts
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33436599/)
+* [GitHub](https://github.com/hyochoi/SCISSOR)
+
 ### SEASTAR: an alternative transcription start sites detection tool
 Last release: 2017, October, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29546410/)
@@ -1702,6 +1710,8 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16110330/)
 
 ## Databases
+###[Review 1](https://pubmed.ncbi.nlm.nih.gov/31998941/)
+
 ### AceView: a database of alternative splicing isoforms
 Last update: 2012, October, 16th
 
@@ -1842,6 +1852,10 @@ Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
 
+### MeDAS: a Metazoan Developmental Alternative Splicing database
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33084905/)
+* [URL](https://das.chenlulab.com/#/)
+
 ### MutSpliceDB: A database of splice sites variants with RNA-seq based evidence on effects on splicing
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33600011/)
 * [URL](https://brb.nci.nih.gov/splicing)
@@ -1896,6 +1910,10 @@ Organism
 * [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
 
+### RJunBase: a database of RNA splice junctions in human normal and cancerous tissues
+* [URL](www.RJunBase.org)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33179749/)
+
 ### RBPDB
 Last update: 
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/21036867/)
@@ -1931,6 +1949,10 @@ Last update: *not found*
 Last update
 * [URL] (http://www.teaas.cn/index.php)
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34154536/)
+
+### TransCirc: an interactive database for translatable circular RNAs based on multi-omics evidence
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33074314/)
+* [URL](https://www.biosino.org/transcirc/)
 
 ### TSVdb: TCGA splicing variants database
 Last update: 2020, May, 9th (the last commit)
