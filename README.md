@@ -96,11 +96,6 @@ Last release: 2011, August, 10th
 * [URL](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
 
-#### Splice2Deep: a splice site prediction
-Last release: 2019, August, 7th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32550561/)
-* [GitHub](https://github.com/SomayahAlbaradei/Splice_Deep)
-
 #### SpliceFamAlign: a CDS-to-gene alignment
 Last release: 2018, August, 6th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30925859/)
@@ -205,9 +200,6 @@ Last release: 2019, February, 26th
 Last release: 2020, September, 5th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
 * [GitHub](https://github.com/louadi/DSC)
-
-#### DeepDSSR: a donor splice site recognition (a model)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
 
 #### DIEGO: a differential alternative splicing tool
 Last release: 2019, December, 3rd
@@ -1036,7 +1028,6 @@ Last release: *not found*
 
 ## Splice sites prediction and variations analysis
 ### CADD-splice: a a varian effect on alternative splicing
-Last release: *not found*
 * [URL](https://cadd.gs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33618777/)
 
@@ -1048,6 +1039,17 @@ Laste release: 2008
 ### CrypSplice: a cryptic splice variations prediction tool
 Last release: 
 * [URL](http://liuzlab.org/software/crypsplice/#hoem)
+
+### DASSI: splice identification from DNA sequences
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33588916/)
+* [GitHub](https://github.com/shabirmoosa/DASSI)
+
+#### DeepDSSR: a donor splice site recognition (a model)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
+
+### DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33538820/)
+* [GitHub](https://github.com/jerryji1993/DNABERT)
 
 ### EBChangePoint: a splice site prediction tool
 Last release: 2015, May
@@ -1180,6 +1182,11 @@ Last release: 2011, March, 2nd
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/25525159/)
 * [URL] (http://www.openbioinformatics.org/annovar/spidex_download_form.php)
+
+#### Splice2Deep: a splice site prediction
+Last release: 2019, August, 7th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32550561/)
+* [GitHub](https://github.com/SomayahAlbaradei/Splice_Deep)
 
 ### SpliceAI: a tool for detection of effect of genetic variants on alternative splicing
 Last release: 2020, March, 7th
@@ -1414,6 +1421,9 @@ Last release:
 
 ## Isoform Function Prediction
 
+### DeepIDA: isoform-disease associations prediction
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33571094/)
+
 ### DeepIsoFun
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/30535380/)
@@ -1495,6 +1505,10 @@ Last release: 2021, March, 15th
 * [URL](https://sourceforge.net/projects/ciri/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27350239/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30660194/)
+
+### DEBKS: A Tool to Detect Differentially Expressed Circular RNA
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33631429/)
+* [GitHub](https://github.com/yangence/DEBKS)
 
 ### DMC-CDA
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34103016/)
