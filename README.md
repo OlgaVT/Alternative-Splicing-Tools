@@ -124,6 +124,8 @@ Last release: 2013, November, 25th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24259430/)
 
 ## Alternative splicing and differential splicing detection tools
+* [Review 1](https://pubmed.ncbi.nlm.nih.gov/33425250/)
+
 ### Event-level
 ### AltAnalyze: an alternative splicing event detection tool
 Kallisto-Splice is a part of a tool for a splice-aware mapping
@@ -250,7 +252,9 @@ Last release: 2021, February, 16th
 #### IRFinder: an intron retention identification tool
 Last release: 2020, August, 27th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28298237/)
+* [Pubmed IRFinder-S](https://pubmed.ncbi.nlm.nih.gov/34749764/)
 * [GitHub](https://github.com/williamritchie/IRFinder)
+* [GitHub IRFInder-S](https://github.com/RitchieLabIGH/IRFinder)
 
 #### IsoSplitter
 Last release:
@@ -344,6 +348,11 @@ Last release: 2019, November, 19th
 * [URL](https://bmi.inf.ethz.ch/supplements/spladder)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873928/)
 * [GitHub](https://github.com/ratschlab/spladder)
+
+#### Spliceator: a splice site prediction
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34814826/)
+* [GitLab](https://git.unistra.fr/nscalzitti/spliceator)
+* [URL](http://www.lbgi.fr/spliceator/)
 
 #### SpliceDetector: an alternative splicing event detection tool
 Last release: *not found*
@@ -608,6 +617,10 @@ Last release:_ not found_. Published in 2014.
 * [URL](https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25283306/)
 
+#### Jumper: a transcriptome assembly tool
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34795232/)
+* [GitHub](https://github.com/elkebir-group/Jumper)
+
 #### kallisto: an isoform quantification tool
 sleuth is a differential isoform expression tool after kallisto analysis
 
@@ -701,6 +714,10 @@ Last release: *not found*
 Last release: 2013, October, 25th
 * [URL](http://deweylab.biostat.wisc.edu/psginfer/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23846746/)
+
+#### QuickIsoSeq
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835441/)
+* [GitHub](https://github.com/shanrongzhao/QuickIsoSeq)
 
 #### RNASeqViewer: a visualization tool for gene expression and isoforms
 Last release: 2013, October, 14th
@@ -1327,7 +1344,16 @@ Last release: 2018, May, 28th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28747380/)
 * [GitHub](https://github.com/NKI-TGO/SPLICIFY)
 
+### TopPG: a proteogenomic tool for generating proteoform sequence databases with genetic alterations and alternative splicing events
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33183009/)
+
 ## Network analysis
+### ALT-IN: predicting protein interaction network perturbation by alternative splicing
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34818539/)
+* [GitHub](https://github.com/KorkinLab/alt-in-tool)
+* [Zenodo](https://zenodo.org/record/5234256)
+* [DockerHub](https://hub.docker.com/r/narykov/alt-in)
+
 ### CoSpliceNet: a co-splicing network tool
 Last release: 2017, October, 18th (the last commit)
 * [URL](http://delasa.github.io/co-spliceNet/)
@@ -1423,6 +1449,10 @@ Last release: 2017, March, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
 * [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
+### TALON
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/672931v2)
+* [GitHub](https://github.com/mortazavilab/TALON)
+
 ### uLTRA
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
@@ -1489,19 +1519,23 @@ Last release: 2020, February, 26th
 
 ### Circall
 Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34645386/)
-* [GitHub] (https://github.com/datngu/Circall)
-* [URL] (https://www.meb.ki.se/sites/biostatwiki/circall)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34645386/)
+* [GitHub](https://github.com/datngu/Circall)
+* [URL](https://www.meb.ki.se/sites/biostatwiki/circall)
+
+### CIRCExplorer
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33588028/)
+* [GitHub](https://github.com/YangLab/CIRCexplorer)
 
 ### CircIMPACT
 Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34356060/)
-* [Github] (https://github.com/AFBuratin/circIMPACT)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34356060/)
+* [Github](https://github.com/AFBuratin/circIMPACT)
 
 ### CirComPara2
 Last release:
-* [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34698333/)
-* [GitHub] (https://github.com/egaffo/CirComPara2)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34698333/)
+* [GitHub](https://github.com/egaffo/CirComPara2)
 
 ### CircSplice
 Last release: 2019, February, 27th
@@ -1520,8 +1554,12 @@ Last release: 2021, March, 15th
 * [GitHub](https://github.com/yangence/DEBKS)
 
 ### DMC-CDA
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34103016/)
-* [Github] (https://github.com/zzl1996zzl/DMC-CDA)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34103016/)
+* [Github](https://github.com/zzl1996zzl/DMC-CDA)
+
+### find_circ
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23446348/)
+* [GitHub](https://github.com/marvin-jens/find_circ)
 
 ### FUCHS
 Last release: 2020, August, 17th
@@ -1630,7 +1668,6 @@ Last release: 2021, January, 21st
 
 ### OneStopRNAseq: a pipeline for RNA-Seq analysis
 Includes rMATS and DEXSeq
-
 Last release: *not found*
 * [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
@@ -1638,6 +1675,10 @@ Last release: *not found*
 ### PIC-Me: a classification model between paralogs and isoforms
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
+
+### RAP: a web pipeline for RNA-Seq analysis
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835454/)
+* [URL](https://bioinformatics.cineca.it/rap/index.php)
 
 ### Reboot:
 Last release
@@ -1710,7 +1751,8 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16110330/)
 
 ## Databases
-###[Review 1](https://pubmed.ncbi.nlm.nih.gov/31998941/)
+* [Review 1](https://pubmed.ncbi.nlm.nih.gov/31998941/)
+* [Review 2 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/34195960/)
 
 ### AceView: a database of alternative splicing isoforms
 Last update: 2012, October, 16th
@@ -1731,7 +1773,8 @@ Last update: 2021
 
 Organisims: 19 vertebrate and invertebrate genomes
 * [URL](http://appris.bioinfo.cnio.es/#/)
-* [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
+* [PubMed 1](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/34755885/)
 
 ### Arabidopsis PeptideAtlas
 Last update
@@ -1770,6 +1813,10 @@ Last update:
 
 * [URL] (http://jianglab.org.cn/ASPN/)
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34285345/)
+
+### At-C-RNA: Arabidopsis thaliana CircRNAs
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
+* [URL](https://plantcircrna.ibch.poznan.pl/) 
 
 ### CancerSplicingQTL: a database of SNPs that affect alternative splicing
 Last update: 2021
@@ -1810,6 +1857,10 @@ Last update: *not found*
 Organism: Human
 * [URL](https://ccsm.uth.edu/ExonSkipDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642488/)
+
+### GreenCircRNA
+* [URL](http://greencirc.cn/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
 
 ### H-DBAS: a human alternative splicing database
 Last update: 2011, December, 26th
@@ -1889,6 +1940,10 @@ Last update: 2019
 Organism: 15 plant genomes
 * [URL](http://proteomics.ysu.edu/altsplice/)
 
+### PlantCircNet:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31725858/)
+* [URL](https://biokeanos.com/source/PlantCircNet)
+
 ### PlantSPEAD: a splicing-related protein expression database
 Last update: 2017
 
@@ -1918,6 +1973,10 @@ Organism
 Last update: 
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/21036867/)
 * [URL] (http://rbpdb.ccbr.utoronto.ca/)
+
+### recount3: an online resource consisting of RNA-seq gene, exon, and exon-exon junction counts as well as coverage
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34844637/)
+* [URL](http://rna.recount.bio/)
 
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
 Last update: 2013, February
