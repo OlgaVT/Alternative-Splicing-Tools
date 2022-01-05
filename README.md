@@ -1262,8 +1262,11 @@ Last release: *not found*
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/094003v1)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/branchpointer.html)
 
+### DeepRKE: prediction of RBP binding sites
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33334313/)
+* [GitHub](https://github.com/youzhiliu/DeepRKE/)
+
 ### dsRBPBind: the effect of RNA secondary structure on double stranded RNA-protein binding
-Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34668517/)
 * [URL] http://bioserv.mps.ohio-state.edu/dsRBPBind
 
@@ -1321,7 +1324,13 @@ Last release:
 ### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
 Last release: March, 2021 (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31825849/)
+* [PubMed (Protocol)](https://pubmed.ncbi.nlm.nih.gov/33377032/)
 * [GitHub](https://github.com/ed-lau/jcast)
+
+### pgdb and pypgatk: creation of proteogenomics databases based on ENSEMBL resources
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34904638/)
+* [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
+* [URL pgdb](https://nf-co.re/pgdb)
 
 ### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
 Last release: *not found*
@@ -1593,10 +1602,19 @@ Last release
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 ## Other
+### 3D RNA-Seq: a pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
+* [URL](https://3drnaseq.hutton.ac.uk/app_direct/3DRNAseq/)
+* [GitHub](https://github.com/wyguo/ThreeDRNAseq)
+
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
+
+### AIDD: a pipeline for transcript level analysis
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33375933/)
+* [GitHub](https://github.com/RNAdetective/AIDD)
 
 ### ASimulatoR: RNA-Seq reads with splicing simulation
 Last release: 2020, December, 16th
@@ -1634,6 +1652,10 @@ Last release: 2020, February, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32584815/)
 * [GitHub](https://github.com/gersteinlab/esprnn)
 
+### Ex-Ex Primer: designing oligonucleotides spanning spliced nucleic acid regions
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34756973/)
+* [URL](http://resource2.ibab.ac.in/exprimer/)
+
 ### ExOrthist: an exon evolution
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34416914/)
 * [Github](https://github.com/biocorecrg/ExOrthist)
@@ -1646,6 +1668,10 @@ Last release: 2020, February, 11th
 Last release: 2015, September, 3rd
 * [URL](https://sourceforge.net/projects/fsom/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
+
+### IsoDeconvMM: cell type deconvolution based on isoform composition
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34921386/)
+* [GitHub](https://github.com/hheiling/IsoDeconvMM)
 
 ### IsoSel: an isoform phylogenetic analysis tool
 Last release: *not found*
