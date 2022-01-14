@@ -2004,6 +2004,10 @@ Last update:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34844637/)
 * [URL](http://rna.recount.bio/)
 
+### SASD: the Synthetic Alternative Splicing Database for identifying novel isoform from proteomics
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
+* [URL] Does not work
+
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
 Last update: 2013, February
 
