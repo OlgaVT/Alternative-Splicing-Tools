@@ -2018,6 +2018,10 @@ Organism: human
 * [URL](http://193.206.120.249/splicing_tissue.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21922594/)
 
+### SpliVap
+* [URL](http://splicing.bioinformatica.crs4.it/)
+* [PubMed]
+
 ### TassDB: a tandem splice sites database
 Last update: _not found_. Published in 2010.
 
