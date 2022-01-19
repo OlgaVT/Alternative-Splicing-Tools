@@ -818,6 +818,10 @@ Last release: 2021, March, 4th
 * [URL](http://ccb.jhu.edu/software/stringtie/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25690850/)
 
+#### subgraphquant: a transcript abundance estimator
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35041494/)
+* [GitHub](https://github.com/Kingsford-Group/subgraphquant)
+
 #### SUPPA: an isoform quantification tool
 Last release: 2018, February, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26179515/)
