@@ -1673,6 +1673,10 @@ Last release: 2015, September, 3rd
 * [URL](https://sourceforge.net/projects/fsom/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
 
+### Genomic-Kmer-Surprisal-Model
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33194378/)
+* [GitLab](https://gitlab.com/cruk-mi/genomic-kmer-surprisal-model)
+
 ### IsoDeconvMM: cell type deconvolution based on isoform composition
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34921386/)
 * [GitHub](https://github.com/hheiling/IsoDeconvMM)
