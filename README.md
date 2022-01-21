@@ -587,6 +587,10 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30989184/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IsoformSwitchAnalyzeR.html)
 
+#### IsoformUsage
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35042461/)
+* [GitHub](https://github.com/ZXiaopu/IsoformUsage/tree/main/dataAnalysis)
+
 #### IsoInfer: a tool for isoforms inference
 Last release: 2010, September, 9th
 * [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
@@ -1432,6 +1436,10 @@ Last release: *not found*
 * [CRAN](https://cran.r-project.org/web/packages/VALERIE/index.html)
 
 ## Long reads
+### BRCA-LRseq-pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
+* [GitHub](https://github.com/TheJacksonLaboratory/BRCA-LRseq-pipeline)
+
 ### deSALT: an alignment tool
 Last release: 2020, August, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842925/)
