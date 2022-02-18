@@ -151,6 +151,10 @@ Last release: 2020, June, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30458725/)
 * [GitHub](https://github.com/AlgoLab/galig)
 
+#### ASpediaFI: identification of DAS events and co-regulated genes and pathways
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
+* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
+
 #### AS-Quant
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33922891/)
 * [GitHub](https://github.com/CompbioLabUCF/AS-Quant)
@@ -1420,6 +1424,9 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28673540/)
 * [GitHub](https://github.com/YeoLab/Expedition)
 
+### IsoCell: an approach for isoform-based single cell clustering
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35100120/)
+
 ### SICILIAN: splice junctions identfication in bulk and single RNA-Seq
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34353340/)
@@ -1859,6 +1866,10 @@ Last update:
 ### At-C-RNA: Arabidopsis thaliana CircRNAs
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
 * [URL](https://plantcircrna.ibch.poznan.pl/) 
+
+### Blood Proteoform Atlas
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35084980/)
+* [URL](https://blood-proteoform-atlas.org/)
 
 ### CancerSplicingQTL: a database of SNPs that affect alternative splicing
 Last update: 2021
