@@ -1635,6 +1635,10 @@ Last release: 2005, July, 10th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33375933/)
 * [GitHub](https://github.com/RNAdetective/AIDD)
 
+### ASES: a tool for assessing the impact of alternative splicing, initiation and termination of transcription on protein diversity in evolution
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35188186/)
+* [URL]( http://www.lcqb.upmc.fr/Ases)
+
 ### ASimulatoR: RNA-Seq reads with splicing simulation
 Last release: 2020, December, 16th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33647976/)
