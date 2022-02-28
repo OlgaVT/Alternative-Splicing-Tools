@@ -125,6 +125,7 @@ Last release: 2013, November, 25th
 
 ## Alternative splicing and differential splicing detection tools
 * [Review 1](https://pubmed.ncbi.nlm.nih.gov/33425250/)
+* [Review 2](https://pubmed.ncbi.nlm.nih.gov/35217565/)
 
 ### Event-level
 ### AltAnalyze: an alternative splicing event detection tool
