@@ -1785,6 +1785,9 @@ Last release: 2020, July, 6th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33752599/)
 * [GitHub](https://github.com/wenzelm/slidr-sloppr)
 
+### SpliZ: a splicing quantification score
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241832/)
+
 ### ThorAxe: an evolutionary splicing graphs construction
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266979/)
