@@ -31,6 +31,10 @@ Last release: 2019, May, 7th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968831/)
 * [GitHub](https://github.com/hsinnan75/Dart)
 
+#### ExceS-A
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35254744/)
+* [GitHub](https://github.com/frarei312/ExceS-A-An-Exon-Centric-Split-Aligner)
+
 #### GSNAP
 Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
