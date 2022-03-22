@@ -1687,6 +1687,10 @@ Last release: 2020, February, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34756973/)
 * [URL](http://resource2.ibab.ac.in/exprimer/)
 
+### Exon ByPASS: predicting exon criticality
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35286381/)
+* [GitHub](https://github.com/wavelifescience/ExonByPass)
+
 ### ExOrthist: an exon evolution
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34416914/)
 * [Github](https://github.com/biocorecrg/ExOrthist)
