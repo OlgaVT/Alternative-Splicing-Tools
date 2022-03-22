@@ -1340,6 +1340,9 @@ Last release: March, 2021 (the last commit)
 * [PubMed (Protocol)](https://pubmed.ncbi.nlm.nih.gov/33377032/)
 * [GitHub](https://github.com/ed-lau/jcast)
 
+### Long-Read-Proteogenomics
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241129/)
+* [GitHub](https://github.com/sheynkman-lab/Long-Read-Proteogenomics)
 ### pgdb and pypgatk: creation of proteogenomics databases based on ENSEMBL resources
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34904638/)
 * [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
