@@ -852,6 +852,10 @@ Last release: 2015, February, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23821651/)
 * [GitHub](https://github.com/nariai/tigar2)
 
+#### Tiglon: a trascriptome assembly
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35355524/)
+* [GitHub](https://github.com/yutingsdu/Tiglon-v.1.1)
+
 #### TRANS-Abyss: a transcriptome assembly tool
 Last release: 2018, February, 19th
 * [URL](https://www.bcgsc.ca/resources/software/trans-abyss)
