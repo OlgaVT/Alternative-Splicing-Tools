@@ -1677,6 +1677,9 @@ Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
 * [Bitbucket](https://bitbucket.org/biociphers/eig/src/master/)
 
+### ERPIN: a mitochondrial intron detection
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35369492/)
+
 ### eSkip-Finder: a machine learning-based web application and database to identify the optimal sequences of antisense oligonucleotides for exon skipping
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34104972/)
