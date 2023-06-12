@@ -1358,6 +1358,9 @@ Last release:
 * [Github] (https://github.com/yushanqiu/WDFSMF)
 
 ## Proteomics
+
+[Review 1](https://pubmed.ncbi.nlm.nih.gov/36845399/)
+
 ### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
 Last release: March, 2021 (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31825849/)
@@ -2118,6 +2121,13 @@ Last update: 2017
 Organisms: plants
 * [URL](http://chemyang.ccnu.edu.cn/ccb/database/PlantSPEAD/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33010087/)
+
+### PISE: Plant Intron-Splicing Efficiency Database
+Last update: 2023
+
+Organisms: plants
+* [URL](https://kidsneuro.shinyapps.io/splicevault/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36747048/)
 
 ### PolyA_DB: a database of pre-mRNA cleavage and polyA sites
 Last update: 2018, August. 107 human samples, 246 mouse samples, 11 rat samples, 9 chicken samples.
