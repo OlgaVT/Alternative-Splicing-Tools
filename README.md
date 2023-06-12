@@ -834,6 +834,11 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34499147/)
 * [Bioconductor] https://www.bioconductor.org/packages/release/bioc/html/SplicingFactory.html
 
+### Spycone
+Last release: 2023
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36579860/)
+* [GitHub](https://github.com/yollct/spycone) 
+
 #### StringTie: a transcriptome assembly and isoform quantification tool
 Last release: 2021, March, 4th
 * [URL](http://ccb.jhu.edu/software/stringtie/)
@@ -1727,6 +1732,11 @@ Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34563123/)
 * [GitHub] (https://github.com/itmat/CAMPAREE)
 
+### CHESSBOARD: Splicing-based subtyping
+Last release
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599821/)
+* [URL](https://chessboard.readthedocs.io/en/latest/index.html)
+
 ### Enhanced Integrated Gradients: a method to identify specific features
 Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
@@ -1938,6 +1948,12 @@ Last update
 * [URL] (www.peptideatlas.org/builds/arabidopsis/)
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34411258/)
 
+### ASCancer Atlas: a comprehensive knowledgebase of alternative splicing in human cancers
+Last update: 2023
+
+* [URL](https://ngdc.cncb.ac.cn/ascancer)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36318242/)
+
 ### ASCOT
 Last update
 * [URL] (http://ascot.cs.jhu.edu/)
@@ -2029,6 +2045,13 @@ Organism: Human
 * [URL](https://ccsm.uth.edu/ExonSkipDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642488/)
 
+### FungiExp
+Last update: 2023
+
+Organism: Fungi
+* [URL](https://bioinfo.njau.edu.cn/fungiExp)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36655761/)
+
 ### GreenCircRNA
 * [URL](http://greencirc.cn/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
@@ -2046,6 +2069,13 @@ Last update: 2017, September, 29th
 Organism: human
 * [URL](http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23118488/)
+
+### IntroVerse: a comprehensive database of introns across human tissues
+Last update: 2023
+
+Organism: human
+* [URL](https://rytenlab.com/browser/app/introverse)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36399497/)
 
 ### ISOdb: a database of Iso-Seq isoforms
 Last update: 2018, March, 5th
@@ -2116,6 +2146,14 @@ Last update: 2019
 
 Organism: 15 plant genomes
 * [URL](http://proteomics.ysu.edu/altsplice/)
+
+### PlantExp
+Last update: 2023
+
+Organism: plant genomes
+* [URL](https://biotec.njau.edu.cn/plantExp)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36271793/)
+
 
 ### PlantCircNet:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31725858/)
