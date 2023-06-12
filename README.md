@@ -205,6 +205,13 @@ Last release: 2018, July, 4th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949959/)
 * [GitHub](https://github.com/PSI-Lab/COSSMO)
 
+### DeepASmRNA
+Last release: 2022
+* [URL](http://cmb.bnu.edu.cn/DeepASmRNA/index.php/download)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36325068/)
+* [GitHub](	https://github.com/CMB-BNU/DeepASmRNA)
+
+
 #### DARTS: an alternative splicing event detection tool
 Last release: 2019, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30923373/)
@@ -1510,6 +1517,14 @@ Last release: 2023
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36478271/)
 * [GitHub] (https://github.com/vpc-ccg/freddie/)
 
+### IsoSplitter
+
+* [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
+
+### L-RAPiT
+Last release: 2022
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36555493/)
+* [GitHub] (https://github.com/Theo-Nelson/long-read-sequencing-pipeline)
 
 ### LIQA
 Last release:
@@ -1524,8 +1539,14 @@ Last release:
 
 ### scallop-LR: a transcritome assembler
 Last release: 2020, May, 22nd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36099042/)
+* [GitHub]( https://github.com/ylab-hi/ScanExitronLR)
+
+### ScanExitronLR
+Last release: 2022
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
 * [GitHub](https://github.com/Kingsford-Group/scallop/tree/isoseq)
+
 
 ### SpliceHunter
 Last release: 2017, March, 23rd
@@ -1597,6 +1618,9 @@ Last release: 2023
 ### TRIFID
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34046593/)
 * [Bitbucket] (https://gitlab.com/bu_cnio/trifid)
+
+### Trinotate
+* [GitHub](https://github.com/Trinotate/Trinotate/wiki)
 
 ### TS-Isofun: a tissue-specific isoform function prediction
 Last release
@@ -1954,6 +1978,13 @@ Last update: 2023
 * [URL](https://ngdc.cncb.ac.cn/ascancer)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36318242/)
 
+### AS-CMC: a pan-cancer database of alternative splicing for molecular classification of cancer
+Last update: 2022
+
+* [URL](https://www.pmrc.re.kr/ASCMC/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36473963/)
+
+
 ### ASCOT
 Last update
 * [URL] (http://ascot.cs.jhu.edu/)
@@ -2007,6 +2038,13 @@ Last update: 2023
 Organism: human
 * [URL](https://www.caniso.net)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37123454/)
+
+### CASA: a comprehensive database resource for the COVID-19 Alternative Splicing Atlas
+Last update: 2022
+
+Organism: human
+* [URL](http://www.splicedb.net/casa/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36266726/)
 
 ### CuAS: a database of alternative splicing in cucumber
 Last update: 2021
@@ -2276,6 +2314,7 @@ Last release:
 * [Exon identity influences splicing induced by exonic variants and in silico prediction efficacy](https://www.sciencedirect.com/science/article/abs/pii/S1569199320309358?via%3Dihub)
 
 ### Splicing
-* [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers] (https://pubmed.ncbi.nlm.nih.gov/34174808/)
-* [A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level] (https://pubmed.ncbi.nlm.nih.gov/37020334/)
-* [Alternative splicing analysis benchmark with DICAST] (https://pubmed.ncbi.nlm.nih.gov/37260511/)
+* [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers](https://pubmed.ncbi.nlm.nih.gov/34174808/)
+* [A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level](https://pubmed.ncbi.nlm.nih.gov/37020334/)
+* [Alternative splicing analysis benchmark with DICAST](https://pubmed.ncbi.nlm.nih.gov/37260511/)
+* [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://pubmed.ncbi.nlm.nih.gov/36369064/)
