@@ -1729,6 +1729,11 @@ Last release: 2019, May, 27th
 * [URL](http://matt.crg.eu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30010778/)
 
+### MBS: a genome browser annotation track for microRNA binding sites in whole human transcriptome
+Last release: 2023
+* [URL](https://datasharingada.fondazionerimed.com:8080/MBS)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37114805/)
+
 ### Mirage: multiple sequence isoform alignment
 Last release: 2021, January, 21st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31080963/)
@@ -1756,6 +1761,12 @@ Last release:
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34316711/)
 * [URL] (https://galantelab.github.io/reboot/)
+
+### rmappet: a pipeline for alternative splicing analysis
+Last release: 2023
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
+* [URL] (ttps://github.com/didrikolofsson/rmappet/)
+
 
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
