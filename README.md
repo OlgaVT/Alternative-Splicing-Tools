@@ -1202,6 +1202,11 @@ Last release: 2019, September, 27th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31779641/)
 * [GitHub](https://github.com/yunliu/regsnp_intron)
 
+### RegTools: Integrated analysis of genomic and transcriptomic data for the discovery of splice-associated variants in cancer
+Last release: 2023
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36949070/)
+* [URL](www.regtools.org)
+
 ### rPGA: a hidden splicing variations
 Last release: 2016, June, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28766294/)
@@ -1479,8 +1484,14 @@ Last release:
 
 ### LIQA
 Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
-* [Github] (https://github.com/WGLab/LIQA)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36993612/)
+* [Github 1](https://github.com/yuntianf/Longcell-pre)
+* [GitHub 2](https://github.com/yuntianf/Longcell)
+
+### Longcell
+Last release:
+* [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
+* [GitHub] (https://github.com/WGLab/LIQA)
 
 ### scallop-LR: a transcritome assembler
 Last release: 2020, May, 22nd
@@ -1496,10 +1507,16 @@ Last release: 2017, March, 23rd
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/672931v2)
 * [GitHub](https://github.com/mortazavilab/TALON)
 
+### VIsoQLR
+Last release:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36881176/)
+* [GitHub](https://github.com/TBLabFJD/VIsoQLR)
+
 ### uLTRA
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
 * [GitHub] (https://github.com/ksahlin/ultra)
+
 
 ## Isoform Function Prediction
 
@@ -1529,6 +1546,10 @@ Last release:
 ### Iso-Net
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32534132/)
 * [GitHub](https://github.com/Dingjie-Wang/Iso-Net)
+
+### isopretEM
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36929917/)
+* [GitHub](https://github.com/TheJacksonLaboratory/isopretEM)
 
 ### IsoResolve
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32966552/)
@@ -1574,6 +1595,7 @@ Last release
 ### CIRCExplorer
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33588028/)
 * [GitHub](https://github.com/YangLab/CIRCexplorer)
+* [CIRCexplorer2](https://circexplorer2.readthedocs.io/en/latest/)
 
 ### CircIMPACT
 Last release
@@ -1633,11 +1655,12 @@ Last release
 ## Aberrant Splicing
 ### Bisbee
 Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34031440/)
-* [GitHub] (https://github.com/tgen/bisbee)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34031440/)
+* [GitHub](https://github.com/tgen/bisbee)
 
 ### FRASER
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33483494/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37066374/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 ## Other
@@ -1774,6 +1797,12 @@ Last release
 Last release: 2023
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
 * [URL] (ttps://github.com/didrikolofsson/rmappet/)
+
+### rnabridge-denovo: de novo Bridging Paired-end RNA-seq Data
+Last release: 2023
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37033458/)
+* [GitHub](https://github.com/Shao-Group/rnabridge-denovo)
+
 
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
