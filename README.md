@@ -1069,6 +1069,9 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
 
 ## Splice sites prediction and variations analysis
+### Review 1
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36987778/)
+
 ### CADD-splice: a a varian effect on alternative splicing
 * [URL](https://cadd.gs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33618777/)
@@ -1536,6 +1539,11 @@ Last release: 2019, April, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 * [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
 
+### SpliceTools: a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing
+Last release: 2023
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36864749/)
+* [GitHub](https://github.com/flemingtonlab/SpliceTools)
+
 ### TRIFID
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34046593/)
 * [Bitbucket] (https://gitlab.com/bu_cnio/trifid)
@@ -1767,11 +1775,15 @@ Last release: 2023
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
 * [URL] (ttps://github.com/didrikolofsson/rmappet/)
 
-
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
 * [GitHub](https://github.com/comprna/orqas)
+
+### PipeOne-NM: RNA-Seq Analysis Pipeline for Non-Model Organisms
+Last release: 2023
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37239350/)
+* [GitHub](https://github.com/Lisijun-m/pipeone-nm)
 
 ### PPLine: a pipeline for SNP calling and gene/isoform quantification
 Last release: 2018, March, 26th
@@ -2035,6 +2047,12 @@ Last update
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34111777/)
 * [URL] (http://biodb.sdau.edu.cn/PID/index.php)
 
+### PlaASDB: a comprehensive database of plant alternative splicing events in response to stress
+Last update: 2023
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/37106367/)
+* [URL] (http://zzdlab.com/PlaASDB/ASDB/index.html)
+
 ### Plant Alternative Splicing Database
 Last update: 2019
 
@@ -2156,3 +2174,5 @@ Last release:
 
 ### Splicing
 * [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers] (https://pubmed.ncbi.nlm.nih.gov/34174808/)
+* [A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level] (https://pubmed.ncbi.nlm.nih.gov/37020334/)
+* [Alternative splicing analysis benchmark with DICAST] (https://pubmed.ncbi.nlm.nih.gov/37260511/)
