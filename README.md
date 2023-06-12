@@ -1500,6 +1500,12 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34253685/)
 * [GitHub] (https://github.com/marabouboy/FLAME)
 
+### Freddie: annotation-independent detection and discovery of transcriptomic alternative splicing isoforms using long-read sequencing
+Last release: 2023
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36478271/)
+* [GitHub] (https://github.com/vpc-ccg/freddie/)
+
+
 ### LIQA
 Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36993612/)
