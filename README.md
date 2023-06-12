@@ -236,6 +236,7 @@ Last release: 2012, May, 14th
 Last release: *not found* 
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27315794/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30253752/)
+* [PubMed 3](https://pubmed.ncbi.nlm.nih.gov/36128425/)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/EventPointer.html)
 
 #### FakIR: an intron retention identification tool
@@ -313,6 +314,11 @@ Last release: *not found*
 Last release: 2016, December, 8th (the last commit)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
 * [GitHub](https://github.com/barannm/Manananggal)
+
+#### MntJULiP
+Last release: 2022
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36104797/)
+* [GitHub](https://github.com/splicebox/MntJulip/)
 
 #### nagnag: a nagnag splicing prediction tool
 Last release: 2015, August, 4th
@@ -1133,7 +1139,7 @@ Last release:_ not found_
 * [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
 
-### HAL: an effect od variants on alternative splicing
+### HAL: an effect of variants on alternative splicing
 Last release: *not found*
 * [URL](http://splicing.cs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26496609/)
@@ -1149,9 +1155,14 @@ Last release:
 * [URL] (https://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice2)
 
 ### KipoiSplice
-Laste release
+Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/31138913/)
 * [URL] (https://kipoi.org/)
+
+### LORALS
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/35922509/)
+* [URL] (https://github.com/LappalainenLab/lorals.)
 
 ### MaxEntScan: a tool for human 5'splice sites scoring
 Last release:_ not found_
@@ -1322,6 +1333,10 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33334313/)
 * [GitHub](https://github.com/youzhiliu/DeepRKE/)
 
+### DeepBtoD: RNA-binding proteins prediction via integrated deep learning
+* [PubMed](RNA-binding proteins prediction via integrated deep learning)
+* [URL](http://175.27.228.227/DeepBtoD/)
+
 ### dsRBPBind: the effect of RNA secondary structure on double stranded RNA-protein binding
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34668517/)
 * [URL] http://bioserv.mps.ohio-state.edu/dsRBPBind
@@ -1480,6 +1495,10 @@ Last release:
 ### MARVEL: an integrated alternative splicing analysis platform for single-cell RNA sequencing data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36631981/)
 * [URL](https://cloud.r-project.org/web/packages/MARVEL/index.html)
+
+### scAllele: detection and analysis of variants in scRNA-seq
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36054357/)
+* [GitHub](https://github.com/gxiaolab/scAllele/)
 
 ### SICILIAN: splice junctions identfication in bulk and single RNA-Seq
 Last release
@@ -2058,6 +2077,13 @@ Organism: human
 * [URL](http://www.splicedb.net/casa/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36266726/)
 
+### CattleGTEx
+Last update: 2022
+
+Organism: cattle
+* [URL](http://cgtex.roslin.ed.ac.uk/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35953587/)
+
 ### CuAS: a database of alternative splicing in cucumber
 Last update: 2021
 
@@ -2325,6 +2351,12 @@ Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
 * [GitHub](https://github.com/Splicebox/Jutils)
 
+## Structures
+### surfaltr: An R/Bioconductor package to benchmark surface protein isoforms by rapid prediction and visualization of transmembrane topologies
+
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35678367/)
+* [Bioconductor](https://bioconductor.org/packages/surfaltr)
+
 ## Benchmark studies
 
 ### Splice variants
@@ -2338,3 +2370,4 @@ Last release:
 * [A comprehensive benchmarking of differential splicing tools for RNA-seq analysis at the event level](https://pubmed.ncbi.nlm.nih.gov/37020334/)
 * [Alternative splicing analysis benchmark with DICAST](https://pubmed.ncbi.nlm.nih.gov/37260511/)
 * [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://pubmed.ncbi.nlm.nih.gov/36369064/)
+* [Exploring differential exon usage via short- and long-read RNA sequencing strategies](https://pubmed.ncbi.nlm.nih.gov/36168804/)
