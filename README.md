@@ -1057,6 +1057,8 @@ Last release: 2018, June, 22th
 * [GitHub](https://github.com/zavolanlab/TECtool)
 
 ## sQTL analysis
+[Review 1](https://pubmed.ncbi.nlm.nih.gov/35960994/)
+
 ### FIVEx: a eQTL and sQTL browser
 Last release:
 * [URL] (https://fivex.sph.umich.edu)
@@ -2135,6 +2137,13 @@ Last update: _not found_
 Organism: human, fruit fly, worm, Arabidopsis
 * [URL](https://kassiopeia.motorprotein.de/kassiopeia)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24507667/)
+
+### LivestockExp
+Last update: 2022
+
+Organism: livestock animals
+* [URL](https://bioinfo.njau.edu.cn/livestockExp)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36253723/)
 
 ### LncAS2Cancer: alternative splicing in lncRNAs in cancer
 Last update: 2021, February, 8th
