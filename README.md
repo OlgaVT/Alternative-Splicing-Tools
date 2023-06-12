@@ -1,5 +1,8 @@
 # Alternative Splicing Tools
 A list of alternative splicing analysis resources
+
+[Review 1](https://pubmed.ncbi.nlm.nih.gov/36999049/)
+
 ## Splice-aware mapping tools
 ### 2passtools: a filtered realignment
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33648554/)
@@ -549,6 +552,11 @@ Last release:_ not found_
 Last release: 2019, April, 9th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30021829/)
 * [GitHub](https://github.com/McIntyre-Lab/events)
+
+#### FASE
+Last release: 2023
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682028/)
+* [GitHub](https://github.com/harshsharma-cb/FASE)
 
 #### FineSplice: a TopHat2 wrapper to identify expressed juntions
 Last release: 2014, April, 1st
@@ -1447,6 +1455,10 @@ Last release:
 ### IsoCell: an approach for isoform-based single cell clustering
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35100120/)
 
+### MARVEL: an integrated alternative splicing analysis platform for single-cell RNA sequencing data
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36631981/)
+* [URL](https://cloud.r-project.org/web/packages/MARVEL/index.html)
+
 ### SICILIAN: splice junctions identfication in bulk and single RNA-Seq
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34353340/)
@@ -1463,6 +1475,9 @@ Last release: *not found*
 * [CRAN](https://cran.r-project.org/web/packages/VALERIE/index.html)
 
 ## Long reads
+
+[Review 1](https://pubmed.ncbi.nlm.nih.gov/37066125/)
+
 ### BRCA-LRseq-pipeline
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [GitHub](https://github.com/TheJacksonLaboratory/BRCA-LRseq-pipeline)
@@ -1781,6 +1796,11 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
 
 ### PIC-Me: a classification model between paralogs and isoforms
+Last release:
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36930678/)
+* [URL](http://hkumath.hku.hk/~wkc/PCB(data+code).zip)
+
+### PCB: approach to infer the dynamic regulatory relationships between alternative splicing events 
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
 
