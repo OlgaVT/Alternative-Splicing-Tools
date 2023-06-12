@@ -1167,6 +1167,11 @@ Last release: 2018, July, 3rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
 * [GitHub](https://github.com/comprna/MIRA)
 
+### MLCsplice
+Last release: 2022
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
+* [URL](http://39.105.51.3:8090/MLCsplice/)
+
 ### MMSplice: a tool for prediction of effect of genetic variants on alternative splicing
 Last release: 2021, February, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
@@ -1763,6 +1768,11 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599821/)
 * [URL](https://chessboard.readthedocs.io/en/latest/index.html)
 
+### EGIO: orthologous exons detection
+Last release
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35946527/)
+* [GitHub](https://github.com/wu-lab-egio/EGIO)
+
 ### Enhanced Integrated Gradients: a method to identify specific features
 Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
@@ -2321,6 +2331,7 @@ Last release:
 * [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
 * [Benchmarking deep learning splice prediction tools using functional splice assays](https://pubmed.ncbi.nlm.nih.gov/33942434/)
 * [Exon identity influences splicing induced by exonic variants and in silico prediction efficacy](https://www.sciencedirect.com/science/article/abs/pii/S1569199320309358?via%3Dihub)
+* [Performance evaluation of computational methods for splice-disrupting variants and improving the performance using the machine learning-based framework](https://pubmed.ncbi.nlm.nih.gov/35976049/)
 
 ### Splicing
 * [Computational comparison of common event-based differential splicing tools: practical considerations for laboratory researchers](https://pubmed.ncbi.nlm.nih.gov/34174808/)
