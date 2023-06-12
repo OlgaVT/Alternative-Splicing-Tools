@@ -1904,6 +1904,13 @@ Organism: human
 * [URL](http://www.cancersplicingqtl-hust.com/#/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30329095/)
 
+### CanIsoNet: a database to study the functional impact of isoform switching events in diseases
+Last update: 2023
+
+Organism: human
+* [URL](https://www.caniso.net)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37123454/)
+
 ### CuAS: a database of alternative splicing in cucumber
 Last update: 2021
 
