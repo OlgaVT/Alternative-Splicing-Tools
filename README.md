@@ -702,10 +702,17 @@ Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34033544/)
 * [GitHub] (https://github.com/jzbio/MultiTrans)
 
+### NBBt-test: a versatile method for differential analysis of multiple types of RNA-seq data
+Last release: 2022
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35896555/)
+* [URL](https://CRAN.R-project.org/package=NBBttest)
+
+
 #### NBSplice: a differential isoform usage
 Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31972288/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/NBSplice.html)
+
 
 #### NLDMSeq: an isoform quantification tool
 Last release: 2016, June, 27th (the last commit)
@@ -1496,6 +1503,10 @@ Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36631981/)
 * [URL](https://cloud.r-project.org/web/packages/MARVEL/index.html)
 
+### Psix: splicing that changes across a landscape of single cells
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35858747/)
+* [GitHub](https://github.com/lareaulab/Psix)
+
 ### scAllele: detection and analysis of variants in scRNA-seq
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36054357/)
 * [GitHub](https://github.com/gxiaolab/scAllele/)
@@ -1685,6 +1696,11 @@ Last release
 Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34698333/)
 * [GitHub](https://github.com/egaffo/CirComPara2)
+
+### Circ-LocNet: localisation prediction
+Last release: 2022
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35897818/)
+* [URL](https://circ_rna_location_predictor.opendfki.de/)
 
 ### CircSplice
 Last release: 2019, February, 27th
