@@ -1605,7 +1605,7 @@ Last release:
 * [GitHub] (https://github.com/ksahlin/ultra)
 
 
-## Isoform Function Prediction
+## Isoform Function Inference/Prediction
 
 ### DeepIDA: isoform-disease associations prediction
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33571094/)
@@ -1646,6 +1646,13 @@ Last release:
 Last release: 2019, April, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 * [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+
+### SAPFIR: A webserver for the identification of alternative protein features
+Last release: 2022
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35751026/)
+* [URL](https://bioinfo-scottgroup.med.usherbrooke.ca/sapfir/)
+* [GitHub](https://github.com/DelongZHOU/SAPFIR)
+
 
 ### SpliceTools: a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing
 Last release: 2023
@@ -1833,6 +1840,10 @@ Last release: 2020, February, 11th
 ### Exon ByPASS: predicting exon criticality
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35286381/)
 * [GitHub](https://github.com/wavelifescience/ExonByPass)
+
+### ExoPLOT
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35863675/)
+* [URL](http://retrogenomics3.uni-muenster.de:3838/exz-plot-d/)
 
 ### ExOrthist: an exon evolution
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34416914/)
@@ -2137,6 +2148,11 @@ Organism: Human
 * [URL](https://ccsm.uth.edu/ExonSkipDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642488/)
 
+### FishExp: A comprehensive database and analysis platform for gene expression and alternative splicing of fish species
+Organism: Fish
+* [URL](https://bioinfo.njau.edu.cn/fishExp)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35891795/)
+
 ### FungiExp
 Last update: 2023
 
@@ -2366,6 +2382,10 @@ Last release:
 ### Jutils: A visualization toolkit for differential alternative splicing events
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
 * [GitHub](https://github.com/Splicebox/Jutils)
+
+### ScisorWiz: visualizing differential isoform expression in single-cell long-read data
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
+* [GitHub](http://github.com/ans4013/ScisorWiz)
 
 ## Structures
 ### surfaltr: An R/Bioconductor package to benchmark surface protein isoforms by rapid prediction and visualization of transmembrane topologies
