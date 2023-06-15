@@ -2316,8 +2316,12 @@ Last update:
 * [URL](http://rna.recount.bio/)
 
 ### SASD: the Synthetic Alternative Splicing Database for identifying novel isoform from proteomics
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
 * [URL] Does not work
+
+### SilkBase: an integrated transcriptomic and genomic database for Bombyx mori and related species
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
+* [URL](https://silkbase.ab.a.u-tokyo.ac.jp)
 
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
 Last update: 2013, February
