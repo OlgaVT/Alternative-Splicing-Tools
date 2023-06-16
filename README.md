@@ -941,6 +941,10 @@ Last release: 2018, November, 8th
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
 
+#### DJExpress: An Integrated Application for Differential Splicing Analysis and Visualization
+* [GitHub](https://github.com/MauerLab/DJExpress)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36304260/)
+
 ### diffUTR: a differential exon usage analysis
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33849458/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/diffUTR.html)
@@ -2415,6 +2419,11 @@ Last release:
 ### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
 * [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
+
+## Pipelines
+### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
+* [GitHub](https://github.com/hybridstat/seqcvibe )
 
 ## Benchmark studies
 
