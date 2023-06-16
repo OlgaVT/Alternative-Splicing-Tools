@@ -178,6 +178,11 @@ Last release:
 * [URL](http://ccb.jhu.edu/software/ASprofile/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24555089/)
 
+#### ASTool: AS detection from plant RNA-Seq
+Last release: 
+* [GitHub](https://github.com/zzd-lab/ASTool)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35456896/)
+
 #### AStrap: an alternative splicing event prediction from transcript sequence
 Last release: 2020, November, 13th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535139/)
@@ -1110,6 +1115,10 @@ Last release: *not found*
 ### CADD-splice: a a varian effect on alternative splicing
 * [URL](https://cadd.gs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33618777/)
+  
+### CI-SpliceAI: machine learning predictions of disease causing splicing variants
+* [URL](https://ci-spliceai.com)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
 
 ### CRYP-SKIP: an effect of exonic mutation
 Laste release: 2008
@@ -1478,6 +1487,11 @@ Last release: *not found*
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/PathwaySplice.html)
 
 ## Single cell data
+### acorde: networks of isoform co-usage from single cell data
+Last release: 
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35383181/)
+* [GitHub](https://github.com/ConesaLab/acorde)
+
 ### BRIE: an isoform quantification tool
 Last release: 2018, June, 3rd
 * [PubMed BRIE](https://pubmed.ncbi.nlm.nih.gov/28655331/)
@@ -2396,6 +2410,11 @@ Last release:
 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35678367/)
 * [Bioconductor](https://bioconductor.org/packages/surfaltr)
+ 
+## Functional interpretation
+### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
+* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
 
 ## Benchmark studies
 
