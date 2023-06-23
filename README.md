@@ -106,7 +106,9 @@ Last release: 2011, August, 10th
 #### SpliceFamAlign: a CDS-to-gene alignment
 Last release: 2018, August, 6th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30925859/)
+* [PubMed SpliceFamAlignMulti](https://pubmed.ncbi.nlm.nih.gov/36699392/)
 * [GitHub](https://github.com/UdeS-CoBIUS/SpliceFamAlign)
+* [GitHub SpliceFamAlignMulti](https://github.com/UdeS-CoBIUS/SpliceFamAlignMulti)
 
 #### SpliceMap: a splice-aware mapping tool
 Last release: 2010, October, 23rd
@@ -376,7 +378,8 @@ Last release:*not found*
 #### splAdder: an alternative splicing event detection tool
 Last release: 2019, November, 19th
 * [URL](https://bmi.inf.ethz.ch/supplements/spladder)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873928/)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/26873928/)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/35751815/)
 * [GitHub](https://github.com/ratschlab/spladder)
 
 #### Spliceator: a splice site prediction
@@ -481,7 +484,7 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32178699/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BANDITS.html)
 
-#### BayesDenovo: a transcriptome assembley
+#### BayesDenovo: a transcriptome assembly
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
 * [GitHub] (https://github.com/henryxushi/BayesDenovo)
@@ -2186,6 +2189,12 @@ Organism: Fungi
 * [URL](https://bioinfo.njau.edu.cn/fungiExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36655761/)
 
+### Gene Expression Nebulas (GEN): a comprehensive data portal integrating transcriptomic profiles across multiple species at both bulk and single-cell levels
+Last update:
+
+* [URL](https://ngdc.cncb.ac.cn/gen/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34591957/)
+
 ### GreenCircRNA
 * [URL](http://greencirc.cn/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
@@ -2203,6 +2212,13 @@ Last update: 2017, September, 29th
 Organism: human
 * [URL](http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23118488/)
+ 
+### The Human Proteoform Atlas
+Last update: 2022
+
+Organism: human
+* [URL](http://human-proteoform-atlas.org)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34986596/)
 
 ### IntroVerse: a comprehensive database of introns across human tissues
 Last update: 2023
@@ -2248,6 +2264,10 @@ Organism: human
 ### MeDAS: a Metazoan Developmental Alternative Splicing database
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33084905/)
 * [URL](https://das.chenlulab.com/#/)
+  
+### MetazExp
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34718719/)
+* [URL](https://bioinfo.njau.edu.cn/metazExp)
 
 ### MutSpliceDB: A database of splice sites variants with RNA-seq based evidence on effects on splicing
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33600011/)
@@ -2398,6 +2418,7 @@ Last update: 2020, May, 9th (the last commit)
 Last release: 2020, December, 21st
 * [URL](https://vastdb.crg.eu/wiki/Main_Page)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
+* [PubMed VAST-TOOLS](https://pubmed.ncbi.nlm.nih.gov/35895261/)
 
 ### VirusCircBase: a database of virus circular RNAs
 * [URL](http://www.computationalbiology.cn/ViruscircBase/home.html)
@@ -2427,6 +2448,10 @@ Last release:
 ### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
 * [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
+
+### factR: Functional Annotation of Custom Transcriptomes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html)
 
 ## Pipelines
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
