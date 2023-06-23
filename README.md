@@ -588,7 +588,8 @@ Last release: *not found*
 
 #### Graph Salmon: a transcript abundance quantification
 Last release:
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33971903/)
+* [Pubmed 1](https://pubmed.ncbi.nlm.nih.gov/33971903/)
+* [Pubmed 2](https://pubmed.ncbi.nlm.nih.gov/35041494/)
 * [GitHub](https://github.com/Kingsford-Group/subgraphquant)
 
 #### GSReg: a differential isoform expression
@@ -1424,10 +1425,6 @@ Last release: March, 2021 (the last commit)
 ### Long-Read-Proteogenomics
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241129/)
 * [GitHub](https://github.com/sheynkman-lab/Long-Read-Proteogenomics)
-### pgdb and pypgatk: creation of proteogenomics databases based on ENSEMBL resources
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34904638/)
-* [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
-* [URL pgdb](https://nf-co.re/pgdb)
 
 ### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
 Last release: *not found*
@@ -1444,6 +1441,13 @@ Last release: 2019, April, 29th
 Last release: 2017, June 21st (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
 * [GitHub](https://github.com/yafeng/SpliceVista)
+
+## Proteogenomics
+
+### pgdb and pypgatk: creation of proteogenomics databases based on ENSEMBL resources
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34904638/)
+* [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
+* [URL pgdb](https://nf-co.re/pgdb)
 
 ### SPLICIFY: a proteogenomic pipeline for differential splice variant identification
 Last release: 2018, May, 28th
@@ -1551,6 +1555,10 @@ Last release: *not found*
 ### BRCA-LRseq-pipeline
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [GitHub](https://github.com/TheJacksonLaboratory/BRCA-LRseq-pipeline)
+
+### brca-isoforms: long-read isoform analysis platform and sequencing resource for breast cancer
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
+* [URL](https://brca-isoforms.jax.org/)
 
 ### deSALT: an alignment tool
 Last release: 2020, August, 20th
