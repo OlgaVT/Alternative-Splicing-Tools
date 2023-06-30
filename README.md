@@ -5,6 +5,7 @@ A list of alternative splicing analysis resources
 [Review 2](https://pubmed.ncbi.nlm.nih.gov/36987778/)
 [Review 3](https://pubmed.ncbi.nlm.nih.gov/29931155/)
 [Review 4](https://academic.oup.com/bib/article/22/6/bbab259/6330938?login=true)
+[Review 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728800/)
 
 ## Splice-aware mapping tools
 ### 2passtools: a tool for filtering long RNA-Seq alignment from minimap2
@@ -12,29 +13,24 @@ A list of alternative splicing analysis resources
 * [GitHub](https://github.com/bartongroup/2passtools)
 
 #### BBMap
-Last release: 2021, February, 3rd
 * [URL](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
 * [GitHub](https://github.com/BioInfoTools/BBMap)
 * [Paper](http://bib.irb.hr/datoteka/773708.Josip_Maric_diplomski.pdf)
 
 #### BFAST: a BLAT-like mapping tool. Only for SOLiD data.
-Last release: 2011, October, 29th
 * [URL](https://sourceforge.net/projects/bfast/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19907642/)
 * [GitHub](https://github.com/nh13/bfast)
 
 #### ContextMap2
-Last release: *not found*
 * [URL](https://www.bio.ifi.lmu.de/software/contextmap/)
 * [PubMed](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0557-5)
 
-#### CRAC
-Last release: 2016, January, 29th
+#### CRAC (Not available)
 * [URL](http://crac.gforge.inria.fr/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23537109/)
 
 #### DART
-Last release: 2019, May, 7th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968831/)
 * [GitHub](https://github.com/hsinnan75/Dart)
 
@@ -43,35 +39,30 @@ Last release: 2019, May, 7th
 * [GitHub](https://github.com/frarei312/ExceS-A-An-Exon-Centric-Split-Aligner)
 
 #### GSNAP
-Last release: 2021, February, 22nd
 * [URL](http://research-pub.gene.com/gmap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20147302/)
 
 #### HISAT2
-Last release: 2020, July, 24th
 * [URL](http://daehwankimlab.github.io/hisat2/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31375807/)
 * [GitHub](https://github.com/DaehwanKimLab/hisat2)
 * [Pubmed HISAT-3N] (https://pubmed.ncbi.nlm.nih.gov/34103331/)
 
 #### iMapSplice: a personalized RNA-Seq alignment tool
-Last release: 2019, February, 8th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30096157/)
 * [GitHub](https://github.com/LiuBioinfo/iMapSplice)
 
 #### Magic-BLAST
-Last release: 2021, March
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31345161/)
+* [URL](https://ncbi.github.io/magicblast/)
 * [GitHub](https://github.com/ncbi/magicblast)
 
 #### MapSplice3
-Last release: 2019, May, 30th (the last commit)
 * [URL](http://www.netlab.uky.edu/p/bioinfo/MapSplice2)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20802226/)
 * [GitHub](https://github.com/LiuBioinfo/MapSplice)
 
 #### minimap2
-Last release: 2019, May, 5th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29750242/)
 * [GitHub](https://github.com/lh3/minimap2)
 
@@ -81,19 +72,16 @@ Last release: 2013, July, 2013
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21154708/)
 
 #### Rail-RNA: a cloud-enabled splice-aware mapping tool
-Last release: 
 * [URL](http://rail.bio/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27592709/)
 * [GitHub](https://github.com/nellore/rail/releases)
 
 #### RUM: a splice-aware mapping tool
-Last release: 2015, January, 27th
 * [URL](http://cbil.upenn.edu/RUM/)
 * [GitHub](https://github.com/itmat/rum)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
 
 #### Scipio: a BLAT-based alignment tool to determine the gene structure given a protein sequence and a genome sequence
-Last release: 2013, May, 24th
 * [URL](https://www.webscipio.org/webscipio/download_scipio)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
 
