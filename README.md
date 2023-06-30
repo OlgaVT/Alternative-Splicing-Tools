@@ -4,6 +4,7 @@ A list of alternative splicing analysis resources
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/36999049/)
 [Review 2](https://pubmed.ncbi.nlm.nih.gov/36987778/)
 [Review 3](https://pubmed.ncbi.nlm.nih.gov/29931155/)
+[Review 4](https://academic.oup.com/bib/article/22/6/bbab259/6330938?login=true)
 
 ## Splice-aware mapping tools
 ### 2passtools: a filtered realignment
