@@ -2453,7 +2453,11 @@ Last release:
 
 ### factR: Functional Annotation of Custom Transcriptomes
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html) 
+
+### NEASE
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
+* [GitHub](https://github.com/louadi/NEASE) 
 
 ## Pipelines
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
