@@ -7,20 +7,21 @@ A list of alternative splicing analysis resources
 [Review 4](https://academic.oup.com/bib/article/22/6/bbab259/6330938?login=true)
 
 ## Splice-aware mapping tools
-### 2passtools: a filtered realignment
+### 2passtools: a tool for filtering long RNA-Seq alignment from minimap2
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33648554/)
 * [GitHub](https://github.com/bartongroup/2passtools)
 
 #### BBMap
 Last release: 2021, February, 3rd
-* [URL](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/)
+* [URL](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
 * [GitHub](https://github.com/BioInfoTools/BBMap)
 * [Paper](http://bib.irb.hr/datoteka/773708.Josip_Maric_diplomski.pdf)
 
-#### BFAST: a BLAT-like mapping tool
+#### BFAST: a BLAT-like mapping tool. Only for SOLiD data.
 Last release: 2011, October, 29th
 * [URL](https://sourceforge.net/projects/bfast/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19907642/)
+* [GitHub](https://github.com/nh13/bfast)
 
 #### ContextMap2
 Last release: *not found*
