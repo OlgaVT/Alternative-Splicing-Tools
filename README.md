@@ -105,102 +105,58 @@ featureCounts is a part of Subread to count features expression
 * [Review 2](https://pubmed.ncbi.nlm.nih.gov/35217565/)
 
 ### Event-level
-### AltAnalyze: an alternative splicing event detection tool
-Kallisto-Splice is a part of a tool for a splice-aware mapping
-
-Last release: 2021, January, 14th
-* [URL](http://www.altanalyze.org/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
 
 ### ARH-Seq: a differential splicing detection tool
-Last release: 2014
-
 The R code is in the supplementary materials
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24920826/)
 
+#### ASD: an alternative splicing event detection tool
+* [URL](https://soft.novelbio.com/asd/index.html)
+* [GitHub](https://github.com/NovelBioCloud/NBCsoftware)
+* [PubMed](10.1093/nar/gkt1387)
+
 #### ASDT: an alternative splicing event detection tool
-Last release: 2018, April, 17th
 * [URL](http://aias.biol.uoa.gr/~mtheo/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30069446/)
 
 #### ASGAL: an alternative splicing event detection tool
-Last release: 2020, June, 22nd
 * [URL](https://asgal.algolab.eu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30458725/)
 * [GitHub](https://github.com/AlgoLab/galig)
 
 #### ASpediaFI: identification of DAS events and co-regulated genes and pathways
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
-* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
+* [Bioconductor: No documentation](https://bioconductor.org/packages/ASpediaFI)
 
 #### AS-Quant
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33922891/)
 * [GitHub](https://github.com/CompbioLabUCF/AS-Quant)
 
 #### ASpli: an alternative splicing event and differential splicing detection tool
-Last release: 2017, February, 25th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33677494/)
 * [GitHub](https://github.com/estepi/ASpli)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/ASpli.html)
 
 #### ASprofile: an alternative splicing event detection tool
-Last release: 
 * [URL](http://ccb.jhu.edu/software/ASprofile/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24555089/)
 
 #### ASTool: AS detection from plant RNA-Seq
-Last release: 
 * [GitHub](https://github.com/zzd-lab/ASTool)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35456896/)
 
 #### AStrap: an alternative splicing event prediction from transcript sequence
-Last release: 2020, November, 13th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535139/)
 * [GitHub](https://github.com/BMILAB/AStrap)
 
 #### CASH: a differential splicing analysis tool
-Last release: 2018, April, 3rd
 * [URL 1](https://soft.novelbio.com/cash/)
 * [URL 2](https://sourceforge.net/projects/cash-program/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28387786/)
 
-#### CATANA: an alternative splicing annotation
-Last release: 2018, November, 28th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202999/)
-* [GitHub](https://github.com/shiauck/CATANA)
-
-#### casper: an alternative splicing event detection tool
-Last release: *not found*
-* [Biocondictor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24795787/)
-
-#### COSSMO: an alternative splicing site usage prediction
-Last release: 2018, July, 4th (the last commit)
-* [URL](http://cossmo.genes.toronto.edu/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949959/)
-* [GitHub](https://github.com/PSI-Lab/COSSMO)
-
-### DeepASmRNA
-Last release: 2022
-* [URL](http://cmb.bnu.edu.cn/DeepASmRNA/index.php/download)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36325068/)
-* [GitHub](	https://github.com/CMB-BNU/DeepASmRNA)
-
-
 #### DARTS: an alternative splicing event detection tool
-Last release: 2019, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30923373/)
 * [GitHub](https://github.com/Xinglab/DARTS)
-
-#### Deep Splicing Code: an alternative splicing event prediction from sequence
-Last release: 2020, September, 5th (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
-* [GitHub](https://github.com/louadi/DSC)
-
-#### DIEGO: a differential alternative splicing tool
-Last release: 2019, December, 3rd
-* [URL](http://www.bioinf.uni-leipzig.de/Software/DIEGO/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29088309/)
 
 #### DSGseq: a differential splicing detection tool
 Last release: 2012, May, 14th
@@ -479,6 +435,10 @@ Laste release:
 Last release: 2017
 * [URL](http://genomics.chpc.utah.edu/cas/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
+
+#### casper: an alternative splicing event detection tool
+* [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24795787/)
 
 #### CEM: a transcriptome assmbly and isoform quantification tool
 Last release: 2012, November, 17th
@@ -913,6 +873,10 @@ Last release: 2018, November, 8th
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
 
+#### DIEGO: a differential alternative splicing tool
+* [URL](http://www.bioinf.uni-leipzig.de/Software/DIEGO/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29088309/)
+
 #### DJExpress: An Integrated Application for Differential Splicing Analysis and Visualization
 * [GitHub](https://github.com/MauerLab/DJExpress)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36304260/)
@@ -1096,6 +1060,12 @@ Last release: *not found*
 * [URL](https://ci-spliceai.com)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
 
+#### COSSMO: an alternative splicing site usage prediction
+Last release: 2018, July, 4th (the last commit)
+* [URL](http://cossmo.genes.toronto.edu/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949959/)
+* [GitHub](https://github.com/PSI-Lab/COSSMO)
+
 ### CRYP-SKIP: an effect of exonic mutation
 Laste release: 2008
 * [URL](https://cryp-skip.img.cas.cz/)
@@ -1109,8 +1079,19 @@ Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33588916/)
 * [GitHub](https://github.com/shabirmoosa/DASSI)
 
+### DeepASmRNA
+Last release: 2022
+* [URL](http://cmb.bnu.edu.cn/DeepASmRNA/index.php/download)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36325068/)
+* [GitHub](https://github.com/CMB-BNU/DeepASmRNA)
+
 #### DeepDSSR: a donor splice site recognition (a model)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
+
+#### Deep Splicing Code: an alternative splicing event prediction from sequence
+Last release: 2020, September, 5th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
+* [GitHub](https://github.com/louadi/DSC)
 
 ### DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33538820/)
@@ -1763,10 +1744,7 @@ Last release
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 ## Other
-### 3D RNA-Seq: a pipeline
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
-* [URL](https://3drnaseq.hutton.ac.uk/app_direct/3DRNAseq/)
-* [GitHub](https://github.com/wyguo/ThreeDRNAseq)
+
 
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
@@ -2426,6 +2404,20 @@ Last release:
 * [GitHub](https://github.com/louadi/NEASE) 
 
 ## Pipelines
+### 3D RNA-Seq: a pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
+* [URL](https://3drnaseq.hutton.ac.uk/app_direct/3DRNAseq/)
+* [GitHub](https://github.com/wyguo/ThreeDRNAseq)
+
+### AltAnalyze: an alternative splicing event detection tool
+Kallisto-Splice is part of a tool for a splice-aware mapping
+* [URL](http://www.altanalyze.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+ 
+### DICAST
+* [GitHub]
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
+
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
 * [GitHub](https://github.com/hybridstat/seqcvibe )
