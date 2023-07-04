@@ -159,66 +159,53 @@ The R code is in the supplementary materials
 * [GitHub](https://github.com/Xinglab/DARTS)
 
 #### DSGseq: a differential splicing detection tool
-Last release: 2012, May, 14th
-* [URL](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
+* [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
 
 #### EventPointer: an alternative splicing event detection tool
-Last release: *not found* 
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27315794/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30253752/)
 * [PubMed 3](https://pubmed.ncbi.nlm.nih.gov/36128425/)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/EventPointer.html)
 
 #### FakIR: an intron retention identification tool
-Last release: 2021, January, 28th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33073477/)
 * [GitHub](https://github.com/lbroseus/FakIR)
 
-#### FARLINE: a pipeline for alternative splicing event detection
-Last release: *not found*
+#### FaRLine: a pipeline for alternative splicing event detection
 * [URL](http://kissplice.prabi.fr/pipeline_ks_farline/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29523794/)
 
 #### GESS: an exon skipping detection tool
-Last release: *not found*
+Based on not supporting tool MISO
 * [URL](http://jinlab.net/GESS_Web/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24369421/)
 
 #### iDiffIR: a differential intron retention tool
-Last release: 2015
 * [URL](https://combi.cs.colostate.edu/idiffir/introduction.html)
 * [Bitbucket](https://bitbucket.org/comp_bio/idiffir/src/master/)
 
 #### IntEREst: an intron retention identification tool
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IntEREst.html)
 
 #### iREAD: an intron retention identification tool
-Last release: 2021, February, 16th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32028886/)
 * [GitHub](https://github.com/genemine/iread)
 
 #### IRFinder: an intron retention identification tool
-Last release: 2020, August, 27th
+IRFinder is not maintained
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28298237/)
 * [Pubmed IRFinder-S](https://pubmed.ncbi.nlm.nih.gov/34749764/)
 * [GitHub](https://github.com/williamritchie/IRFinder)
 * [GitHub IRFInder-S](https://github.com/RitchieLabIGH/IRFinder)
 
-#### IsoSplitter
-Last release:
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021065/)
-* [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
-
 #### jSplice: a differential splicing detection tool
-Last release: 2017, July, 4th. Not maintained.
+Not maintained.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27153587/)
 * [GitHub](https://github.com/yannchristinat/jsplice)
 
 #### JUM: an alternative splicing event detection tool
-Last release: 2019, July, 2019
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30104386/)
 * [GitHub](https://github.com/qqwang-berkeley/JUM)
 
@@ -234,17 +221,13 @@ Last release: 2020, July, 2nd
 * [URL 2](http://kissplice.prabi.fr/pipeline_ks_farline/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/22537044/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/29523794/)
+* [Bioconductor KissDE](https://bioconductor.org/packages/release/bioc/html/kissDE.html)
 
 #### MAJIQ: an alternative splicing event detection tool
 Last release: *not found*
 * [URL](https://majiq.biociphers.org/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/26829591/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/29236961/)
-
-#### Manananggal: a visualization of alternative splicing events
-Last release: 2016, December, 8th (the last commit)
-* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
-* [GitHub](https://github.com/barannm/Manananggal)
 
 #### MntJULiP
 Last release: 2022
@@ -577,6 +560,10 @@ Last release: 2012, November, 17th
 Last release: 2017, September, 14th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28316149/)
 * [GitHub](https://github.com/liuxiaoxian/IsoSeq_AS_de_novo)
+
+#### IsoSplitter
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021065/)
+* [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
 
 #### ISP: a tool for isoforms inference
 Last release: 2014, October, 15th
@@ -2173,6 +2160,9 @@ Organism: human
 * [URL](https://rytenlab.com/browser/app/introverse)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36399497/)
 
+### iRBase
+* [URL](https://irbase.igh.cnrs.fr/)
+
 ### ISOdb: a database of Iso-Seq isoforms
 Last update: 2018, March, 5th
 
@@ -2375,6 +2365,11 @@ Last release: 2020, December, 21st
 Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
 * [URL](https://dochap.bgu.ac.il/)
+
+#### Manananggal: a visualization of alternative splicing events
+Last release: 2016, December, 8th (the last commit)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
+* [GitHub](https://github.com/barannm/Manananggal)
 
 ### Jutils: A visualization toolkit for differential alternative splicing events
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
