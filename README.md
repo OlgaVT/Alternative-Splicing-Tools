@@ -34,10 +34,6 @@ A list of alternative splicing analysis resources
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968831/)
 * [GitHub](https://github.com/hsinnan75/Dart)
 
-#### ExceS-A
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35254744/)
-* [GitHub](https://github.com/frarei312/ExceS-A-An-Exon-Centric-Split-Aligner)
-
 #### GSNAP
 * [URL](http://research-pub.gene.com/gmap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20147302/)
@@ -81,48 +77,28 @@ Last release: 2013, July, 2013
 * [GitHub](https://github.com/itmat/rum)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
 
-#### Scipio: a BLAT-based alignment tool to determine the gene structure given a protein sequence and a genome sequence
-* [URL](https://www.webscipio.org/webscipio/download_scipio)
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/18554390/)
-
 #### segemehl
-Last release: 2018, December, 25th
 * [URL](https://www.bioinf.uni-leipzig.de/Software/segemehl/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24626854/)
 
 #### SeqSaw: a splice-aware mapping tool
-Last release: 2011, August, 10th
-* [URL](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
+* [URL - not available](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
 
-#### SpliceFamAlign: a CDS-to-gene alignment
-Last release: 2018, August, 6th (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30925859/)
-* [PubMed SpliceFamAlignMulti](https://pubmed.ncbi.nlm.nih.gov/36699392/)
-* [GitHub](https://github.com/UdeS-CoBIUS/SpliceFamAlign)
-* [GitHub SpliceFamAlignMulti](https://github.com/UdeS-CoBIUS/SpliceFamAlignMulti)
-
 #### SpliceMap: a splice-aware mapping tool
-Last release: 2010, October, 23rd
 * [URL](https://web.stanford.edu/group/wonglab/SpliceMap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20371516/)
 
 #### Subread: a splice-aware mapping tool
-Last release: 2020, May, 13th
-
 featureCounts is a part of Subread to count features expression
 * [URL](http://subread.sourceforge.net/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30783653/)
+* [Bioconductor](http://www.bioconductor.org/packages/release/bioc/html/Rsubread.html)
+* [PubMed RSubread](https://pubmed.ncbi.nlm.nih.gov/30783653/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23558742/)
 
 #### STAR: a splice-aware mapping tool
-Last release: 2021, February, 20th
 * [GitHub](https://github.com/alexdobin/STAR/releases)
 * [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530905/)
-
-#### UnSplicer: a splice-aware alignment and junction detection tool
-Last release: 2013, November, 25th
-* [URL](http://exon.gatech.edu/Genemark/paul/unsplicer/index.htm)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24259430/)
 
 ## Alternative splicing and differential splicing detection tools
 * [Review 1](https://pubmed.ncbi.nlm.nih.gov/33425250/)
