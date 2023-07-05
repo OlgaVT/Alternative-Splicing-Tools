@@ -210,13 +210,11 @@ Not maintained.
 * [GitHub](https://github.com/qqwang-berkeley/JUM)
 
 #### Keep Me Around: an intron retention identification tool
-Last release: 2019, January, 30th (the last commit)
 * [arRxiv](https://arxiv.org/abs/1510.00696)
 * [GitHub](https://github.com/pachterlab/kma)
 
 #### KISSPLICE: an alternative splicing event detection tool
 KISSDE for differential splicing analysis
-Last release: 2020, July, 2nd
 * [URL 1](http://kissplice.prabi.fr/)
 * [URL 2](http://kissplice.prabi.fr/pipeline_ks_farline/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/22537044/)
@@ -224,138 +222,79 @@ Last release: 2020, July, 2nd
 * [Bioconductor KissDE](https://bioconductor.org/packages/release/bioc/html/kissDE.html)
 
 #### MAJIQ: an alternative splicing event detection tool
-Last release: *not found*
 * [URL](https://majiq.biociphers.org/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/26829591/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/29236961/)
 
 #### MntJULiP
-Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36104797/)
 * [GitHub](https://github.com/splicebox/MntJulip/)
 
 #### nagnag: a nagnag splicing prediction tool
-Last release: 2015, August, 4th
 * [URL](https://sourceforge.net/projects/nagnag/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26028313/)
 
 #### psichomics: an alternative splicing quantification and visualization tool
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30277515/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/psichomics.html)
 
 #### PSI-Sigma: a differential splicing detection tool
-Last release: 2021, February, 16th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31135034/)
 * [GitHub](https://github.com/wososa/PSI-Sigma)
 
 #### PTESFinder: a post-transcriptional exon shuffling
-Last release: 2019, September, 4th
 * [URL](https://sourceforge.net/projects/ptesfinder-v1/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26758031/)
 
 #### rMATS: a differential splicing detection
-Last release: 2021, February, 8th
 * [URL](http://rnaseq-mats.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25480548/)
 * [GitHub](https://github.com/Xinglab/rmats-turbo)
 
-#### RNAprof: a differential RNA processing tool
-Last release: 2017, May, 24th
-* [URL](http://rssf.i2bc.paris-saclay.fr/Software/rnaprof.php)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26849165/)
-
 #### SAJR: a differential splicing tool
-Last release: *not found*
-* [URL](http://storage.bioinf.fbb.msu.ru/~mazin/)
+* [URL Not available](http://storage.bioinf.fbb.msu.ru/~mazin/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23340839/)
 
-#### SeqGSEA: a gene set enrichment analysis with differential expression and splicing
-Last release: 2018, December, 12th (the last commit)
-
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SeqGSEA.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
-* [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
-
 #### SGSeq: an alternative splicing event detection tool
-Last release:*not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27218464/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SGSeq.html)
 
 #### splAdder: an alternative splicing event detection tool
-Last release: 2019, November, 19th
 * [URL](https://bmi.inf.ethz.ch/supplements/spladder)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/26873928/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/35751815/)
 * [GitHub](https://github.com/ratschlab/spladder)
 
-#### Spliceator: a splice site prediction
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34814826/)
-* [GitLab](https://git.unistra.fr/nscalzitti/spliceator)
-* [URL](http://www.lbgi.fr/spliceator/)
-
 #### SpliceDetector: an alternative splicing event detection tool
-Last release: *not found*
 * [URL Google Drive](https://drive.google.com/open?id=1dlXKzbvxOH3A85_DVR__V2eI5s16-llv)
 * [URL Dropbox](https://www.dropbox.com/s/j5o0og159ig6tej/SpliceDetector%20Executable%20File.rar?dl=0)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29567976/)
 
-#### SplicePie: an order of splicing prediction
-Last release: 2015, February, 20th (the last commit)
-
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25800735/)
-* [GitHub](https://github.com/pulyakhina/splicing_analysis_pipeline)
-
-#### spliceR: a tool for alternative splicing events, differential splicing detection and isoform switching
-Last release:_ not found_. Published in 2014
-
+#### spliceR: a tool for alternative splicing events, differential splicing detection, and isoform switching
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
 
 #### SpliceSeq: a tool for investigation of alternative mRNA splicing patterns in data from RNA-seq.
-The tool detects events, compares between samples and predicts the consequence on a protein structure
-
-Last release: 2014, February, 21st
 * [URL](https://bioinformatics.mdanderson.org/public-software/spliceseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22820202/)
 
 #### SplicingCompass: a differential splicing tool
-Last release: 2019, October, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23449093/)
 * [GitHub](https://github.com/KoenigLabNM/SplicingCompass)
 
-#### SplicingTypesAnno: a alternative splicing event detection tool
-Last release: 2015, July, 31st
+#### SplicingTypesAnno: an alternative splicing event detection tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25720307/)
 * [URL](https://sourceforge.net/projects/splicingtypes/files/)
 
-#### SpliSER: a splice site strength quantification
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34017946/)
-* [Github] (https://github.com/CraigIDent/SpliSER)
-
 #### SUVA
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34152934/)
-* [Github] (https://github.com/ablifedev/SUVA)
-
-#### Vials: a visualization of alternative splicing tool
-Last release: 2017, February, 7th
-* [URL](http://vials.io/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26529712/)
-* [GitHub (archived)](https://github.com/Caleydo/vials)
-
-#### Webscipio: a web tool for prediction of eukaryotic gene structures
-Last release:
-* [URL](https://www.webscipio.org/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21718515/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34152934/)
+* [Github](https://github.com/ablifedev/SUVA)
 
 #### Whippet: an alternative splicing event detection tool
-Last release: 2021, March
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30220560/)
 * [GitHub](https://github.com/timbitz/Whippet.jl)
 
 #### Yanagi: a differential alternative splicing tool
-Last release: 2019, November, 27th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31409274/)
 * [GitHub](https://github.com/HCBravoLab/yanagi)
 
@@ -965,6 +904,15 @@ Last release: 2016, January, 6th
 * [GitHub RSR](https://github.com/xuric/read-split-run)
 * [GitHub RSF](https://github.com/kinnejeff/read-split-fly)
 
+#### RNAprof: a differential RNA processing tool
+* [URL](http://rssf.i2bc.paris-saclay.fr/Software/rnaprof.php)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26849165/)
+
+#### SeqGSEA: a gene set enrichment analysis with differential expression and splicing
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SeqGSEA.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
+* [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
+
 #### SpliceJumper: a splice junctions detection
 Last release: 2015, June, 29th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26678515/)
@@ -989,6 +937,10 @@ Last release: 2013, May, 17th
 Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
 * [GitHub](https://github.com/flemingtonlab/SpliceV)
+
+#### SpliSER: a splice site usage quantification
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34017946/)
+* [Github](https://github.com/CraigIDent/SpliSER)
 
 #### SplicingGraphs: a splicing graphs creation, visualization and quantification tool
 Last release: 2020, November, 3rd
@@ -1245,6 +1197,11 @@ Last release: 2019, August, 7th
 Last release: 2020, March, 7th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30661751/)
 * [GitHub](https://github.com/Illumina/SpliceAI)
+
+#### Spliceator: a splice site prediction
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34814826/)
+* [GitLab](https://git.unistra.fr/nscalzitti/spliceator)
+* [URL](http://www.lbgi.fr/spliceator/)
 
 ### Spliceman: a web tool for predition of sequence variations in splicing
 Last release:
@@ -1931,6 +1888,10 @@ Last release: 2020, July, 6th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33752599/)
 * [GitHub](https://github.com/wenzelm/slidr-sloppr)
 
+#### SplicePie: an order of splicing prediction
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25800735/)
+* [GitHub](https://github.com/pulyakhina/splicing_analysis_pipeline)
+
 ### SpliZ: a splicing quantification score
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241832/)
 
@@ -2378,6 +2339,11 @@ Last release: 2016, December, 8th (the last commit)
 ### ScisorWiz: visualizing differential isoform expression in single-cell long-read data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
 * [GitHub](http://github.com/ans4013/ScisorWiz)
+
+#### Vials: a visualization of alternative splicing tool
+* [URL](http://vials.io/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26529712/)
+* [GitHub (archived)](https://github.com/Caleydo/vials)
 
 ## Structures
 ### surfaltr: An R/Bioconductor package to benchmark surface protein isoforms by rapid prediction and visualization of transmembrane topologies
