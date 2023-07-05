@@ -300,91 +300,49 @@ KISSDE for differential splicing analysis
 
 ### Isoform-level
 #### ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel
-Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33948626/)
 * [GitHub](https://github.com/mccabes292/actor)
 
 #### AERON: an isoform quantification and gene-fusion detection from long reads
-Last release: 2020, November, 23rd (the last commit)
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.27.921338v1)
 * [GitHub](https://github.com/SchulzLab/Aeron)
 
 #### Alexa-Seq: an isoform qunification and differential isoform expression tool
-Last release: *not found*. Not maintained.
+Not maintained.
 * [URL](http://www.alexaplatform.org/alexa_seq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20835245/)
 
-#### AstaFunk: an alternatively spliced domains detection
-Last release: *not found*
-* [URL](http://confluence.sammeth.net/display/ASTA/3.4+-+Tool+ASTAFUNK)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29868795/)
-
-#### Augustus: an isoform inference tool
-Last release: 2020, December, 11th
-* [URL](http://bioinf.uni-greifswald.de/augustus/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/16845043/)
-* [GitHub](https://github.com/Gaius-Augustus/Augustus)
-
 #### BANDITS: a differential isoform usage
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32178699/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BANDITS.html)
 
-#### BayesDenovo: a transcriptome assembly
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
-* [GitHub] (https://github.com/henryxushi/BayesDenovo)
-
 #### BIISQ: an isoform inference tool
-Last release: 2017, March, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29703885/)
 * [GitHub](https://github.com/bee-hive/BIISQ)
 
 #### BitSeq: an isoform quantification and differential isoform expression tool
-Last release: 2019, August, 12th (the last commit cjBitSeq)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BitSeq.html)
 * [PubMed BitSeq](https://pubmed.ncbi.nlm.nih.gov/22563066/)
 * [PubMed cjBitSeq](https://pubmed.ncbi.nlm.nih.gov/29091583/)
 * [GitHub cjBitSeq](https://github.com/mqbssppe/cjBitSeq)
+* [URL](https://code.google.com/archive/p/bitseq/)
 
 #### Cancer DEIso: a differential gene and isoform expression in cancer
-Laste release:
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34589189/)
-* [URL] (http://cosbi4.ee.ncku.edu.tw/DEIso/)
-
-#### CAS-viewer: a visualization tool of cancer alternatively splicing
-Last release: 2017
-* [URL](http://genomics.chpc.utah.edu/cas/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34589189/)
+* [URL Not available](http://cosbi4.ee.ncku.edu.tw/DEIso/)
 
 #### casper: an alternative splicing event detection tool
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/casper.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24795787/)
 
 #### CEM: a transcriptome assmbly and isoform quantification tool
-Last release: 2012, November, 17th
 * [URL](http://alumni.cs.ucr.edu/~liw/cem.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23060617/)
 
 #### CIDANE: an isoform quantification and reconstruction tool
-Last release: 2019, February, 12th
 * [URL](http://ccb.jhu.edu/software/cidane/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30539557/)
 * [Bitbucket](https://bitbucket.org/canzar/cidane/src/master/)
 
-#### CLASS2: a transcriptome assembly tool
-Last release: 2017, May, 17th
-* [URL](https://sourceforge.net/projects/splicebox/files/)
-* [PubMed CLASS](https://pubmed.ncbi.nlm.nih.gov/23734605/)
-* [PubMed CLASS2](https://pubmed.ncbi.nlm.nih.gov/26975657/)
-
-#### ConSemble: a tool for trascriptome assembly improvement
-Last release:
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674629/)
-* [URL] (http://bioinfolab.unl.edu/emlab/consemble/ )
- 
 #### Cufflinks: a suite of tools for an isoform quantification and differential isoform expression tool
 * Cufflinks assembles transcriptomes from RNA-Seq data and quantifies their expression.
 * Cuffcompare compares the assembled transcriptomes
@@ -398,55 +356,32 @@ Last release: 2016, July, 1st
 * [GitHub](https://github.com/cole-trapnell-lab/cufflinks)
 
 #### DiffSplice: a differential isoform expression detection tool
-Last release: 2013, January, 1st
-* [URL](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
+* [URL Not available](http://www.netlab.uky.edu/p/bioinfo/DiffSplice)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23155066/)
 
 #### DRIMseq: a differential isoform expression detection tool
-Last release: 2017, December, 20th (the last commit of BayesDRIMSeq)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28105305/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DRIMSeq.html)
 * [GitHub Bayes DRIMSeq](https://github.com/mqbssppe/BayesDRIMSeq)
 
 #### DTUrtle: a differential transcript usage for bulk and single-cell RNA-Seq
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34469510/)
-* [Github 1] (https://github.com/TobiTekath/DTUrtle)
-* [GitHub 2] (https://tobitekath.github.io/DTUrtle/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34469510/)
+* [Github 1](https://github.com/TobiTekath/DTUrtle)
+* [GitHub 2](https://tobitekath.github.io/DTUrtle/)
 
 #### EBseq: a differential isoform expression detection tool
-Last release:_ not found_
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23428641/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/EBSeq.html)
 
 #### Event Analysis: an isoform inference (a conda recipe)
-Last release: 2019, April, 9th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30021829/)
 * [GitHub](https://github.com/McIntyre-Lab/events)
 
 #### FASE
-Last release: 2023
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682028/)
 * [GitHub](https://github.com/harshsharma-cb/FASE)
 
-#### FineSplice: a TopHat2 wrapper to identify expressed juntions
-Last release: 2014, April, 1st
-* [URL](https://sourceforge.net/projects/finesplice/files/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24574529/)
-
-#### GFFView: a RNA-Seq viewer
-Last release: *not found*
-* [URL](http://120.27.116.110/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
-
-#### Graph Salmon: a transcript abundance quantification
-Last release:
-* [Pubmed 1](https://pubmed.ncbi.nlm.nih.gov/33971903/)
-* [Pubmed 2](https://pubmed.ncbi.nlm.nih.gov/35041494/)
-* [GitHub](https://github.com/Kingsford-Group/subgraphquant)
-
-#### GSReg: a differential isoform expression
-Last release: *not found*
+#### GSReg and SEVA: a differential isoform expression
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29342249/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GSReg.html)
 
@@ -455,24 +390,16 @@ Last release: 2020, May, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32660516/)
 * [GitHub](https://github.com/TheJacksonLaboratory/HBA-DEALS)
 
-#### Integrated Genome Browser: a visual analysis of alternative splicing
-Last release: 2020, December, 3rd 
-* [URL](https://www.bioviz.org/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
-
 #### iReckon: an isoform inference and quantification tool
-Last release: *not found*
 * [URL](http://compbio.cs.toronto.edu/ireckon/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23204306/)
 
 #### IsoEm2: an isoform quantification tool
-Last release: 2017, April, 3rd
 * [URL](https://dna.engr.uconn.edu/?page_id=105)
 * [GitHub](https://github.com/mandricigor/isoem2)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21504602/)
 
 #### IsoformSwitchAnalyzer: an isoform switch detection
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30989184/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IsoformSwitchAnalyzeR.html)
 
@@ -490,13 +417,7 @@ Last release: 2015, May, 5th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25578962/)
 * [BitBucket](https://bitbucket.org/regulatorygenomicsupf/iso-ktsp/src/master/)
 
-#### isoLASSO: a transcriptome assembly and isoform quantification tool
-Last release: 2012, November, 17th
-* [URL](http://alumni.cs.ucr.edu/~liw/isolasso.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951053/)
-
 #### IsoSeq de novo: an isoform identification from IsoSeq (Python scripts)
-Last release: 2017, September, 14th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28316149/)
 * [GitHub](https://github.com/liuxiaoxian/IsoSeq_AS_de_novo)
 
@@ -513,10 +434,6 @@ Last release: 2014, October, 15th
 Last release:_ not found_. Published in 2014.
 * [URL](https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25283306/)
-
-#### Jumper: a transcriptome assembly tool
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34795232/)
-* [GitHub](https://github.com/elkebir-group/Jumper)
 
 #### kallisto: an isoform quantification tool
 sleuth is a differential isoform expression tool after kallisto analysis
@@ -728,7 +645,8 @@ Last release: 2021, March, 4th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25690850/)
 
 #### subgraphquant: a transcript abundance estimator
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35041494/)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/35041494/)
+* [Pubmed 2](https://pubmed.ncbi.nlm.nih.gov/33971903/)
 * [GitHub](https://github.com/Kingsford-Group/subgraphquant)
 
 #### SUPPA: an isoform quantification tool
@@ -821,6 +739,10 @@ Last release: 2015, July, 17th (the last commit)
 #### ExCluster: a differential exon expression tool
 Last release: _not found_. Published in 2020.
 * [BioConductor](https://bioconductor.org/packages/release/bioc/html/ExCluster.html)
+
+#### FineSplice: a TopHat2 wrapper to identify expressed junctions
+* [URL](https://sourceforge.net/projects/finesplice/files/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24574529/)
 
 #### FreePSI: an exon-inclusion ratio quantification tool
 Last release: 2017, September, 5th
@@ -2322,19 +2244,34 @@ Last release: 2020, December, 21st
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32349124/)
 
 ## Visualization
+#### CAS-viewer: a visualization tool of cancer alternatively splicing
+Last release: 2017
+* [URL](http://genomics.chpc.utah.edu/cas/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
+
 ### DoChaP: a domain-splicing visualization
 Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
 * [URL](https://dochap.bgu.ac.il/)
 
-#### Manananggal: a visualization of alternative splicing events
-Last release: 2016, December, 8th (the last commit)
-* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
-* [GitHub](https://github.com/barannm/Manananggal)
+#### GFFView: a RNA-Seq viewer
+Last release: *not found*
+* [URL](http://120.27.116.110/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
+
+#### Integrated Genome Browser: a visual analysis of alternative splicing
+Last release: 2020, December, 3rd 
+* [URL](https://www.bioviz.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
 
 ### Jutils: A visualization toolkit for differential alternative splicing events
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
 * [GitHub](https://github.com/Splicebox/Jutils)
+
+#### Manananggal: a visualization of alternative splicing events
+Last release: 2016, December, 8th (the last commit)
+* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
+* [GitHub](https://github.com/barannm/Manananggal)
 
 ### ScisorWiz: visualizing differential isoform expression in single-cell long-read data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
@@ -2382,6 +2319,33 @@ Kallisto-Splice is part of a tool for a splice-aware mapping
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
 * [GitHub](https://github.com/hybridstat/seqcvibe )
+* 
+
+## Transcript assembly
+#### BayesDenovo: a transcriptome assembly
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
+* [GitHub] (https://github.com/henryxushi/BayesDenovo)
+
+#### CLASS2: a transcriptome assembly tool
+Last release: 2017, May, 17th
+* [URL](https://sourceforge.net/projects/splicebox/files/)
+* [PubMed CLASS](https://pubmed.ncbi.nlm.nih.gov/23734605/)
+* [PubMed CLASS2](https://pubmed.ncbi.nlm.nih.gov/26975657/)
+
+#### ConSemble: a tool for trascriptome assembly improvement
+Last release:
+
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674629/)
+* [URL] (http://bioinfolab.unl.edu/emlab/consemble/ )
+ 
+#### isoLASSO: a transcriptome assembly and isoform quantification tool
+Last release: 2012, November, 17th
+* [URL](http://alumni.cs.ucr.edu/~liw/isolasso.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951053/)
+
+#### Jumper: a transcriptome assembly tool
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34795232/)
+* [GitHub](https://github.com/elkebir-group/Jumper)
 
 ## Benchmark studies
 
