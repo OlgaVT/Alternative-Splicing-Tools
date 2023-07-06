@@ -381,12 +381,12 @@ Last release: 2016, July, 1st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682028/)
 * [GitHub](https://github.com/harshsharma-cb/FASE)
 
-#### GSReg and SEVA: a differential isoform expression
+#### SEVA: a differential isoform expression
+SEVA is implemented in the R package GSReg
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29342249/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GSReg.html)
 
 #### HBA-DEALS: a differential gene and isoform expression
-Last release: 2020, May, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32660516/)
 * [GitHub](https://github.com/TheJacksonLaboratory/HBA-DEALS)
 
@@ -404,59 +404,54 @@ Last release: 2020, May, 11th
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IsoformSwitchAnalyzeR.html)
 
 #### IsoformUsage
+The list of R scripts
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35042461/)
 * [GitHub](https://github.com/ZXiaopu/IsoformUsage/tree/main/dataAnalysis)
 
 #### IsoInfer: a tool for isoforms inference
-Last release: 2010, September, 9th
-* [URL](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
+* [URL Not available](http://www.cs.ucr.edu/%E2%88%BCjianxing/IsoInfer.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21385036/)
 
 #### iso-kTSP: an isoform switch detection
-Last release: 2015, May, 5th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25578962/)
 * [BitBucket](https://bitbucket.org/regulatorygenomicsupf/iso-ktsp/src/master/)
 
-#### IsoSeq de novo: an isoform identification from IsoSeq (Python scripts)
+#### IsoSeq de novo: an isoform identification from IsoSeq 
+The list of Python scripts
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28316149/)
 * [GitHub](https://github.com/liuxiaoxian/IsoSeq_AS_de_novo)
 
-#### IsoSplitter
+#### IsoSplitter: an isofrom quantification for long reads
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021065/)
 * [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
 
 #### ISP: a tool for isoforms inference
-Last release: 2014, October, 15th
 * [URL](http://alumni.cs.ucr.edu/~liw/isp.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25708199/)
 
 #### IUTA: a differential isoform expression tool
-Last release:_ not found_. Published in 2014.
 * [URL](https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25283306/)
 
 #### kallisto: an isoform quantification tool
 sleuth is a differential isoform expression tool after kallisto analysis
 
-Last release: 2020, February, 13th
 * [URL kallisto](https://pachterlab.github.io/kallisto/about)
 * [URL sleuth](http://pachterlab.github.io/sleuth/about)
 * [PubMed kallisto](https://pubmed.ncbi.nlm.nih.gov/27043002/)
 * [PubMed sleuth](https://pubmed.ncbi.nlm.nih.gov/28581496/)
 * [GitHub kallisto](https://github.com/pachterlab/kallisto)
 
-### metaDIEA: a differential isoform expression analysis
-Last release
+#### metaDIEA: a differential isoform expression analysis
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34698224/)
 * [GitHub] (https://github.com/BiodataAnalysisGroup/metaDIEA)
 
 #### MMSEQ: an isoform quantification tool
-Last release: 2019, November, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
 * [GitHub](https://github.com/eturro/mmseq)
 
 #### MISO: a differential isoform expression tool
-Last release: 2019, May, 17th. No longer maintained.
+Not maintained
 * [URL](http://hollywood.mit.edu/burgelab/miso/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21057496/)
 * [GitHub](https://github.com/yarden/MISO)
@@ -655,6 +650,8 @@ Last release: 2018, February, 22nd
 * [PubMed SUPPA2](https://pubmed.ncbi.nlm.nih.gov/29571299/)
 * [GitHub](https://github.com/comprna/SUPPA)
 * [BitBucker](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
+
+#### SwitchSeq
 
 #### tappAS: a functional effect of alternative splicing
 Last release: 2021, January, 8th
