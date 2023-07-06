@@ -542,48 +542,28 @@ The variant of the tools is pRSEM: an isoform quantification with a complementar
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27522083/)
 * [GitHub](https://github.com/ewyang089/SDEAP/wiki)
 
-#### SigFuge: a differential isoform expression detection tool
-* [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
-
 #### SLIDE: an isoform inference and quantification tool
-Last release: 2012, May, 17th
+No documentation
 * [URL](http://www.stat.ucla.edu/~jingyi.li/software-and-data.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22135461/)
 
-#### SOAPdenovo-trans: a transcriptome assembly tool
-Last release: 2017, August, 23rd
-* [URL](https://sourceforge.net/projects/soapdenovotrans/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
-* [GitHub](https://github.com/aquaskyline/SOAPdenovo-Trans)
-
 #### Sparselso: an isoform identification tool
-Last release: 2017, October, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968634/)
 * [GitHub](https://github.com/henryxushi/SparseIso)
 
 #### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
-Last release: 2014, April, 24th
 * [URL](http://splicegrapher.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22293517/)
 
 #### spliceR: a tool for alternative splicing, differential detection and isoform switching
-Last release:_ not found_. Published in 2014
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
 
-### SplicingFactory: an isoform diversity
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34499147/)
-* [Bioconductor] https://www.bioconductor.org/packages/release/bioc/html/SplicingFactory.html
-
-### Spycone
-Last release: 2023
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36579860/)
-* [GitHub](https://github.com/yollct/spycone) 
+#### SplicingFactory: an isoform diversity
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34499147/)
+* [Bioconductor]https://www.bioconductor.org/packages/release/bioc/html/SplicingFactory.html
 
 #### StringTie: a transcriptome assembly and isoform quantification tool
-Last release: 2021, March, 4th
 * [URL](http://ccb.jhu.edu/software/stringtie/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25690850/)
 
@@ -602,55 +582,20 @@ Last release: 2018, February, 22nd
 #### SwitchSeq
 
 #### tappAS: a functional effect of alternative splicing
-Last release: 2021, January, 8th
 * [URL](https://app.tappas.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32423416/)
 
 #### TIGAR2: an isoform quantification tool from longer RNA-Seq
-Last release: 2015, February, 19th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23821651/)
 * [GitHub](https://github.com/nariai/tigar2)
 
-#### Tiglon: a trascriptome assembly
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35355524/)
-* [GitHub](https://github.com/yutingsdu/Tiglon-v.1.1)
-
-#### TRANS-Abyss: a transcriptome assembly tool
-Last release: 2018, February, 19th
-* [URL](https://www.bcgsc.ca/resources/software/trans-abyss)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20935650/)
-* [GitHub](https://github.com/bcgsc/transabyss)
-
-#### TransRef: a transcriptome assembly
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34254977/)
-* [Sourceforge] (https://sourceforge.net/projects/transassembly/files/)
-
 #### Traph: an isoform quantification tool
-Last release: 2014, September, 2nd
 * [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734627/)
 
 #### TRIMD: Iso-Seq, RNA-Seq and deepCAGE data integration for transcriptome resolution (Perl scripts)
-Last release: 2020, September, 9th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27407110/)
 * [GitHub](https://github.com/flemingtonlab/TRIMD)
-
-#### Trinity: a transcriptome assembly tool
-Last release: 2015, January, 24th
-* [URL](https://sourceforge.net/projects/trinityrnaseq/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
-
-#### TSIS: a time-series isoform switches detection tool
-Last release: 2018, December, 29th (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29028262/)
-* [GitHub](https://github.com/wyguo/TSIS)
-
-#### Velvet: a transcriptome assembly tool
-Last release: 2018, July, 5th
-* [URL](https://www.ebi.ac.uk/~zerbino/velvet/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/18349386/)
-* [GitHub](https://github.com/dzerbino/velvet/tree/master)
 
 ### Exon-level
 #### ChopStitch: an exon identification and splice graph construction out of transcriptome assembly and WGS
@@ -784,6 +729,10 @@ Last release: 2016, January, 6th
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SeqGSEA.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734663/)
 * [GitHub](https://github.com/sunlightwang/SeqGSEA_1.13)
+
+#### SigFuge: a differential isoform expression detection tool
+* [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
 
 #### SpliceJumper: a splice junctions detection
 Last release: 2015, June, 29th (the last commit)
@@ -2319,6 +2268,50 @@ Last release: 2011, December, 6th
 Last release:
 * [URL](http://software.broadinstitute.org/software/scripture/home)
 * [PubMed]()
+
+#### SOAPdenovo-trans: a transcriptome assembly tool
+Last release: 2017, August, 23rd
+* [URL](https://sourceforge.net/projects/soapdenovotrans/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
+* [GitHub](https://github.com/aquaskyline/SOAPdenovo-Trans)
+
+#### Tiglon: a trascriptome assembly
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35355524/)
+* [GitHub](https://github.com/yutingsdu/Tiglon-v.1.1)
+
+#### TRANS-Abyss: a transcriptome assembly tool
+Last release: 2018, February, 19th
+* [URL](https://www.bcgsc.ca/resources/software/trans-abyss)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20935650/)
+* [GitHub](https://github.com/bcgsc/transabyss)
+
+#### TransRef: a transcriptome assembly
+Last release
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34254977/)
+* [Sourceforge] (https://sourceforge.net/projects/transassembly/files/)
+
+#### Trinity: a transcriptome assembly tool
+Last release: 2015, January, 24th
+* [URL](https://sourceforge.net/projects/trinityrnaseq/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
+
+#### Velvet: a transcriptome assembly tool
+Last release: 2018, July, 5th
+* [URL](https://www.ebi.ac.uk/~zerbino/velvet/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/18349386/)
+* [GitHub](https://github.com/dzerbino/velvet/tree/master)
+
+## Time-series
+#### Spycone
+Last release: 2023
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36579860/)
+* [GitHub](https://github.com/yollct/spycone) 
+
+#### TSIS: a time-series isoform switches detection tool
+Last release: 2018, December, 29th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29028262/)
+* [GitHub](https://github.com/wyguo/TSIS)
+
 
 ## Benchmark studies
 
