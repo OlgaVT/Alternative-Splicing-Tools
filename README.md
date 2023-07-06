@@ -580,6 +580,9 @@ Last release: 2018, February, 22nd
 * [BitBucker](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
 
 #### SwitchSeq
+Archived
+* [GitHub](https://github.com/mgonzalezporta/SwitchSeq)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/005967v1)
 
 #### tappAS: a functional effect of alternative splicing
 * [URL](https://app.tappas.org/)
