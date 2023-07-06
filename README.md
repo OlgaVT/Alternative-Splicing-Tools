@@ -63,7 +63,6 @@ A list of alternative splicing analysis resources
 * [GitHub](https://github.com/lh3/minimap2)
 
 #### PALMapper: a splice-aware mapping tool
-Last release: 2013, July, 2013
 * [URL](https://bmi.inf.ethz.ch/supplements/palmapper)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21154708/)
 
@@ -233,6 +232,12 @@ KISSDE for differential splicing analysis
 #### nagnag: a nagnag splicing prediction tool
 * [URL](https://sourceforge.net/projects/nagnag/files/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26028313/)
+
+#### PAVfinder: de novo isoforms inference from transcriptome assemblies
+Part of TAP pipeline
+* [URL](https://www.bcgsc.ca/resources/software/pavfinder)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30200994/)
+* [GitHub](https://github.com/bcgsc/pavfinder)
 
 #### psichomics: an alternative splicing quantification and visualization tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30277515/)
@@ -443,8 +448,8 @@ sleuth is a differential isoform expression tool after kallisto analysis
 * [GitHub kallisto](https://github.com/pachterlab/kallisto)
 
 #### metaDIEA: a differential isoform expression analysis
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34698224/)
-* [GitHub] (https://github.com/BiodataAnalysisGroup/metaDIEA)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34698224/)
+* [GitHub](https://github.com/BiodataAnalysisGroup/metaDIEA)
 
 #### MMSEQ: an isoform quantification tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21310039/)
@@ -457,77 +462,44 @@ Not maintained
 * [GitHub](https://github.com/yarden/MISO)
 
 #### MIETIE: an isoform inference and quantification tool
-Last release: 2016, March, 18th
 * [URL](https://bmi.inf.ethz.ch/supplements/mitie)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23980025/)
 * [GitHub](https://github.com/ratschlab/MiTie)
 
 #### MINTIE
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34686194/)
-* [GitHub] (https://github.com/Oshlack/MINTIE)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34686194/)
+* [GitHub](https://github.com/Oshlack/MINTIE)
 
 #### mtim: an isoform inference tool
-Last release: 2013, April, 18th
 * [arXiv](https://arxiv.org/abs/1309.5211)
 * [GitHub](https://github.com/nicococo/mTIM)
 
-#### MultiTrans: a transcriptome assembly
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34033544/)
-* [GitHub] (https://github.com/jzbio/MultiTrans)
-
 ### NBBt-test: a versatile method for differential analysis of multiple types of RNA-seq data
-Last release: 2022
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35896555/)
 * [URL](https://CRAN.R-project.org/package=NBBttest)
 
-
 #### NBSplice: a differential isoform usage
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31972288/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/NBSplice.html)
 
-
 #### NLDMSeq: an isoform quantification tool
-Last release: 2016, June, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26475308/)
 * [GitHub](https://github.com/PUGEA/NLDMseq)
 
 #### NURD: an isoform quantification tool
-Last release: _not found_. Published in 2013.
-* [URL](http://bioinfo.au.tsinghua.edu.cn/software/NURD/)
+* [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/NURD/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23837734/)
 
-#### Oases: a transcriptome assembly tool
-Last release: 2011, December, 6th
-* [URL](https://www.ebi.ac.uk/~zerbino/oases/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22368243/)
-
-#### PAIRADISE: a paired differential isoform expression
-Last release: 2020, June, 9th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32781045/)
-* [GitHub](https://github.com/Xinglab/PAIRADISE)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/PAIRADISE.html)
-
-#### PAVfinder: de novo isoforms inference from transcriptome assemblies
-Last release: 2020, December, 28th
-* [URL](https://www.bcgsc.ca/resources/software/pavfinder)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30200994/)
-* [GitHub](https://github.com/bcgsc/pavfinder)
-
 #### PennDiff: a differential isoform usage detection
-Last release: 2020, December, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29474557/)
 * [GitHub](https://github.com/tigerhu15/PennDiff)
 
 #### PRAM: transcript models inference from pooled RNA-seq
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32958497/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/pram.html)
+* [GitHub](https://github.com/pliu55/pram)
 
 #### PSGInfer: an isoforms inference and differential analysis tool
-Last release: 2013, October, 25th
 * [URL](http://deweylab.biostat.wisc.edu/psginfer/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23846746/)
 
@@ -535,26 +507,13 @@ Last release: 2013, October, 25th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835441/)
 * [GitHub](https://github.com/shanrongzhao/QuickIsoSeq)
 
-#### RNASeqViewer: a visualization tool for gene expression and isoforms
-Last release: 2013, October, 14th
-* [URL](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24215023/)
-
-#### rnaSPAdes: a transcriptome assembly tool
-Last release: 2021, February
-* [URL](http://cab.spbu.ru/software/rnaspades/)
-* [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.24.918482v1)
-* [GitHub](https://github.com/ablab/spades)
-
 #### rDiff: a differential isoform expression detection tool
-Last release: 2020, June, 19th (the last commit)
 * [URL](https://public.bmi.inf.ethz.ch/user/drewe/rdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23585274/)
 * [GitHub](https://github.com/ratschlab/rDiff)
 
 #### RSEM: an isoform quantification tool
-The variant of the tools is pRSEM: an isoform quantification from a complementary data
-Last release: 2020, February, 14th
+The variant of the tools is pRSEM: an isoform quantification with a complementary data
 * [URL RSEM](https://deweylab.github.io/RSEM/)
 * [URL pRSEM](https://deweylab.github.io/pRSEM/)
 * [PubMed RSEM](https://pubmed.ncbi.nlm.nih.gov/21816040/)
@@ -562,39 +521,28 @@ Last release: 2020, February, 14th
 * [GitHub](https://github.com/deweylab/RSEM)
 
 #### rSeqDiff: a differential isoform expression detection tool
-Last release: _not found_. Published in 2013
 * [URL](https://jhui2014.github.io/rseqdiff/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24260225/)
 
 #### rSeqNP: a differential isoform expression detection tool
-Last release: 
 * [URL](https://jhui2014.github.io/rseqnp/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25717189)
 
 #### Sailfish: an isoform quantification tool
-Last release: 2016, April, 14th
 * [URL](https://sailfish.readthedocs.io/en/master/sailfish.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24752080/)
 * [GitHub](https://github.com/kingsfordgroup/sailfish)
 
 #### salmon: an isoform quantification tool
-Last release: 2020, November, 26th
 * [URL](https://combine-lab.github.io/salmon/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28263959/)
 * [GitHub](https://github.com/COMBINE-lab/salmon)
 
 #### SDEAP: a differential isoform expression detection tool for population data
-Last release: 2017, March, 15th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27522083/)
 * [GitHub](https://github.com/ewyang089/SDEAP/wiki)
 
-#### Scripture: a transcriptome assembly tool
-Last release:
-* [URL](http://software.broadinstitute.org/software/scripture/home)
-* [PubMed]()
-
 #### SigFuge: a differential isoform expression detection tool
-Last release:_ not found_. Published in 2014.
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/SigFuge.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
 
@@ -807,6 +755,11 @@ Last release: 2019, May, 17th. No longer maintained.
 * [PubMed MISO](https://pubmed.ncbi.nlm.nih.gov/21057496/)
 * [PubMed sashimi plots](https://pubmed.ncbi.nlm.nih.gov/25617416/)
 * [GitHub](https://github.com/yarden/MISO)
+
+#### PAIRADISE: a paired differential isoform expression
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32781045/)
+* [GitHub](https://github.com/Xinglab/PAIRADISE)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/PAIRADISE.html)
 
 #### Portcullis: a splice junctions detection
 Last release: 2018, March, 19th
@@ -2270,6 +2223,10 @@ Last release: 2016, December, 8th (the last commit)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
 * [GitHub](https://github.com/barannm/Manananggal)
 
+#### RNASeqViewer: a visualization tool for gene expression and isoforms
+* [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24215023/)
+
 ### ScisorWiz: visualizing differential isoform expression in single-cell long-read data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
 * [GitHub](http://github.com/ans4013/ScisorWiz)
@@ -2343,6 +2300,25 @@ Last release: 2012, November, 17th
 #### Jumper: a transcriptome assembly tool
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34795232/)
 * [GitHub](https://github.com/elkebir-group/Jumper)
+
+#### MultiTrans: a transcriptome assembly
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34033544/)
+* [GitHub] (https://github.com/jzbio/MultiTrans)
+
+#### Oases: a transcriptome assembly tool
+Last release: 2011, December, 6th
+* [URL](https://www.ebi.ac.uk/~zerbino/oases/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/22368243/)
+
+#### rnaSPAdes: a transcriptome assembly tool
+* [URL](http://cab.spbu.ru/software/rnaspades/)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.24.918482v1)
+* [GitHub](https://github.com/ablab/spades)
+
+#### Scripture: a transcriptome assembly tool
+Last release:
+* [URL](http://software.broadinstitute.org/software/scripture/home)
+* [PubMed]()
 
 ## Benchmark studies
 
