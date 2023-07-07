@@ -364,7 +364,6 @@ Not maintained.
 * Cuffquant computes the gene and transcript expression profiles 
 * Cuffdiff compares expression levels of genes and transcripts in RNA-Seq
 * Cuffnorm normalizes the expression levels
-Last release: 2016, July, 1st
 * [URL](http://cole-trapnell-lab.github.io/cufflinks/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23222703/)
 * [GitHub](https://github.com/cole-trapnell-lab/cufflinks)
@@ -633,7 +632,6 @@ Part of the sysSeq package. No easily accessible documentation
 * [GitHub](https://github.com/ellispatrick/sydSeq)
 
 #### ExCluster: a differential exon expression tool
-Last release: _not found_. Published in 2020.
 * [BioConductor](https://bioconductor.org/packages/release/bioc/html/ExCluster.html)
 
 #### FineSplice: a TopHat2 wrapper to identify expressed junctions
@@ -645,7 +643,6 @@ Last release: _not found_. Published in 2020.
 * [GitHub](https://github.com/JY-Zhou/FreePSI)
 
 #### HMMSplicer: a splice junctions detection
-Last release: 2010, November, 25th
 * [URL Not available](http://derisilab.ucsf.edu/index.php?software=105)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21079731/)
 
@@ -762,6 +759,10 @@ Redirects to ESEfinder
 ### PVAAS: a tool to identify SNVs associated with aberrant splicing
 * [URL](http://pvaas.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25573917/)
+
+### SNPlice: variants that modulate Intron retention from RNA-sequencing data
+* [PubMed]( 10.1093/bioinformatics/btu804)
+* [URL Not available](https://code.google.com/p/snplice/)
 
 ### sQTLseekeR: an sQTL detection
 * [GitHub](https://github.com/guigolab/sQTLseekeR)
