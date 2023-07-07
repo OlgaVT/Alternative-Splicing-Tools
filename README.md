@@ -317,6 +317,10 @@ Not maintained.
 * [URL](http://www.alexaplatform.org/alexa_seq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20835245/)
 
+#### Ballgown
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27560171/)
+* [GitHub](https://github.com/alyssafrazee/ballgown)
+
 #### BANDITS: a differential isoform usage
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32178699/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/BANDITS.html)
@@ -573,11 +577,10 @@ No documentation
 * [GitHub](https://github.com/Kingsford-Group/subgraphquant)
 
 #### SUPPA: an isoform quantification tool
-Last release: 2018, February, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26179515/)
 * [PubMed SUPPA2](https://pubmed.ncbi.nlm.nih.gov/29571299/)
 * [GitHub](https://github.com/comprna/SUPPA)
-* [BitBucker](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
+* [BitBucket](https://bitbucket.org/regulatorygenomicsupf/suppa/src/master/)
 
 #### SwitchSeq
 Archived
@@ -589,14 +592,16 @@ Archived
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32423416/)
 
 #### TIGAR2: an isoform quantification tool from longer RNA-Seq
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/23821651/)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/23821651/)
+* [PibMed 2](https://pubmed.ncbi.nlm.nih.gov/25560536/)
 * [GitHub](https://github.com/nariai/tigar2)
 
 #### Traph: an isoform quantification tool
 * [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23734627/)
 
-#### TRIMD: Iso-Seq, RNA-Seq and deepCAGE data integration for transcriptome resolution (Perl scripts)
+#### TRIMD: Iso-Seq, RNA-Seq, and deepCAGE data integration for transcriptome resolution 
+The list of Perl scripts
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27407110/)
 * [GitHub](https://github.com/flemingtonlab/TRIMD)
 
