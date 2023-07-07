@@ -295,6 +295,11 @@ Part of TAP pipeline
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34152934/)
 * [Github](https://github.com/ablifedev/SUVA)
 
+#### TECtool: a terminal codon characterization
+* [URL](http://tectool.unibas.ch/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202060/)
+* [GitHub](https://github.com/zavolanlab/TECtool)
+
 #### Whippet: an alternative splicing event detection tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30220560/)
 * [GitHub](https://github.com/timbitz/Whippet.jl)
@@ -699,8 +704,6 @@ No longer maintained.
 * [GitHub](https://github.com/TGAC/portcullis)
 
 #### Read-Split-Fly: a splice junctions detection (base on Read-Split-Walk and Read-Split-Run)
-* [URL RSW](http://isu.indstate.edu/ybai2/RSW/index.html)
-* [URL RSF](http://bioinf1.indstate.edu:3096/about)
 * [PubMed RSW](https://www.ncbi.nlm.nih.gov/pubmed/24991935/)
 * [PubMed RSR](https://pubmed.ncbi.nlm.nih.gov/27556805/)
 * [GitHub RSR](https://github.com/xuric/read-split-run)
@@ -728,10 +731,11 @@ No longer maintained.
 * [GitHub](https://github.com/raphaelleman/SpliceLauncher)
 
 #### SPLICE-q: an intron splicing efficiency
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266387/)
-* [GitHub] (https://github.com/vrmelo/SPLICE-q)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34266387/)
+* [GitHub](https://github.com/vrmelo/SPLICE-q)
 
 #### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
+Redirects to ESEfinder
 * [URL](http://rulai.cshl.edu/splicetrap/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21896509/)
 
@@ -743,43 +747,33 @@ No longer maintained.
 * [GitHub](https://github.com/Bioconductor/SplicingGraphs)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SplicingGraphs.html)
 
-#### TECtool: a terminal codon characterization
-* [URL](http://tectool.unibas.ch/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202060/)
-* [GitHub](https://github.com/zavolanlab/TECtool)
-
 ## sQTL analysis
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/35960994/)
 
 ### FIVEx: a eQTL and sQTL browser
-Last release:
-* [URL] (https://fivex.sph.umich.edu)
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34459872/)
-* [Github] (https://github.com/statgen/fivex)
+* [URL](https://fivex.sph.umich.edu)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34459872/)
+* [Github](https://github.com/statgen/fivex)
 
 ### GLiMMPS: an sQTL detection
-Last release: 2013, March, 12th
 * [GutHub](https://github.com/Xinglab/GLiMMPS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23876401/)
 
 ### PVAAS: a tool to identify SNVs associated with aberrant splicing
-Last release:
 * [URL](http://pvaas.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25573917/)
 
 ### sQTLseekeR: an sQTL detection
-Last release: 2015, June, 29th
 * [GitHub](https://github.com/guigolab/sQTLseekeR)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25140736/)
 
 ### SplicePlot: an sQTL visualization
-Last release: 2013, October, 15th
+No easily accessible documentation
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24363378/)
 * [GitHub](https://github.com/wueric/SplicePlot)
 
 ### ulfasQTL: an sQTL detection (based on sQTLseekeR)
-Last release: *not found*
-* [URL](http://bioinfo.au.tsinghua.edu.cn/software/ulfasQTL/)
+* [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/ulfasQTL/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
 
 ## Splice sites prediction and variations analysis
