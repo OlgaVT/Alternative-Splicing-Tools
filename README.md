@@ -606,11 +606,6 @@ The list of Perl scripts
 * [GitHub](https://github.com/flemingtonlab/TRIMD)
 
 ### Exon-level
-#### ChopStitch: an exon identification and splice graph construction out of transcriptome assembly and WGS
-Last release: 2018, November, 8th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29300846/)
-* [GitHub](https://github.com/bcgsc/ChopStitch)
-
 #### DEXSeq: a differential exon usage tool
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22722343/)
@@ -623,14 +618,12 @@ Last release: 2018, November, 8th
 * [GitHub](https://github.com/MauerLab/DJExpress)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36304260/)
 
-### diffUTR: a differential exon usage analysis
+#### diffUTR: a differential exon usage analysis
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33849458/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/diffUTR.html)
 
 #### ExClust: a package for constitutive exons analysis
-Part of the sysSeq package.
-
-Last release: 2015, July, 17th (the last commit)
+Part of the sysSeq package. No easily accessible documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23360225/)
 * [GitHub](https://github.com/ellispatrick/sydSeq)
 
@@ -643,53 +636,40 @@ Last release: _not found_. Published in 2020.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24574529/)
 
 #### FreePSI: an exon-inclusion ratio quantification tool
-Last release: 2017, September, 5th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29136203/)
 * [GitHub](https://github.com/JY-Zhou/FreePSI)
 
-#### ggsashimi: an alternative splicing visualization
-Last release: 2021, February, 10th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30118475/)
-* [GitHub](https://github.com/guigolab/ggsashimi)
-
 #### HMMSplicer: a splice junctions detection
 Last release: 2010, November, 25th
-* [URL](http://derisilab.ucsf.edu/index.php?software=105)
+* [URL Not available](http://derisilab.ucsf.edu/index.php?software=105)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21079731/)
 
-#### HTSeq: a RNA-Seq quantification tool
+#### HTSeq: an RNA-Seq quantification tool
 The tool can quantify exon expression
 
-Last release: 2020, April, 18th
 * [URL](https://htseq.readthedocs.io/en/master/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25260700/)
 * [GitHub](https://github.com/htseq/htseq)
 
-#### iGEMS: a model for alternative exon usage detection (R scripts)
-Last release: 2016, April, 13th
+#### iGEMS: a model for alternative exon usage detection 
+An R script
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27095197/)
 * [GitHub](https://github.com/iaingallagher/iGEMS_scripts)
 
-#### IntEREst: an intron retention estimation tool
-Last release: *not found*
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IntEREst.html)
-
 #### Intron-Essentiality
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33906938/)
-* [GitHub] (https://github.com/evendrow/Intron-Essentiality/)
+A list of scripts
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33906938/)
+* [GitHub](https://github.com/evendrow/Intron-Essentiality/)
 
-#### iTAD: a switch-like exons identification (Upon request)
-Last release: *not found*
+#### iTAD: a switch-like exons identification 
+The code is upon request
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542625/)
 
 #### JunctionSeq: a differential exon and junctions usage
-Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27257077/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/JunctionSeq.html)
 
 #### LeafCutter: an intron quantification and differential analysis
-Last release: 2017, September, 26th
 * [URL LeafViz](https://leafcutter.shinyapps.io/leafviz/)
 * [URL](http://davidaknowles.github.io/leafcutter/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229983/)
@@ -702,8 +682,7 @@ Last release: 2017, September, 26th
 #### MISO: a differential isoform expression tool
 The tool also detects differentially regulated exons.
 MISO also presents sashimi plots for exon expression visualisation.
-
-Last release: 2019, May, 17th. No longer maintained.
+No longer maintained.
 * [URL](http://hollywood.mit.edu/burgelab/miso/)
 * [PubMed MISO](https://pubmed.ncbi.nlm.nih.gov/21057496/)
 * [PubMed sashimi plots](https://pubmed.ncbi.nlm.nih.gov/25617416/)
@@ -715,13 +694,11 @@ Last release: 2019, May, 17th. No longer maintained.
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/PAIRADISE.html)
 
 #### Portcullis: a splice junctions detection
-Last release: 2018, March, 19th
 * [URL Documemntation](https://portcullis.readthedocs.io/en/latest/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6302956/)
 * [GitHub](https://github.com/TGAC/portcullis)
 
 #### Read-Split-Fly: a splice junctions detection (base on Read-Split-Walk and Read-Split-Run)
-Last release: 2016, January, 6th
 * [URL RSW](http://isu.indstate.edu/ybai2/RSW/index.html)
 * [URL RSF](http://bioinf1.indstate.edu:3096/about)
 * [PubMed RSW](https://www.ncbi.nlm.nih.gov/pubmed/24991935/)
@@ -743,41 +720,30 @@ Last release: 2016, January, 6th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25030904/)
 
 #### SpliceJumper: a splice junctions detection
-Last release: 2015, June, 29th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26678515/)
 * [GitHub](https://github.com/simoncchu/SpliceJumper)
 
 #### SpliceLauncher: a splice junctions detection
-Last release: 2021, February, 15th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31617569/)
 * [GitHub](https://github.com/raphaelleman/SpliceLauncher)
 
 #### SPLICE-q: an intron splicing efficiency
-Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266387/)
 * [GitHub] (https://github.com/vrmelo/SPLICE-q)
 
 #### SpliceTrap: a tool to quantify exon inclusion levels using paired-end RNA-seq data
-Last release: 2013, May, 17th
 * [URL](http://rulai.cshl.edu/splicetrap/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21896509/)
-
-#### SpliceV: a splicing visualization
-Last release: 2019, September, 27th (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
-* [GitHub](https://github.com/flemingtonlab/SpliceV)
 
 #### SpliSER: a splice site usage quantification
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34017946/)
 * [Github](https://github.com/CraigIDent/SpliSER)
 
-#### SplicingGraphs: a splicing graphs creation, visualization and quantification tool
-Last release: 2020, November, 3rd
+#### SplicingGraphs: a splicing graphs creation, visualization, and quantification tool
 * [GitHub](https://github.com/Bioconductor/SplicingGraphs)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SplicingGraphs.html)
 
 #### TECtool: a terminal codon characterization
-Last release: 2018, June, 22th
 * [URL](http://tectool.unibas.ch/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30202060/)
 * [GitHub](https://github.com/zavolanlab/TECtool)
@@ -2175,6 +2141,11 @@ Last release: 2020, December, 3rd
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
 * [GitHub](https://github.com/Splicebox/Jutils)
 
+#### ggsashimi: an alternative splicing visualization
+Last release: 2021, February, 10th
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30118475/)
+* [GitHub](https://github.com/guigolab/ggsashimi)
+
 #### Manananggal: a visualization of alternative splicing events
 Last release: 2016, December, 8th (the last commit)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
@@ -2187,6 +2158,11 @@ Last release: 2016, December, 8th (the last commit)
 ### ScisorWiz: visualizing differential isoform expression in single-cell long-read data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
 * [GitHub](http://github.com/ans4013/ScisorWiz)
+
+#### SpliceV: a splicing visualization
+Last release: 2019, September, 27th (the last commit)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
+* [GitHub](https://github.com/flemingtonlab/SpliceV)
 
 #### Vials: a visualization of alternative splicing tool
 * [URL](http://vials.io/)
