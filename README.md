@@ -777,57 +777,66 @@ No easily accessible documentation
 * [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/ulfasQTL/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28198669/)
 
-## Splice sites prediction and variations analysis
-### Review 1
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36987778/)
+## Splice sites prediction and cryptic splicing
+* [Review 1](https://pubmed.ncbi.nlm.nih.gov/36987778/)
 
-### CADD-splice: a a varian effect on alternative splicing
+### AUGUSTUS
+* [URL new](https://bioinf.uni-greifswald.de/webaugustus/index)
+* [URL old](https://bioinf.uni-greifswald.de/augustus/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21216780/)
+
+### CADD-splice: a variant effect on alternative splicing
 * [URL](https://cadd.gs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33618777/)
+
+### ChotStitch
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29300846/)
+* [GutHub](https://github.com/bcgsc/ChopStitch)
   
 ### CI-SpliceAI: machine learning predictions of disease causing splicing variants
 * [URL](https://ci-spliceai.com)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
+* [GitHub](https://github.com/YStrauch/CI-SpliceAI__Annotation)
 
-#### COSSMO: an alternative splicing site usage prediction
-Last release: 2018, July, 4th (the last commit)
+### COSSMO: an alternative splicing site usage prediction
+The code for the model
 * [URL](http://cossmo.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29949959/)
 * [GitHub](https://github.com/PSI-Lab/COSSMO)
 
 ### CRYP-SKIP: an effect of exonic mutation
-Laste release: 2008
 * [URL](https://cryp-skip.img.cas.cz/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19142208)
 
 ### CrypSplice: a cryptic splice variations prediction tool
-Last release: 
 * [URL](http://liuzlab.org/software/crypsplice/#hoem)
 
 ### DASSI: splice identification from DNA sequences
+The model
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33588916/)
 * [GitHub](https://github.com/shabirmoosa/DASSI)
 
 ### DeepASmRNA
-Last release: 2022
 * [URL](http://cmb.bnu.edu.cn/DeepASmRNA/index.php/download)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36325068/)
 * [GitHub](https://github.com/CMB-BNU/DeepASmRNA)
 
-#### DeepDSSR: a donor splice site recognition (a model)
+#### DeepDSSR: a donor splice site recognition 
+The model
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
 
 #### Deep Splicing Code: an alternative splicing event prediction from sequence
-Last release: 2020, September, 5th (the last commit)
+The code
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
+* [URL Not available](https://home.jbnu.ac.kr/NSCL/dsc.htm)
 * [GitHub](https://github.com/louadi/DSC)
 
 ### DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33538820/)
-* [GitHub](https://github.com/jerryji1993/DNABERT)
+* [GitHub 1](https://github.com/jerryji1993/DNABERT)
+* [GitHub 2](https://github.com/Zhihan1996/DNABERT_2)
 
 ### EBChangePoint: a splice site prediction tool
-Last release: 2015, May
 * [URL](http://ebchangepoint.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873932/)
 
@@ -1003,12 +1012,9 @@ Last release: *not found*
 * [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
 
 ### SpliceViNCI: a non-canonical splice sites prediction
-Laste release:
-
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34088258/)
 
 ### SPANR: a splicing-based analysis of SNVs
-Last release: 
 * [URL](http://tools.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
 
