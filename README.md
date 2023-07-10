@@ -459,6 +459,10 @@ sleuth is a differential isoform expression tool after kallisto analysis
 * [PubMed sleuth](https://pubmed.ncbi.nlm.nih.gov/28581496/)
 * [GitHub kallisto](https://github.com/pachterlab/kallisto)
 
+### LORALS
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35922509/)
+* [URL](https://github.com/LappalainenLab/lorals)
+
 #### metaDIEA: a differential isoform expression analysis
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34698224/)
 * [GitHub](https://github.com/BiodataAnalysisGroup/metaDIEA)
@@ -681,6 +685,11 @@ The code is upon request
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229983/)
 * [GitHub](https://github.com/davidaknowles/leafcutter)
 
+### McSplicer
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33515239/)
+* [GitHub](https://github.com/canzarlab/McSplicer)
+* [Zenodo](https://doi.org/10.5281/zenodo.4449881)
+
 #### MicroExonator
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33482885/)
 * [GitHub](https://github.com/hemberg-lab/MicroExonator)
@@ -865,31 +874,14 @@ Limited access
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/375345v1)
 * [URL](http://kipoi.org/models/KipoiSplice/)
 
-### LORALS
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35922509/)
-* [URL](https://github.com/LappalainenLab/lorals.)
-
 ### MaxEntScan: a tool for human 5'splice sites scoring
-Last release:_ not found_
 * [URL](http://hollywood.mit.edu/burgelab/maxent/Xmaxentscan_scoreseq.html)
 
-### McSplicer
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33515239/)
-* [GitHub](https://github.com/canzarlab/McSplicer)
-* [Zenodo](https://doi.org/10.5281/zenodo.4449881)
-
-### MIRA: a tool for mutation identification for RNA Alterations
-Last release: 2018, July, 3rd
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
-* [GitHub](https://github.com/comprna/MIRA)
-
 ### MLCsplice
-Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
-* [URL](http://39.105.51.3:8090/MLCsplice/)
+* [URL Not available](http://39.105.51.3:8090/MLCsplice/)
 
-### MMSplice: a tool for prediction of effect of genetic variants on alternative splicing
-Last release: 2021, February, 20th
+### MMSplice: a tool for prediction of the effect of genetic variants on alternative splicing
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 * [Kipoi](http://kipoi.org/models/MMSplice/)
@@ -898,18 +890,11 @@ Last release: 2021, February, 20th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33789710/)
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
 
-### ModCon: a splice site usage modification tool
-Last release: 
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34136105/)
-* [GitHub](https://github.com/caggtaagtat/ModCon)
-
-### MutationTaster2021
-Laste release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33893808/)
-* [URL] (https://www.genecascade.org/MutationTaster2021/)
+### MutationTaster
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33893808/)
+* [URL](https://www.genecascade.org/MutationTaster2021/)
 
 ### NetAspGene: a splice site prediction in Aspergillus
-Last release:_ not found_
 * [URL](https://services.healthtech.dtu.dk/service.php?NetAspGene-1.0)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/18948220/)
 
@@ -1073,6 +1058,14 @@ Last release: 2019, February, 20th
 * [URL](http://bejerano.stanford.edu/labranchor/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30224349/)
 * [GitHub](https://github.com/jpaggi/labranchor)
+
+### MIRA: a tool for mutation identification for RNA Alterations
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
+* [GitHub](https://github.com/comprna/MIRA)
+
+### ModCon: a splice site usage modification tool
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34136105/)
+* [GitHub](https://github.com/caggtaagtat/ModCon)
 
 ### RBPmap: a tool for mapping binding sites of RNA binding proteins
 Last release: 2021, February
