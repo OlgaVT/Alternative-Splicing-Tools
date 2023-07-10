@@ -161,6 +161,10 @@ The R code is in the supplementary materials
 * [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/DSGseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23228854/)
 
+### EBChangePoint
+* [URL](http://ebchangepoint.sourceforge.net/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873932/)
+
 #### EventPointer: an alternative splicing event detection tool
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27315794/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30253752/)
@@ -821,11 +825,11 @@ The model
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36325068/)
 * [GitHub](https://github.com/CMB-BNU/DeepASmRNA)
 
-#### DeepDSSR: a donor splice site recognition 
+### DeepDSSR: a donor splice site recognition 
 The model
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31349311/)
 
-#### Deep Splicing Code: an alternative splicing event prediction from sequence
+### Deep Splicing Code: an alternative splicing event prediction from sequence
 The code
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31374967/)
 * [URL Not available](https://home.jbnu.ac.kr/NSCL/dsc.htm)
@@ -836,44 +840,34 @@ The code
 * [GitHub 1](https://github.com/jerryji1993/DNABERT)
 * [GitHub 2](https://github.com/Zhihan1996/DNABERT_2)
 
-### EBChangePoint: a splice site prediction tool
-* [URL](http://ebchangepoint.sourceforge.net/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26873932/)
-
 ### EX-SKIP: a variant effect prediction on alternative splicing
-Last release: 2010
 * [URL](https://ex-skip.img.cas.cz/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21309043)
 
 ### GeneSplicer: a splice site prediction
-Last release:_ not found_
 * [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
 
 ### HAL: an effect of variants on alternative splicing
-Last release: *not found*
 * [URL](http://splicing.cs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26496609/)
 
-### Human Splicing Finder: a splice site prediction (free limited access)
-Last release:_ not found_
+### Human Splicing Finder: a splice site prediction 
+Limited access
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19339519/)
 * [URL](https://www.genomnis.com/access-hsf)
 
 ### IntSplice2
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34349788/)
-* [URL] (https://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice2)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34349788/)
+* [URL](https://www.med.nagoya-u.ac.jp/neurogenetics/IntSplice2)
 
 ### KipoiSplice
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/31138913/)
-* [URL] (https://kipoi.org/)
+* [bioRxiv](https://www.biorxiv.org/content/10.1101/375345v1)
+* [URL](http://kipoi.org/models/KipoiSplice/)
 
 ### LORALS
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/35922509/)
-* [URL] (https://github.com/LappalainenLab/lorals.)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35922509/)
+* [URL](https://github.com/LappalainenLab/lorals.)
 
 ### MaxEntScan: a tool for human 5'splice sites scoring
 Last release:_ not found_
