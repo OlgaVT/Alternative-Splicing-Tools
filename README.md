@@ -988,57 +988,109 @@ No code provided
 * [URL Not available](http://www.veridical.org/defaultsite)
  
 ## Alternative splicing regulation
-### AIRBP: Identification of RNA-binding proteins using machine learning techniques
+### AIRBP: Identification of RNA-binding proteins using machine-learning techniques
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33685590/)
-* [URL](http://cs.uno.edu/∼tamjid/Software/AIRBP/code_data.zip)
+* [URL Not available](http://cs.uno.edu/∼tamjid/Software/AIRBP/code_data.zip)
+
+### BEAM
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27580722/)
+* [URL](http://beam.uniroma2.it/home)
 
 ### BPP: a branch point prediction
-Last release: 2017, May, 22nd (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28633445/)
 * [GitHub](https://github.com/zhqingit/BPP)
 
 ### branchpointer: a branch point prediction
-Last release: *not found*
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/094003v1)
 * [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/branchpointer.html)
 
+### CapR
+* [URL Not available]()
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24447569/)
+
+### DanQ
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27084946/)
+* [GitHub](https://github.com/uci-cbcl/DanQ)
+
 ### DeepRKE: prediction of RBP binding sites
+No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33334313/)
 * [GitHub](https://github.com/youzhiliu/DeepRKE/)
 
-### DeepBtoD: RNA-binding proteins prediction via integrated deep learning
-* [PubMed](RNA-binding proteins prediction via integrated deep learning)
-* [URL](http://175.27.228.227/DeepBtoD/)
+### DeepBind
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26213851/)
+* [URL Not available](http://tools.genes.toronto.edu/deepbind/)
 
-### dsRBPBind: the effect of RNA secondary structure on double stranded RNA-protein binding
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34668517/)
-* [URL] http://bioserv.mps.ohio-state.edu/dsRBPBind
+### DeeperBind
+* [GitHub](https://github.com/hassanzadeh/DeeperBind)
+* [Paper](https://pure.ulster.ac.uk/en/publications/proceedings-of-2018-ieee-international-conference-on-bioinformati)
+
+### DeepBtoD: RNA-binding proteins prediction via integrated deep learning
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35451938/)
+* [URL Not available](http://175.27.228.227/DeepBtoD/)
+
+### deepnet-rbp
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26467480/)
+* [GitHub](https://github.com/thucombio/deepnet-rbp)
+
+### dlprb
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/30423078/)
+* [GitHub](https://github.com/ilanbb/dlprb)
+
+### dsRBPBind: the effect of RNA secondary structure on double-stranded RNA-protein binding
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34668517/)
+* [URL Not available]http://bioserv.mps.ohio-state.edu/dsRBPBind
 
 ### dSreg: a differential splicing and regulation prediction
-Last release: 2019 August 7th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31834368/)
 * [Bitbucket](https://bitbucket.org/cmartiga/dsreg/src/master/)
 
 ### ESEFinder: a web tool for exon splicing enhancers identification
-Last release: *not found*
 * [URL](http://krainer01.cshl.edu/cgi-bin/tools/ESE3/esefinder.cgi?process=home)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/12824367/)
 
-### ExonScan: a regulatory exonic motifs identitfication (Upon request)
-Last release: *not found*
+### ExonScan: a regulatory exonic motifs identification 
+The code is upon request
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15607979/)
 
 ### ExonSuite: a tool for PUF binding regions analysis
-Last release: 2013, January, 13th (the last commit)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23816174/)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
+
+### GraphProt
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24451197/)
+* [URL](http://www.bioinf.uni-freiburg.de/Software/GraphProt/)
+
+### iDeep
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/28245811/)
+* [GitHub](https://github.com/xypan1232/iDeep)
+
+### iDeepE
+* [GitHub](https://github.com/xypan1232/iDeepE)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29722865/)
+
+### iDeepS
+* [GitHub](https://github.com/xypan1232/iDeepS)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29970003/)
+
+### iDeepV
+* [GitHub](https://github.com/xypan1232/iDeepV)
+* [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218304685)
+
+### iONMF
+* [GitHub](https://github.com/mstrazar/iONMF)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26787667/)
 
 #### LaBranchoR: a branchpoints prediction tool
 Last release: 2019, February, 20th
 * [URL](http://bejerano.stanford.edu/labranchor/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30224349/)
 * [GitHub](https://github.com/jpaggi/labranchor)
+
+### MEMERIS
+* [URL Not available](http://www.bioinf.uni-freiburg.de/~hiller/MEMERIS/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/16987907/)
 
 ### MIRA: a tool for mutation identification for RNA Alterations
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29592900/)
@@ -1048,10 +1100,30 @@ Last release: 2019, February, 20th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34136105/)
 * [GitHub](https://github.com/caggtaagtat/ModCon)
 
+### Oli
+No code
+* [https://pubmed.ncbi.nlm.nih.gov/24780077/]
+
+### pysster
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29659719/)
+* [GitHub](https://github.com/budach/pysster)
+
 ### RBPmap: a tool for mapping binding sites of RNA binding proteins
 Last release: 2021, February
 * [URL](http://rbpmap.technion.ac.il/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24829458/)
+
+### RCK
+* [URL](https://cb.csail.mit.edu/cb/rck/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27307637/)
+  
+### RNAcommender
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27503225/)
+* [URL not available](http://rnacommender.disi.unitn.it/)
+
+### RNAcontext
+* [URL Not available](http://morrislab.med.utoronto.ca/software)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20617199/)
 
 ### rMAPS2: a tool for RNA-binding protein analysis
 Last release: 2020, March, 20th
@@ -1068,9 +1140,12 @@ Last release: 2016
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21124863/)
 
 ### WDFSMF: an RNA-AS target prediction
-Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34410342/)
 * [Github] (https://github.com/yushanqiu/WDFSMF)
+
+### Zeng et al.
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/27307608/)
+* [URL Not available](http://cnn.csail.mit.edu/)
 
 ## Proteomics
 
