@@ -899,28 +899,23 @@ Limited access
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/18948220/)
 
 ### NetGene2 Server: a splice site prediction
-Last release: 2017, May, 30th
 * [URL 1](http://www.cbs.dtu.dk/services/NetGene2/)
 * [URL 2](https://services.healthtech.dtu.dk/service.php?NetGene2-2.42)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/2067018/)
 
-### NetUTR: a splice site presiction in 5'UTR regions of human genes
-Last release: _ not found_
+### NetUTR: a splice site prediction in 5'UTR regions of human genes
 * [URL](https://services.healthtech.dtu.dk/service.php?NetUTR-1.0)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/14960723/)
 
 ### NNSPLICE: a splice site prediction by neural network
-Last release: 1997, January
 * [URL](https://www.fruitfly.org/seq_tools/splice.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/9278062/)
 
 ### PEPSI: a prediction of PSI value changes due to genetic variants
-Last release: 2019, May, 15th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31074545/)
 * [GitHub](https://github.com/rwang916/PEPSI)
 
 ### PredPSI-SVR: a prediction of PSI value changes due to genetic variants
-Last release: 2020, July, 10th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31070294/)
 * [GitHub](https://github.com/chenkenbio/PredPSI-SVR)
 
