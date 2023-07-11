@@ -881,6 +881,10 @@ Limited access
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
 * [URL Not available](http://39.105.51.3:8090/MLCsplice/)
 
+### MiSplice
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29617666/)
+* [GitHub](https://github.com/ding-lab/misplice)
+
 ### MMSplice: a tool for prediction of the effect of genetic variants on alternative splicing
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30823901/)
 * [GitHub](https://github.com/gagneurlab/MMSplice_MTSplice)
@@ -919,88 +923,70 @@ Limited access
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31070294/)
 * [GitHub](https://github.com/chenkenbio/PredPSI-SVR)
 
-### regSNP-intron: a tool which predicts disease-causing probability of human intronic single nucleotide variants (iSNVs)
-Last release: 2019, September, 27th
-* [URL](https://regsnps-intron.ccbb.iupui.edu/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31779641/)
-* [GitHub](https://github.com/yunliu/regsnp_intron)
-
 ### RegTools: Integrated analysis of genomic and transcriptomic data for the discovery of splice-associated variants in cancer
-Last release: 2023
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36949070/)
-* [URL](www.regtools.org)
+* [GitHub](https://github.com/griffithlab/regtools)
 
 ### rPGA: a hidden splicing variations
-Last release: 2016, June, 24th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28766294/)
 * [GitHub](https://github.com/Xinglab/rPGA)
 
 ### SAVNet: a tool for detection of effect of genetic variants on alternative splicing
-Last release: 2019, May, 18th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31687339/)
 * [GitHub](https://github.com/friend1ws/SAVNet)
 
-### S-CAP
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/30804562/)
-* [URL] (http://bejerano.stanford.edu/scap/)
-* [Bitbucket] (https://bitbucket.org/bejerano/splicing_classifier/)
-
 ### SiLVA: prediction of synonymous (silent) mutations within the human genome
-Last release: 2013, July, 12th
 * [URL](http://compbio.cs.toronto.edu/silva/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23736532/)
 
 ### SKIPPY: a tool for detection of exonic variants that modulate splicing
-Last release: 2011, March, 2nd
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20158892)
-* * [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
+* [URL](https://research.nhgri.nih.gov/skippy/download.shtml)
 
 ### SPIDEX
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/25525159/)
-* [URL] (http://www.openbioinformatics.org/annovar/spidex_download_form.php)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
+* [URL](http://www.openbioinformatics.org/annovar/spidex_download_form.php)
 
-#### Splice2Deep: a splice site prediction
-Last release: 2019, August, 7th
+### Splice2Deep: a splice site prediction
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32550561/)
 * [GitHub](https://github.com/SomayahAlbaradei/Splice_Deep)
 
-### SpliceAI: a tool for detection of effect of genetic variants on alternative splicing
-Last release: 2020, March, 7th
+### SpliceAI: a tool for detection of the effect of genetic variants on alternative splicing
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30661751/)
 * [GitHub](https://github.com/Illumina/SpliceAI)
 
-#### Spliceator: a splice site prediction
+### Spliceator: a splice site prediction
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34814826/)
 * [GitLab](https://git.unistra.fr/nscalzitti/spliceator)
 * [URL](http://www.lbgi.fr/spliceator/)
 
-### Spliceman: a web tool for predition of sequence variations in splicing
-Last release:
-* [URL](http://fairbrother.biomed.brown.edu/spliceman/index.cgi)
+### Spliceman: a web tool for prediction of sequence variations in splicing
+* [URL Not available](http://fairbrother.biomed.brown.edu/spliceman/index.cgi)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22328782/)
 
 ### SpliceView: a splice site prediction
-Last release: *not found*
-* [URL](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
+* [URL Not available](http://bioinfo.itb.cnr.it/~webgene/wwwspliceview.html)
 
 ### SpliceViNCI: a non-canonical splice sites prediction
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34088258/)
+No code provided
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34088258/)
 
 ### SPANR: a splicing-based analysis of SNVs
-* [URL](http://tools.genes.toronto.edu/)
+* [URL Not available](http://tools.genes.toronto.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25525159/)
 
 ### SQUIRLS: a tool that detects changes in splicing regulatory sequences
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34289339/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34289339/)
+* [GitHub](https://github.com/TheJacksonLaboratory/Squirls)
 
 ### TraP: transcript inferred pathogenecity score
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/28794409/)
-* [URL] (http://trap-score.org/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/28794409/)
+* [URL](http://trap-score.org/)
 
+### Veridical
+* [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3983938/)
+* [URL Not available](http://www.veridical.org/defaultsite)
+ 
 ## Alternative splicing regulation
 ### AIRBP: Identification of RNA-binding proteins using machine learning techniques
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33685590/)
@@ -2039,6 +2025,11 @@ Last update:
 ### SASD: the Synthetic Alternative Splicing Database for identifying novel isoform from proteomics
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
 * [URL] Does not work
+
+### S-CAP: a list of splice-related pathogenicity scores
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30804562/)
+* [URL](http://bejerano.stanford.edu/scap/)
+* [Bitbucket](https://bitbucket.org/bejerano/splicing_classifier/)
 
 ### SilkBase: an integrated transcriptomic and genomic database for Bombyx mori and related species
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
