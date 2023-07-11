@@ -1008,7 +1008,7 @@ No code provided
 * [URL Not available]()
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24447569/)
 
-### DanQ
+### DanQ (for DNA)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27084946/)
 * [GitHub](https://github.com/uci-cbcl/DanQ)
 
@@ -1021,7 +1021,7 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26213851/)
 * [URL Not available](http://tools.genes.toronto.edu/deepbind/)
 
-### DeeperBind
+### DeeperBind (For DNA binding)
 * [GitHub](https://github.com/hassanzadeh/DeeperBind)
 * [Paper](https://pure.ulster.ac.uk/en/publications/proceedings-of-2018-ieee-international-conference-on-bioinformati)
 
@@ -1055,12 +1055,14 @@ The code is upon request
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15607979/)
 
 ### ExonSuite: a tool for PUF binding regions analysis
+The Python script with no documentation
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23816174/)
 * [GitHub](https://github.com/dilanustek/ExonSuite)
 
 ### GraphProt
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24451197/)
 * [URL](http://www.bioinf.uni-freiburg.de/Software/GraphProt/)
+* [GitHub](https://github.com/dmaticzka/GraphProt)
 
 ### iDeep
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28245811/)
@@ -1082,7 +1084,7 @@ The code is upon request
 * [GitHub](https://github.com/mstrazar/iONMF)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26787667/)
 
-#### LaBranchoR: a branchpoints prediction tool
+### LaBranchoR: a branchpoints prediction tool
 Last release: 2019, February, 20th
 * [URL](http://bejerano.stanford.edu/labranchor/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30224349/)
