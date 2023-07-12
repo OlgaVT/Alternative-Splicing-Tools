@@ -1211,31 +1211,21 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
 * [GitHub](https://github.com/louadi/NEASE) 
 
-## Single cell data
-### acorde: networks of isoform co-usage from single cell data
-Last release: 
+## Single-cell data
+### acorde: networks of isoform co-usage from single-cell data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35383181/)
 * [GitHub](https://github.com/ConesaLab/acorde)
 
 ### BRIE: an isoform quantification tool
-Last release: 2018, June, 3rd
 * [PubMed BRIE](https://pubmed.ncbi.nlm.nih.gov/28655331/)
-* [Pubmed BRIE2] (https://pubmed.ncbi.nlm.nih.gov/34452629/)
+* [Pubmed BRIE2](https://pubmed.ncbi.nlm.nih.gov/34452629/)
 * [GitHub](https://github.com/huangyh09/brie)
-* [Pypi] (https://pypi.org/project/brie/)
-
-#### DTUrtle: a differential transcript usage for bulk and single-cell RNA-Seq
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34469510/)
-* [Github 1] (https://github.com/TobiTekath/DTUrtle)
-* [GitHub 2] (https://tobitekath.github.io/DTUrtle/)
-
+ 
 ### Expedition: an alternative splicing detection tool
-Last release: 
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28673540/)
 * [GitHub](https://github.com/YeoLab/Expedition)
 
-### IsoCell: an approach for isoform-based single cell clustering
+### IsoCell: an approach for isoform-based single-cell clustering
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35100120/)
 
 ### MARVEL: an integrated alternative splicing analysis platform for single-cell RNA sequencing data
