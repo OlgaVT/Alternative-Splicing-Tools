@@ -1191,34 +1191,25 @@ No documentation
 * [DockerHub](https://hub.docker.com/r/narykov/alt-in)
 
 ### CoSpliceNet: a co-splicing network tool
-Last release: 2017, October, 18th (the last commit)
 * [URL](http://delasa.github.io/co-spliceNet/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27793091/)
 * [GitHub](https://github.com/Delasa/co-spliceNet)
 
 ### DeepIII: an isoform-isoform interaction prediction
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33764878/)
-* [URL](http://mlda.swu.edu.cn/codes.php?name=DeepIII)
+* [URL Not available](http://mlda.swu.edu.cn/codes.php?name=DeepIII)
 
 ### DIGGER: a role of alternative splicing in protein-protein interactions
-Last release: *not found*
 * [URL](https://exbio.wzw.tum.de/digger/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32976589/)
 
 ### DomainGraph: effect of alternative splicing on domain-domain interactions
-Last release: December, 2018
 * [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
 
-### n1pas: a alternatevely spliced pathway detection
-Last release: 2019, April, 3rd
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
-* [GitHub](https://github.com/grizant/n1pas/tree/master)
-
-### PathwaySplice: a pathway analysis for alternative splicing genes
-Last release: *not found*
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/PathwaySplice.html)
+### NEASE
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
+* [GitHub](https://github.com/louadi/NEASE) 
 
 ## Single cell data
 ### acorde: networks of isoform co-usage from single cell data
@@ -2224,9 +2215,14 @@ Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html) 
 
-### NEASE
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
-* [GitHub](https://github.com/louadi/NEASE) 
+### n1pas: a alternatevely spliced pathway detection
+Last release: 2019, April, 3rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
+* [GitHub](https://github.com/grizant/n1pas/tree/master)
+
+### PathwaySplice: a pathway analysis for alternative splicing genes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
+* [GitHub](https://github.com/SCCC-BBC/PathwaySplice)
 
 ## Pipelines
 ### 3D RNA-Seq: a pipeline
