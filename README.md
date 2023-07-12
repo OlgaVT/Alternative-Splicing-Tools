@@ -1084,7 +1084,7 @@ The Python script with no documentation
 * [GitHub](https://github.com/mstrazar/iONMF)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26787667/)
 
-### LaBranchoR: a branchpoints prediction tool
+### LaBranchoR: a branchpoint prediction tool
 Last release: 2019, February, 20th
 * [URL](http://bejerano.stanford.edu/labranchor/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30224349/)
@@ -1106,10 +1106,6 @@ Last release: 2019, February, 20th
 No code
 * [https://pubmed.ncbi.nlm.nih.gov/24780077/]
 
-### pysster
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29659719/)
-* [GitHub](https://github.com/budach/pysster)
-
 ### RBPmap: a tool for mapping binding sites of RNA binding proteins
 Last release: 2021, February
 * [URL](http://rbpmap.technion.ac.il/)
@@ -1128,22 +1124,21 @@ Last release: 2021, February
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20617199/)
 
 ### rMAPS2: a tool for RNA-binding protein analysis
-Last release: 2020, March, 20th
 * [URL](http://rmaps.cecsresearch.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286627/)
 
 ### RNABP: a branchpoint prediction
-Last release: 2020
-* [URL](http://nsclbio.jbnu.ac.kr/tools/RNABP/)
+* [URL Not available](http://nsclbio.jbnu.ac.kr/tools/RNABP/)
 
-### SVM-BPfinder: a branchpoints prediction tool
+### SVM-BPfinder: a branchpoint prediction tool
 Last release: 2016
-* [URL](http://regulatorygenomics.upf.edu/Software/SVM_BP/)
+* [URL Not available](http://regulatorygenomics.upf.edu/Software/SVM_BP/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21124863/)
 
 ### WDFSMF: an RNA-AS target prediction
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34410342/)
-* [Github] (https://github.com/yushanqiu/WDFSMF)
+No documentation
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34410342/)
+* [Github](https://github.com/yushanqiu/WDFSMF)
 
 ### Zeng et al.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27307608/)
