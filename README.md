@@ -1149,7 +1149,6 @@ No documentation
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/36845399/)
 
 ### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
-Last release: March, 2021 (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31825849/)
 * [PubMed (Protocol)](https://pubmed.ncbi.nlm.nih.gov/33377032/)
 * [GitHub](https://github.com/ed-lau/jcast)
@@ -1158,36 +1157,31 @@ Last release: March, 2021 (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241129/)
 * [GitHub](https://github.com/sheynkman-lab/Long-Read-Proteogenomics)
 
-### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants and fusion genes
-Last release: *not found*
-* [URL](http://openslice.fenyolab.org/cgi-bin/pyquilts_cgi.pl)
+### QUILTS: the identification of novel proteins, resulting from single nucleotide variants, splice variants, and fusion genes
+* [URL Not available](http://openslice.fenyolab.org/cgi-bin/pyquilts_cgi.pl)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26631509/)
 * [GitHub](https://github.com/ekawaler/pyQUILTS/) - on a very early stage
 
 ### PASS: an alternative splicing detection from proteome
-Last release: 2019, April, 29th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31095856/)
 * [GitHub](https://github.com/wupengomics/PASS)
-
-### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
-Last release: 2017, June 21st (the last commit)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
-* [GitHub](https://github.com/yafeng/SpliceVista)
-
-## Proteogenomics
 
 ### pgdb and pypgatk: creation of proteogenomics databases based on ENSEMBL resources
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34904638/)
 * [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
 * [URL pgdb](https://nf-co.re/pgdb)
 
+### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
+* [GitHub](https://github.com/yafeng/SpliceVista)
+
 ### SPLICIFY: a proteogenomic pipeline for differential splice variant identification
-Last release: 2018, May, 28th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28747380/)
 * [GitHub](https://github.com/NKI-TGO/SPLICIFY)
 
 ### TopPG: a proteogenomic tool for generating proteoform sequence databases with genetic alterations and alternative splicing events
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33183009/)
+* [URL Not available](http://proteomics.informatics.iupui.edu/software/toppg/)
 
 ## Network analysis
 ### ALT-IN: predicting protein interaction network perturbation by alternative splicing
