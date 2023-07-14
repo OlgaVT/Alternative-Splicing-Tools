@@ -1207,11 +1207,15 @@ No documentation
 * [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
 
+### Iso-Net
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32534132/)
+* [GitHub](https://github.com/Dingjie-Wang/Iso-Net)
+
 ### NEASE
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
 * [GitHub](https://github.com/louadi/NEASE) 
 
-## Single-cell data
+## Single-cell data (much more here https://www.scrna-tools.org/)
 ### acorde: networks of isoform co-usage from single-cell data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35383181/)
 * [GitHub](https://github.com/ConesaLab/acorde)
@@ -1258,7 +1262,7 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26740580/)
 * [GitHub](https://github.com/jw156605/SingleSplice)
 
-## Long reads
+## Long reads (much more here https://long-read-tools.org/)
 
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/37066125/)
 [Review 2](10.1186/s13059-020-1935-5)
@@ -1310,12 +1314,10 @@ Last release: 2023
 ### IsoTV
 
 ### L-RAPiT
-Last release: 2022
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36555493/)
 * [GitHub] (https://github.com/Theo-Nelson/long-read-sequencing-pipeline)
 
 ### LIQA
-Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36993612/)
 * [Github 1](https://github.com/yuntianf/Longcell-pre)
 * [GitHub 2](https://github.com/yuntianf/Longcell)
@@ -1323,7 +1325,6 @@ Last release:
 ### LORALS
 
 ### Longcell
-Last release:
 * [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
 * [GitHub] (https://github.com/WGLab/LIQA)
 
@@ -1334,12 +1335,10 @@ Last release:
 ### Pinfish
 
 ### scallop-LR: a transcritome assembler
-Last release: 2020, May, 22nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36099042/)
-* [GitHub]( https://github.com/ylab-hi/ScanExitronLR)
+* [GitHub](https://github.com/ylab-hi/ScanExitronLR)
 
 ### ScanExitronLR
-Last release: 2022
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
 * [GitHub](https://github.com/Kingsford-Group/scallop/tree/isoseq)
 
@@ -1349,7 +1348,6 @@ Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36928528/)
 
 ### SpliceHunter
-Last release: 2017, March, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
 * [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
@@ -1364,53 +1362,60 @@ Last release: 2017, March, 23rd
 ### TAPIS
 
 ### VIsoQLR
-Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36881176/)
 * [GitHub](https://github.com/TBLabFJD/VIsoQLR)
 
 ### WUB
 
 ### uLTRA
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
-* [GitHub] (https://github.com/ksahlin/ultra)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34302453/)
+* [GitHub](https://github.com/ksahlin/ultra)
 
 ## Isoform Function Inference/Functional interpretation
 
 ### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
-* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
+* [Bioconductor](https://bioconductor.statistik.tu-dortmund.de/packages/3.13/bioc/html/ASpediaFI.html)
 
 ### DeepIDA: isoform-disease associations prediction
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33571094/)
+* [URL Not available](http://mlda.swu.edu.cn/codes.php?name=DeepIDA)
 
 ### DeepIsoFun
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/30535380/)
-* [GitHub] (https://github.com/dls03/DeepIsoFun/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/30535380/)
+* [GitHub](https://github.com/dls03/DeepIsoFun/)
 
 ### DIFFUSE
-Last release: 2020, October, 29th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31510699/)
 * [GitHub](https://github.com/haochenucr/DIFFUSE)
 
+### DisoFun
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32176770/)
+* [URL Not available](https://mlda.swu.edu.cn/codes.php?name=DisoFun)
+  
 ### DMIL-IsoFun
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34282449/)
-* [URL] (http://www.sdu-idea.cn/codes.php?name=DMIL-Isofun)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34282449/)
+* [URL](http://www.sdu-idea.cn/codes.php?name=DMIL-Isofun)
 
 ### factR: Functional Annotation of Custom Transcriptomes
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html) 
 
-### IsoDA: an isoform-disease association prediction
-Last release:
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33826865/)
-* [URL](http://mlda.swu.edu.cn/codes.php?name=IsoDA)
+### iMILP
+* [PubMed](10.1093/nar/gkt1362)
+* [URL Not available](http://zhoulab.usc.edu/IsoFP)
 
-### Iso-Net
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32534132/)
-* [GitHub](https://github.com/Dingjie-Wang/Iso-Net)
+### IsoDA: an isoform-disease association prediction
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33826865/)
+* [URL Not available](http://mlda.swu.edu.cn/codes.php?name=IsoDA)
+
+### IsoFun
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31250882/)
+* [URL Not available](http://mlda.swu.edu.cn/codes.php? name=IsoFun)
+
+### IsoPred
+* [PubMed](10.1371/journal.pcbi.1003314)
+* [URL Not available](http://guanlab.ccmb.med.umich.edu/isoPred/.)
 
 ### isopretEM
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36929917/)
@@ -1421,40 +1426,41 @@ Last release:
 * [GitHub](https://github.com/genemine/IsoResolve)
 
 ### NMD Classifier: a nonsense mediated decay classifier
-Last release: 2019, April, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 * [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
 
-### n1pas: a alternatevely spliced pathway detection
-Last release: 2019, April, 3rd
+### n1pas: an alternatevely spliced pathway detection
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
 * [GitHub](https://github.com/grizant/n1pas/tree/master)
 
 ### PathwaySplice: a pathway analysis for alternative splicing genes
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
 * [GitHub](https://github.com/SCCC-BBC/PathwaySplice)
+* [Bioconductor](http://bioconductor.riken.jp/packages/3.8/bioc/html/PathwaySplice.html)
 
 ### SAPFIR: A webserver for the identification of alternative protein features
-Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35751026/)
 * [URL](https://bioinfo-scottgroup.med.usherbrooke.ca/sapfir/)
 * [GitHub](https://github.com/DelongZHOU/SAPFIR)
 
 ### SpliceTools: a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing
-Last release: 2023
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36864749/)
 * [GitHub](https://github.com/flemingtonlab/SpliceTools)
 
 ### TRIFID
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34046593/)
-* [Bitbucket] (https://gitlab.com/bu_cnio/trifid)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34046593/)
+* [Bitbucket](https://gitlab.com/bu_cnio/trifid)
 
 ### Trinotate
 * [GitHub](https://github.com/Trinotate/Trinotate/wiki)
 
 ### TS-Isofun: a tissue-specific isoform function prediction
-Last release
+No code available
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34185647/)
+
+### WLRM
+The code is not available
+* [Paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3097984)
 
 ## Circular RNA
 [Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
