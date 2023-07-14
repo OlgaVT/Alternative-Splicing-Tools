@@ -1463,7 +1463,8 @@ The code is not available
 * [Paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3097984)
 
 ## Circular RNA
-[Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
+* [Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
+* [Review 2 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/34195960/)
 
 ### AQUARIUM
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34115093/)
@@ -1603,7 +1604,6 @@ The code is opon request
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
 
-
 ### ASES: a tool for assessing the impact of alternative splicing, initiation and termination of transcription on protein diversity in evolution
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35188186/)
 * [URL]( http://www.lcqb.upmc.fr/Ases)
@@ -1723,24 +1723,20 @@ Last release:
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
 
-
 ### Reboot:
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34316711/)
 * [URL] (https://galantelab.github.io/reboot/)
-
 
 ### rnabridge-denovo: de novo Bridging Paired-end RNA-seq Data
 Last release: 2023
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37033458/)
 * [GitHub](https://github.com/Shao-Group/rnabridge-denovo)
 
-
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
 Last release: 2020, April, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
 * [GitHub](https://github.com/comprna/orqas)
-
 
 ### PPLine: a pipeline for SNP calling and gene/isoform quantification
 Last release: 2018, March, 26th
@@ -1794,7 +1790,6 @@ Last release: 2018, May, 24th
 * [GitHub](https://github.com/nauenlab/TraC)
 
 ### TranscriptAchilles: a transcript-level biomarkers for cancer
-Last release: 2019
 * [URL](https://biotecnun.unav.es/app/TranscriptAchilles)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30942869/)
 * [GitLab](https://gitlab.com/fcarazo.m/transcriptachilles)
@@ -1811,80 +1806,51 @@ Last release: *not found*
 
 ## Databases
 * [Review 1](https://pubmed.ncbi.nlm.nih.gov/31998941/)
-* [Review 2 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/34195960/)
 
 ### AceView: a database of alternative splicing isoforms
-Last update: 2012, October, 16th
-
-Organisms: human, mouse, rat, worm, arabidopsis
 * [URL](https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16925834/)
 
 ### AltTrans: a database of alternative splicing and alternative polyadenilation (archived)
-Last update: 2008, September, 5th
-
-Organisms: human, mouse, rat
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16556303/)
 * [FTP](ftp://ftp.ebi.ac.uk/pub/databases/astd)
 
 ### APPRIS: a database of principal splice isoforms
-Last update: 2021
-
-Organisims: 19 vertebrate and invertebrate genomes
 * [URL](http://appris.bioinfo.cnio.es/#/)
 * [PubMed 1](https://www.ncbi.nlm.nih.gov/pubmed/23161672)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/34755885/)
 
 ### Arabidopsis PeptideAtlas
-Last update
-
-* [URL] (www.peptideatlas.org/builds/arabidopsis/)
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34411258/)
+* [URL](www.peptideatlas.org/builds/arabidopsis/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34411258/)
 
 ### ASCancer Atlas: a comprehensive knowledgebase of alternative splicing in human cancers
-Last update: 2023
-
 * [URL](https://ngdc.cncb.ac.cn/ascancer)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36318242/)
 
 ### AS-CMC: a pan-cancer database of alternative splicing for molecular classification of cancer
-Last update: 2022
-
 * [URL](https://www.pmrc.re.kr/ASCMC/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36473963/)
 
-
 ### ASCOT
-Last update
 * [URL] (http://ascot.cs.jhu.edu/)
 * [GitHub] (https://github.com/jpling/ascot)
 
 ### ASlive: a database for alternative splicing in livestock animals
-Last update: 2019, June, 25th
-
-Organisms: cattle, sheep, pig, chicken, horse
 * [URL](http://202.195.250.104/lsas/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32000661/)
 
 ### ASpedia: a database of human alternative splicing
-Last update: 2017, June, 30th
-
-Organisims: human
 * [URL](http://combio.snu.ac.kr/aspedia/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29106599/)
 
 ### ASPicDB: a database of alternative splicing patterns in human genes
-Last update: 2017, May, 4th, 196,446 splicing events	
-
-Organism: human
 * [URL](http://srv00.recas.ba.infn.it/ASPicDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21051348/)
 
 ### ASPN: a splicing-derived neoepitopes database
-Last update:
-
-* [URL] (http://jianglab.org.cn/ASPN/)
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34285345/)
+* [URL](http://jianglab.org.cn/ASPN/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34285345/)
 
 ### At-C-RNA: Arabidopsis thaliana CircRNAs
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
@@ -1895,37 +1861,22 @@ Last update:
 * [URL](https://blood-proteoform-atlas.org/)
 
 ### CancerSplicingQTL: a database of SNPs that affect alternative splicing
-Last update: 2021
-
-Organism: human
 * [URL](http://www.cancersplicingqtl-hust.com/#/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30329095/)
 
 ### CanIsoNet: a database to study the functional impact of isoform switching events in diseases
-Last update: 2023
-
-Organism: human
 * [URL](https://www.caniso.net)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37123454/)
 
 ### CASA: a comprehensive database resource for the COVID-19 Alternative Splicing Atlas
-Last update: 2022
-
-Organism: human
 * [URL](http://www.splicedb.net/casa/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36266726/)
 
 ### CattleGTEx
-Last update: 2022
-
-Organism: cattle
 * [URL](http://cgtex.roslin.ed.ac.uk/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35953587/)
 
 ### CuAS: a database of alternative splicing in cucumber
-Last update: 2021
-
-Organism: cucumber
 * [URL](http://cmb.bnu.edu.cn/alt_iso/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32183712/)
 
@@ -1934,46 +1885,30 @@ Organism: cucumber
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33261662/)
  
 ### DBTSS: a database of transcription start sites
-Last update: 2017, December, 21st
-
-Organism: human
 * [URL](https://dbtss.hgc.jp/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/29126224)
 
 ### eQTL Catalogue: a database of eQTL and sQTL
-Last update:
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34493866/)
-* [URL] (https://www.ebi.ac.uk/eqtl/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34493866/)
+* [URL](https://www.ebi.ac.uk/eqtl/)
 
 ### ExonSkipAD: exon skipping in Alzheimer's disease
-Last update:
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/33497435/)
-* [URL] (https://ccsm.uth.edu/ExonSkipAD/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33497435/)
+* [URL](https://ccsm.uth.edu/ExonSkipAD/)
 
 ### ExonSkipDB: a functional characterization of skipped exons
-Last update: *not found*
-
-Organism: Human
 * [URL](https://ccsm.uth.edu/ExonSkipDB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31642488/)
 
 ### FishExp: A comprehensive database and analysis platform for gene expression and alternative splicing of fish species
-Organism: Fish
 * [URL](https://bioinfo.njau.edu.cn/fishExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35891795/)
 
 ### FungiExp
-Last update: 2023
-
-Organism: Fungi
 * [URL](https://bioinfo.njau.edu.cn/fungiExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36655761/)
 
 ### Gene Expression Nebulas (GEN): a comprehensive data portal integrating transcriptomic profiles across multiple species at both bulk and single-cell levels
-Last update:
-
 * [URL](https://ngdc.cncb.ac.cn/gen/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34591957/)
 
@@ -1982,30 +1917,18 @@ Last update:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
 
 ### H-DBAS: a human alternative splicing database
-Last update: 2011, December, 26th
-
-Organism: human
 * [URL](http://h-invitational.jp/h-dbas/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19969536?dopt=Abstract)
 
 ### HEXEvent: a database of Human EXon splicing Events
-Last update: 2017, September, 29th
-
-Organism: human
 * [URL](http://hexevent.mmg.uci.edu/cgi-bin/HEXEvent/HEXEventWEB.cgi)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23118488/)
  
 ### The Human Proteoform Atlas
-Last update: 2022
-
-Organism: human
 * [URL](http://human-proteoform-atlas.org)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34986596/)
 
 ### IntroVerse: a comprehensive database of introns across human tissues
-Last update: 2023
-
-Organism: human
 * [URL](https://rytenlab.com/browser/app/introverse)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36399497/)
 
@@ -2013,36 +1936,22 @@ Organism: human
 * [URL](https://irbase.igh.cnrs.fr/)
 
 ### ISOdb: a database of Iso-Seq isoforms
-Last update: 2018, March, 5th
-
-Organism: 8 organisms
 * [URL](http://isodb.xieslab.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30581839/)
 
 ### ISOexpresso: a database of isoform expression in cancer
-Last update: 2016, June, 1st
-
-Organism: human
 * [URL](http://wiki.tgilab.org/ISOexpresso/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27519173/)
 
 ### Kassiopeia: a database of mutually exclusive exonomes
-Last update: _not found_
-
-Organism: human, fruit fly, worm, Arabidopsis
 * [URL](https://kassiopeia.motorprotein.de/kassiopeia)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24507667/)
 
 ### LivestockExp
-Last update: 2022
-
-Organism: livestock animals
 * [URL](https://bioinfo.njau.edu.cn/livestockExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36253723/)
 
 ### LncAS2Cancer: alternative splicing in lncRNAs in cancer
-Last update: 2021, February, 8th
-Organism: human
 * [URL](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
 
@@ -2059,77 +1968,49 @@ Organism: human
 * [URL](https://brb.nci.nih.gov/splicing)
 
 ### OncoSplicing
-Last update:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34554251/)
 * [URL] (http://www.oncosplicing.com/)
 
 ### oRNAment: a database of putative RNA binding protein target sites in the transcriptomes of model species
-Last update:
-* [URL] (http://rnabiology.ircm.qc.ca/oRNAment/)
-* [Pubmed] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145663/)
+* [URL](http://rnabiology.ircm.qc.ca/oRNAment/)
+* [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145663/)
 
 ### Pan-cancer repository of validated natural and cryptic mRNA splicing mutations
-Last update: *not found*
-
-Organism: human
 * [URL](https://validsplicemut.cytognomix.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31275557/)
 
 ### PID: Plant Intron Database
-Last update
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34111777/)
-* [URL] (http://biodb.sdau.edu.cn/PID/index.php)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34111777/)
+* [URL](http://biodb.sdau.edu.cn/PID/index.php)
 
 ### PlaASDB: a comprehensive database of plant alternative splicing events in response to stress
-Last update: 2023
-
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/37106367/)
-* [URL] (http://zzdlab.com/PlaASDB/ASDB/index.html)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37106367/)
+* [URL](http://zzdlab.com/PlaASDB/ASDB/index.html)
 
 ### Plant Alternative Splicing Database
-Last update: 2019
-
-Organism: 15 plant genomes
 * [URL](http://proteomics.ysu.edu/altsplice/)
 
 ### PlantExp
-Last update: 2023
-
-Organism: plant genomes
 * [URL](https://biotec.njau.edu.cn/plantExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36271793/)
-
 
 ### PlantCircNet:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31725858/)
 * [URL](https://biokeanos.com/source/PlantCircNet)
 
 ### PlantSPEAD: a splicing-related protein expression database
-Last update: 2017
-
-Organisms: plants
 * [URL](http://chemyang.ccnu.edu.cn/ccb/database/PlantSPEAD/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33010087/)
 
 ### PISE: Plant Intron-Splicing Efficiency Database
-Last update: 2023
-
-Organisms: plants
 * [URL](https://kidsneuro.shinyapps.io/splicevault/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36747048/)
 
 ### PolyA_DB: a database of pre-mRNA cleavage and polyA sites
-Last update: 2018, August. 107 human samples, 246 mouse samples, 11 rat samples, 9 chicken samples.
-
-Organisms: human, mouse, rat, chicken
 * [URL](https://exon.apps.wistar.org/PolyA_DB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29069441/)
 
 ### ProSAS: a database of the effects of alternative splicing events on the structure of the resulting protein isoforms.
-Last update: _not found_. Published in 2008.
-
-Organism
 * [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
 
@@ -2138,9 +2019,8 @@ Organism
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33179749/)
 
 ### RBPDB
-Last update: 
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/21036867/)
-* [URL] (http://rbpdb.ccbr.utoronto.ca/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21036867/)
+* [URL](http://rbpdb.ccbr.utoronto.ca/)
 
 ### recount3: an online resource consisting of RNA-seq gene, exon, and exon-exon junction counts as well as coverage
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34844637/)
@@ -2160,37 +2040,26 @@ Last update:
 * [URL](https://silkbase.ab.a.u-tokyo.ac.jp)
 
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
-Last update: 2013, February
-
-Organism: human
 * [URL](http://www.introni.it/splicing.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19261717/)
 
 ### SpliceAid2: a database of human splicing factors expression data and RNA target motifs
-Last update: 2013 February:	71 splicing factors, 2,339 RNA binding sites
-
-Organism: human
 * [URL](http://193.206.120.249/splicing_tissue.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21922594/)
 
 ### SpliVap
 * [URL](http://splicing.bioinformatica.crs4.it/)
-* [PubMed]
 
 ### TassDB: a tandem splice sites database
-Last update: _not found_. Published in 2010.
-
 * [URL 1](http://www.tassdb.info/)
 * [URL 2](http://tassdb2.leibniz-fli.de/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20429909)
 
 ### TCGA SpliceSeq: splicing patterns alternation in TCGA
-Last update: *not found*
 * [URL](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
 
 ### TeaAS: a database of alternative splicing in tea plants
-Last update
 * [URL] (http://www.teaas.cn/index.php)
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34154536/)
 
@@ -2199,13 +2068,11 @@ Last update
 * [URL](https://www.biosino.org/transcirc/)
 
 ### TSVdb: TCGA splicing variants database
-Last update: 2020, May, 9th (the last commit)
 * [URL](http://www.tsvdb.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29843604/)
 * [GitHub](https://github.com/wenjie1991/TSVdb)
 
 ### VastDB: a database of alternative splicing profiles
-Last release: 2020, December, 21st
 * [URL](https://vastdb.crg.eu/wiki/Main_Page)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
 * [PubMed VAST-TOOLS](https://pubmed.ncbi.nlm.nih.gov/35895261/)
@@ -2216,17 +2083,14 @@ Last release: 2020, December, 21st
 
 ## Visualization
 #### CAS-viewer: a visualization tool of cancer alternatively splicing
-Last release: 2017
 * [URL](http://genomics.chpc.utah.edu/cas/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
 
 ### DoChaP: a domain-splicing visualization
-Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
 * [URL](https://dochap.bgu.ac.il/)
 
 #### GFFView: a RNA-Seq viewer
-Last release: *not found*
 * [URL](http://120.27.116.110/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
 
@@ -2277,7 +2141,6 @@ Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35678367/)
 * [Bioconductor](https://bioconductor.org/packages/surfaltr)
  
-
 ## Transcript assembly
 #### BayesDenovo: a transcriptome assembly
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
