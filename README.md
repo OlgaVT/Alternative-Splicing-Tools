@@ -1221,6 +1221,10 @@ No documentation
 * [Pubmed BRIE2](https://pubmed.ncbi.nlm.nih.gov/34452629/)
 * [GitHub](https://github.com/huangyh09/brie)
  
+### DESJ
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33674641/)
+* [GitHub](https://github.com/liushang17/DESJ-detection)
+
 ### Expedition: an alternative splicing detection tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28673540/)
 * [GitHub](https://github.com/YeoLab/Expedition)
@@ -1238,6 +1242,10 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35858747/)
 * [GitHub](https://github.com/lareaulab/Psix)
 
+### satuRn
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36762203/)
+* [GitHub](https://github.com/statOmics/satuRn)
+  
 ### scAllele: detection and analysis of variants in scRNA-seq
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36054357/)
 * [GitHub](https://github.com/gxiaolab/scAllele/)
@@ -1253,6 +1261,7 @@ No documentation
 ## Long reads
 
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/37066125/)
+[Review 2](10.1186/s13059-020-1935-5)
 
 ### BRCA-LRseq-pipeline
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
@@ -1261,6 +1270,8 @@ No documentation
 ### brca-isoforms: long-read isoform analysis platform and sequencing resource for breast cancer
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [URL](https://brca-isoforms.jax.org/)
+
+### Cupcake
 
 ### deSALT: an alignment tool
 Last release: 2020, August, 20th
@@ -1277,14 +1288,26 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34253685/)
 * [GitHub] (https://github.com/marabouboy/FLAME)
 
+### FLAMES
+
 ### Freddie: annotation-independent detection and discovery of transcriptomic alternative splicing isoforms using long-read sequencing
 Last release: 2023
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36478271/)
 * [GitHub] (https://github.com/vpc-ccg/freddie/)
 
+### IDP
+
+### IsoAnnot
+
+### IsoCon
+
+### IsoSeq3
+
 ### IsoSplitter
 
 * [GitHub](https://github.com/Hengfu-Yin/IsoSplitter)
+
+### IsoTV
 
 ### L-RAPiT
 Last release: 2022
@@ -1297,10 +1320,18 @@ Last release:
 * [Github 1](https://github.com/yuntianf/Longcell-pre)
 * [GitHub 2](https://github.com/yuntianf/Longcell)
 
+### LORALS
+
 ### Longcell
 Last release:
 * [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
 * [GitHub] (https://github.com/WGLab/LIQA)
+
+### Mandalorian
+
+### NanoSplicer
+
+### Pinfish
 
 ### scallop-LR: a transcritome assembler
 Last release: 2020, May, 22nd
@@ -1312,20 +1343,32 @@ Last release: 2022
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
 * [GitHub](https://github.com/Kingsford-Group/scallop/tree/isoseq)
 
+### scNaST
+
+### SiT
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36928528/)
 
 ### SpliceHunter
 Last release: 2017, March, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29508290/)
 * [Bitbucket](https://bitbucket.org/canzar/splicehunter/src/master/)
 
+### SQANTI
+
+### TAMA
+
 ### TALON
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/672931v2)
 * [GitHub](https://github.com/mortazavilab/TALON)
+
+### TAPIS
 
 ### VIsoQLR
 Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36881176/)
 * [GitHub](https://github.com/TBLabFJD/VIsoQLR)
+
+### WUB
 
 ### uLTRA
 Last release:
