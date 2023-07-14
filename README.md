@@ -1466,17 +1466,14 @@ The code is not available
 [Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
 
 ### AQUARIUM
-Last release:
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34115093/)
 * [Github](https://github.com/wanjun-group-seu/AQUARIUM)
 
 ### CircAST
-Last release: 2020, February, 26th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32007626/)
 * [GitHub](https://github.com/xiaofengsong/CircAST)
 
 ### Circall
-Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34645386/)
 * [GitHub](https://github.com/datngu/Circall)
 * [URL](https://www.meb.ki.se/sites/biostatwiki/circall)
@@ -1492,23 +1489,23 @@ Last release
 * [Github](https://github.com/AFBuratin/circIMPACT)
 
 ### CirComPara2
-Last release:
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34698333/)
 * [GitHub](https://github.com/egaffo/CirComPara2)
 
 ### Circ-LocNet: localisation prediction
-Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35897818/)
 * [URL](https://circ_rna_location_predictor.opendfki.de/)
 
 ### CircSplice
-Last release: 2019, February, 27th
 * [URL](http://gb.whu.edu.cn/CircSplice/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30849979/)
 * [GitHub](https://github.com/GeneFeng/CircSplice)
 
+### circRNA-sponging: a pipeline for extensive analysis of circRNA expression and their role in miRNA sponging
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36789427/)
+* [GitHub](https://github.com/biomedbigdata/circRNA-sponging)
+
 ### Ciri
-Last release: 2021, March, 15th
 * [URL](https://sourceforge.net/projects/ciri/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27350239/)
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/30660194/)
@@ -1542,7 +1539,6 @@ Last release: 2020, August, 17th
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
 
 ### SRCP
-Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34556162/)
 * [GitHub] (https://github.com/avigayel/SRCP)
 
@@ -1557,16 +1553,56 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37066374/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
-## Other
-
-### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
-Last release: 2005, July, 10th
-* [URL](http://hollywood.mit.edu/burgelab/software.html)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
+## Pipelines
+### 3D RNA-Seq: a pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
+* [URL](https://3drnaseq.hutton.ac.uk/app_direct/3DRNAseq/)
+* [GitHub](https://github.com/wyguo/ThreeDRNAseq)
 
 ### AIDD: a pipeline for transcript level analysis
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33375933/)
 * [GitHub](https://github.com/RNAdetective/AIDD)
+
+### AltAnalyze: an alternative splicing event detection tool
+Kallisto-Splice is part of a tool for a splice-aware mapping
+* [URL](http://www.altanalyze.org/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+ 
+### DICAST
+* [GitHub]
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
+
+### OneStopRNAseq: a pipeline for RNA-Seq analysis
+Includes rMATS and DEXSeq
+Last release: *not found*
+* [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
+
+### PipeOne-NM: RNA-Seq Analysis Pipeline for Non-Model Organisms
+Last release: 2023
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37239350/)
+* [GitHub](https://github.com/Lisijun-m/pipeone-nm)
+
+### RAP: a web pipeline for RNA-Seq analysis
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835454/)
+* [URL](https://bioinformatics.cineca.it/rap/index.php)
+
+### rmappet: a pipeline for alternative splicing analysis
+Last release: 2023
+* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
+* [URL] (ttps://github.com/didrikolofsson/rmappet/)
+
+### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
+* [GitHub](https://github.com/hybridstat/seqcvibe )
+
+## Other
+
+### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons 
+The code is opon request
+* [URL](http://hollywood.mit.edu/burgelab/software.html)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
+
 
 ### ASES: a tool for assessing the impact of alternative splicing, initiation and termination of transcription on protein diversity in evolution
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35188186/)
@@ -1678,12 +1714,6 @@ Last release: 2021, January, 21st
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34099673/)
 * [Bitbucket] (https://bitbucket.org/biociphers/moccasin/src/master/)
 
-### OneStopRNAseq: a pipeline for RNA-Seq analysis
-Includes rMATS and DEXSeq
-Last release: *not found*
-* [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
-
 ### PIC-Me: a classification model between paralogs and isoforms
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36930678/)
@@ -1693,19 +1723,12 @@ Last release:
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
 
-### RAP: a web pipeline for RNA-Seq analysis
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835454/)
-* [URL](https://bioinformatics.cineca.it/rap/index.php)
 
 ### Reboot:
 Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34316711/)
 * [URL] (https://galantelab.github.io/reboot/)
 
-### rmappet: a pipeline for alternative splicing analysis
-Last release: 2023
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
-* [URL] (ttps://github.com/didrikolofsson/rmappet/)
 
 ### rnabridge-denovo: de novo Bridging Paired-end RNA-seq Data
 Last release: 2023
@@ -1718,10 +1741,6 @@ Last release: 2020, April, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
 * [GitHub](https://github.com/comprna/orqas)
 
-### PipeOne-NM: RNA-Seq Analysis Pipeline for Non-Model Organisms
-Last release: 2023
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37239350/)
-* [GitHub](https://github.com/Lisijun-m/pipeone-nm)
 
 ### PPLine: a pipeline for SNP calling and gene/isoform quantification
 Last release: 2018, March, 26th
@@ -2258,25 +2277,6 @@ Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35678367/)
 * [Bioconductor](https://bioconductor.org/packages/surfaltr)
  
-## Pipelines
-### 3D RNA-Seq: a pipeline
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
-* [URL](https://3drnaseq.hutton.ac.uk/app_direct/3DRNAseq/)
-* [GitHub](https://github.com/wyguo/ThreeDRNAseq)
-
-### AltAnalyze: an alternative splicing event detection tool
-Kallisto-Splice is part of a tool for a splice-aware mapping
-* [URL](http://www.altanalyze.org/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
- 
-### DICAST
-* [GitHub]
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
-
-### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
-* [GitHub](https://github.com/hybridstat/seqcvibe )
-* 
 
 ## Transcript assembly
 #### BayesDenovo: a transcriptome assembly
