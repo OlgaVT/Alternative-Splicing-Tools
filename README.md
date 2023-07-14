@@ -1375,7 +1375,11 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
 * [GitHub] (https://github.com/ksahlin/ultra)
 
-## Isoform Function Inference/Prediction
+## Isoform Function Inference/Functional interpretation
+
+### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
+* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
 
 ### DeepIDA: isoform-disease associations prediction
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33571094/)
@@ -1394,6 +1398,10 @@ Last release: 2020, October, 29th
 Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34282449/)
 * [URL] (http://www.sdu-idea.cn/codes.php?name=DMIL-Isofun)
+
+### factR: Functional Annotation of Custom Transcriptomes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html) 
 
 ### IsoDA: an isoform-disease association prediction
 Last release:
@@ -1416,6 +1424,15 @@ Last release:
 Last release: 2019, April, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28369084/)
 * [URL](https://sourceforge.net/projects/transcriptome-analysis/files/)
+
+### n1pas: a alternatevely spliced pathway detection
+Last release: 2019, April, 3rd
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
+* [GitHub](https://github.com/grizant/n1pas/tree/master)
+
+### PathwaySplice: a pathway analysis for alternative splicing genes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
+* [GitHub](https://github.com/SCCC-BBC/PathwaySplice)
 
 ### SAPFIR: A webserver for the identification of alternative protein features
 Last release: 2022
@@ -2235,24 +2252,6 @@ Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35678367/)
 * [Bioconductor](https://bioconductor.org/packages/surfaltr)
  
-## Functional interpretation
-### ASpediaFI: Functional Interaction Analysis of Alternative Splicing Events
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35085775/)
-* [Bioconductor](https://bioconductor.org/packages/ASpediaFI)
-
-### factR: Functional Annotation of Custom Transcriptomes
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35895263/)
-* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/factR.html) 
-
-### n1pas: a alternatevely spliced pathway detection
-Last release: 2019, April, 3rd
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31143202/)
-* [GitHub](https://github.com/grizant/n1pas/tree/master)
-
-### PathwaySplice: a pathway analysis for alternative splicing genes
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
-* [GitHub](https://github.com/SCCC-BBC/PathwaySplice)
-
 ## Pipelines
 ### 3D RNA-Seq: a pipeline
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33345702/)
