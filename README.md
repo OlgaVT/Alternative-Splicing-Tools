@@ -1227,6 +1227,8 @@ No documentation
 
 ### IsoCell: an approach for isoform-based single-cell clustering
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35100120/)
+* [GitHub](https://github.com/genemine/IsoCell)
+* [URL](https://zenodo.org/record/4395707)
 
 ### MARVEL: an integrated alternative splicing analysis platform for single-cell RNA sequencing data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36631981/)
@@ -1240,20 +1242,13 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36054357/)
 * [GitHub](https://github.com/gxiaolab/scAllele/)
 
-### SICILIAN: splice junctions identfication in bulk and single RNA-Seq
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34353340/)
-* [GitHub] (https://github.com/salzmanlab/SICILIAN)
+### SICILIAN: splice junctions identification in bulk and single RNA-Seq
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34353340/)
+* [GitHub](https://github.com/salzmanlab/SICILIAN)
 
 ### SingleSplice: an alternative splicing detection tool
-Last release: 2016, July, 7th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26740580/)
 * [GitHub](https://github.com/jw156605/SingleSplice)
-
-### VALERIE: visualising splicing at single-cell
-Last release: *not found*
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32898151/)
-* [CRAN](https://cran.r-project.org/web/packages/VALERIE/index.html)
 
 ## Long reads
 
@@ -1337,7 +1332,6 @@ Last release:
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34302453/)
 * [GitHub] (https://github.com/ksahlin/ultra)
 
-
 ## Isoform Function Inference/Prediction
 
 ### DeepIDA: isoform-disease associations prediction
@@ -1385,7 +1379,6 @@ Last release: 2022
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35751026/)
 * [URL](https://bioinfo-scottgroup.med.usherbrooke.ca/sapfir/)
 * [GitHub](https://github.com/DelongZHOU/SAPFIR)
-
 
 ### SpliceTools: a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing
 Last release: 2023
@@ -1499,7 +1492,6 @@ Last release
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 ## Other
-
 
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons (Upon request)
 Last release: 2005, July, 10th
@@ -2184,6 +2176,10 @@ Last release: 2016, December, 8th (the last commit)
 Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
 * [GitHub](https://github.com/flemingtonlab/SpliceV)
+
+### VALERIE: visualizing splicing at single-cell
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32898151/)
+* [CRAN](https://cran.r-project.org/web/packages/VALERIE/index.html)
 
 #### Vials: a visualization of alternative splicing tool
 * [URL](http://vials.io/)
