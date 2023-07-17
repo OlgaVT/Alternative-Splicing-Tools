@@ -1485,7 +1485,6 @@ The code is not available
 * [CIRCexplorer2](https://circexplorer2.readthedocs.io/en/latest/)
 
 ### CircIMPACT
-Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34356060/)
 * [Github](https://github.com/AFBuratin/circIMPACT)
 
@@ -1524,13 +1523,12 @@ Last release
 * [GitHub](https://github.com/marvin-jens/find_circ)
 
 ### FUCHS
-Last release: 2020, August, 17th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28265491/)
 * [GitHub](https://github.com/dieterich-lab/FUCHS)
 
 ### JEDI
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34252942/)
-* [Github] (https://github.com/hallogameboy/JEDI)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34252942/)
+* [Github](https://github.com/hallogameboy/JEDI)
 
 ### PCirc
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407069/)
@@ -1545,7 +1543,6 @@ Last release: 2020, August, 17th
 
 ## Aberrant Splicing
 ### Bisbee
-Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34031440/)
 * [GitHub](https://github.com/tgen/bisbee)
 
@@ -1600,7 +1597,7 @@ Last release: 2023
 ## Other
 
 ### ACEScan: the algorithm for prediction of conserved alternatively spliced exons from pairs of conserved mouse/human exons 
-The code is opon request
+The code is upon request
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/15708978/)
 
@@ -1640,7 +1637,6 @@ Last release
 * [GitHub](https://github.com/wu-lab-egio/EGIO)
 
 ### Enhanced Integrated Gradients: a method to identify specific features
-Last release: 2020, June, 30th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32560708/)
 * [Bitbucket](https://bitbucket.org/biociphers/eig/src/master/)
 
