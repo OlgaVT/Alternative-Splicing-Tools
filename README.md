@@ -1452,11 +1452,11 @@ Last release: 2023
 * [Bitbucket](https://gitlab.com/bu_cnio/trifid)
 
 ### Trinotate
-* [GitHub](https://github.com/Trinotate/Trinotate/wiki)
+* [GitHub](https://github.com/Trinotate/Trinotate)
 
 ### TS-Isofun: a tissue-specific isoform function prediction
 No code available
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34185647/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34185647/)
 
 ### WLRM
 The code is not available
