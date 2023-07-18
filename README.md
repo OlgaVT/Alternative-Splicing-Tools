@@ -1591,9 +1591,10 @@ Kallisto-Splice is part of a tool for a splice-aware mapping
 
 ### rmappet: a pipeline for alternative splicing analysis
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36854218/)
-* [URL](github.com/didrikolofsson/rmappet/)
+* [URL](https://github.com/didrikolofsson/rmappet/)
 
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
+For RNA-Seq only
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
 * [GitHub](https://github.com/hybridstat/seqcvibe )
 
