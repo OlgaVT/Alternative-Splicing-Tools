@@ -861,6 +861,10 @@ The code
 * [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
 
+### Genomic-Kmer-Surprisal-Model
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33194378/)
+* [GitLab](https://gitlab.com/cruk-mi/genomic-kmer-surprisal-model)
+
 ### HAL: an effect of variants on alternative splicing
 * [URL](http://splicing.cs.washington.edu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26496609/)
@@ -1130,6 +1134,10 @@ Last release: 2021, February
 ### rMAPS2: a tool for RNA-binding protein analysis
 * [URL](http://rmaps.cecsresearch.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286627/)
+
+### PCB: approach to infer the dynamic regulatory relationships between alternative splicing events 
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36930678/)
+* [URL](http://hkumath.hku.hk/~wkc/PCB(data+code).zip)
 
 ### RNABP: a branchpoint prediction
 * [URL Not available](http://nsclbio.jbnu.ac.kr/tools/RNABP/)
@@ -1674,59 +1682,42 @@ Last release
 * [URL](https://sourceforge.net/projects/fsom/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
 
-### Genomic-Kmer-Surprisal-Model
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/33194378/)
-* [GitLab](https://gitlab.com/cruk-mi/genomic-kmer-surprisal-model)
-
 ### IsoDeconvMM: cell type deconvolution based on isoform composition
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34921386/)
 * [GitHub](https://github.com/hheiling/IsoDeconvMM)
 
 ### IsoSel: an isoform phylogenetic analysis tool
-Last release: *not found*
 * [URL](http://doua.prabi.fr/software/isosel)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28323858/)
 
-### Matt: a down-stream alternative splicing analysis
-Last release: 2019, May, 27th
+### Matt: feature extraction for alternative splicing
 * [URL](http://matt.crg.eu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30010778/)
 
 ### MBS: a genome browser annotation track for microRNA binding sites in whole human transcriptome
-Last release: 2023
 * [URL](https://datasharingada.fondazionerimed.com:8080/MBS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37114805/)
 
 ### Mirage: multiple sequence isoform alignment
-Last release: 2021, January, 21st
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31080963/)
 * [GitHub](https://github.com/TravisWheelerLab/Mirage)
 
 ### MOCCASIN: a correction for confounders
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34099673/)
-* [Bitbucket] (https://bitbucket.org/biociphers/moccasin/src/master/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34099673/)
+* [Bitbucket](https://bitbucket.org/biociphers/moccasin/src/master/)
 
 ### PIC-Me: a classification model between paralogs and isoforms
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36930678/)
-* [URL](http://hkumath.hku.hk/~wkc/PCB(data+code).zip)
-
-### PCB: approach to infer the dynamic regulatory relationships between alternative splicing events 
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674638/)
+* [Pubmed](10.1186/s12859-021-04229-x)
 
 ### Reboot:
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34316711/)
-* [URL] (https://galantelab.github.io/reboot/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34316711/)
+* [GitHub](https://github.com/galantelab/reboot)
 
 ### rnabridge-denovo: de novo Bridging Paired-end RNA-seq Data
-Last release: 2023
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37033458/)
 * [GitHub](https://github.com/Shao-Group/rnabridge-denovo)
 
 ### ORQAS: an alternative splicing quantification tool from RNA-Seq and Ribo-Seq
-Last release: 2020, April, 23rd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
 * [GitHub](https://github.com/comprna/orqas)
 
