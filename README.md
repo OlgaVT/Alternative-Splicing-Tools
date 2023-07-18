@@ -1535,21 +1535,23 @@ The code is not available
 * [GitHub](https://github.com/Lilab-SNNU/Pcirc)
 
 ### psirc
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34663689/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34663689/)
 
 ### SRCP
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34556162/)
-* [GitHub] (https://github.com/avigayel/SRCP)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34556162/)
+* [GitHub](https://github.com/avigayel/SRCP)
 
 ## Aberrant Splicing
-### Bisbee
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34031440/)
-* [GitHub](https://github.com/tgen/bisbee)
-
 ### FRASER
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33483494/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37066374/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
+
+#### LeafCutter: an intron quantification and differential analysis
+* [URL LeafViz](https://leafcutter.shinyapps.io/leafviz/)
+* [URL](http://davidaknowles.github.io/leafcutter/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29229983/)
+* [GitHub](https://github.com/davidaknowles/leafcutter)
 
 ## Pipelines
 ### 3D RNA-Seq: a pipeline
@@ -1565,30 +1567,31 @@ The code is not available
 Kallisto-Splice is part of a tool for a splice-aware mapping
 * [URL](http://www.altanalyze.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+* [GitHub](https://github.com/nsalomonis/altanalyze)
  
+### Bisbee
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34031440/)
+* [GitHub](https://github.com/tgen/bisbee)
+
 ### DICAST
-* [GitHub]
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35976049/)
+* [GitHub](https://github.com/CGAT-Group/DICAST)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37260511/)
 
 ### OneStopRNAseq: a pipeline for RNA-Seq analysis
-Includes rMATS and DEXSeq
-Last release: *not found*
 * [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
 
 ### PipeOne-NM: RNA-Seq Analysis Pipeline for Non-Model Organisms
-Last release: 2023
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37239350/)
 * [GitHub](https://github.com/Lisijun-m/pipeone-nm)
 
 ### RAP: a web pipeline for RNA-Seq analysis
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33835454/)
-* [URL](https://bioinformatics.cineca.it/rap/index.php)
+* [URL Not available](https://bioinformatics.cineca.it/rap/index.php)
 
 ### rmappet: a pipeline for alternative splicing analysis
-Last release: 2023
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36854218/)
-* [URL] (ttps://github.com/didrikolofsson/rmappet/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36854218/)
+* [URL](github.com/didrikolofsson/rmappet/)
 
 ### SeqCVIBE: Interactive Analysis, Exploration, and Visualization of RNA-Seq
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35314664/)
