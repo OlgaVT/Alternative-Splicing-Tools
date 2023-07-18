@@ -853,6 +853,10 @@ The code
 * [URL](https://ex-skip.img.cas.cz/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/21309043)
 
+### Exon ByPASS: predicting exon criticality
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35286381/)
+* [GitHub](https://github.com/wavelifescience/ExonByPass)
+
 ### GeneSplicer: a splice site prediction
 * [URL](https://www.cbcb.umd.edu/software/GeneSplicer/gene_spl.shtml)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/11222768/)
@@ -1610,28 +1614,22 @@ The code is upon request
 * [URL]( http://www.lcqb.upmc.fr/Ases)
 
 ### ASimulatoR: RNA-Seq reads with splicing simulation
-Last release: 2020, December, 16th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33647976/)
 * [GitHub](https://github.com/biomedbigdata/ASimulatoR)
 
 ### ASNEO: a detection of alternative splicing neoantigens
-Last release: 2020, May, 24th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32697765/)
 * [GitHub](https://github.com/bm2-lab/ASNEO)
 
-### BEERS: RNA-Seq reads with splicing simulation
-Last release: 2015, December, 9th (the last commit)
-* [URL](http://cbil.upenn.edu/BEERS/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/21775302/)
-* [GitHub](https://github.com/itmat/beers_simulator)
+### BEERS2: RNA-Seq reads with splicing simulation
+* [PubMed](10.1101/2023.04.21.537847)
+* [GitHub](https://github.com/itmat/BEERS2)
 
 ### CAMPAREE: an RNA expression simulator
-Last release
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34563123/)
 * [GitHub] (https://github.com/itmat/CAMPAREE)
 
 ### CHESSBOARD: Splicing-based subtyping
-Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36599821/)
 * [URL](https://chessboard.readthedocs.io/en/latest/index.html)
 
@@ -1648,22 +1646,16 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35369492/)
 
 ### eSkip-Finder: a machine learning-based web application and database to identify the optimal sequences of antisense oligonucleotides for exon skipping
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34104972/)
-* [URL] (https://eskip-finder.org)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34104972/)
+* [URL](https://eskip-finder.org)
 
 ### ESPRNN: epigenome-based splicing prediction
-Last release: 2020, February, 11th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32584815/)
 * [GitHub](https://github.com/gersteinlab/esprnn)
 
 ### Ex-Ex Primer: designing oligonucleotides spanning spliced nucleic acid regions
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34756973/)
 * [URL](http://resource2.ibab.ac.in/exprimer/)
-
-### Exon ByPASS: predicting exon criticality
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35286381/)
-* [GitHub](https://github.com/wavelifescience/ExonByPass)
 
 ### ExoPLOT
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35863675/)
@@ -1675,10 +1667,10 @@ Last release: 2020, February, 11th
 
 ### ExTraMapper: Exon- and Transcript-level mappings for orthologous gene pairs
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34014317/)
-* [GitHub](https://github.com/ay-lab/ExTraMapper and http://ay-lab-tools.lji.org/extramapper)
+* [GitHub](https://github.com/ay-lab/ExTraMapper)
+* [URL](http://ay-lab-tools.lji.org/extramapper)
 
-### FSOM: a methylation patterns associated with alternative splicing
-Last release: 2015, September, 3rd
+### FSOM: a methylation pattern associated with alternative splicing
 * [URL](https://sourceforge.net/projects/fsom/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26365234/)
 
