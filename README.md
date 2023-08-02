@@ -84,6 +84,10 @@ A list of alternative splicing analysis resources
 * [URL - not available](http://bioinfo.au.tsinghua.edu.cn/software/seqsaw/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21575597/)
 
+### Shark: mapping-free tool for fishing relevant reads in an RNA-Seq sample
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32926128/)
+* [GitHub](https://github.com/AlgoLab/shark)
+
 #### SpliceMap: a splice-aware mapping tool
 * [URL](https://web.stanford.edu/group/wonglab/SpliceMap/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20371516/)
@@ -263,6 +267,10 @@ Part of TAP pipeline
 #### SAJR: a differential splicing tool
 * [URL Not available](http://storage.bioinf.fbb.msu.ru/~mazin/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23340839/)
+
+### SEASTAR: an alternative transcription start sites detection tool
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29546410/)
+* [GitHub](https://github.com/Xinglab/SEASTAR)
 
 #### SGSeq: an alternative splicing event detection tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27218464/)
@@ -1227,7 +1235,7 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
 * [GitHub](https://github.com/louadi/NEASE) 
 
-## Single-cell data (much more here https://www.scrna-tools.org/)
+## Single-cell data (much much more here https://www.scrna-tools.org/)
 ### acorde: networks of isoform co-usage from single-cell data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35383181/)
 * [GitHub](https://github.com/ConesaLab/acorde)
@@ -1274,7 +1282,10 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26740580/)
 * [GitHub](https://github.com/jw156605/SingleSplice)
 
-## Long reads (much more here https://long-read-tools.org/)
+### SpliZ: a splicing quantification score for single-cell
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241832/)
+
+## Long reads (much much more here https://long-read-tools.org/)
 
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/37066125/)
 [Review 2](10.1186/s13059-020-1935-5)
@@ -1290,26 +1301,22 @@ No documentation
 ### Cupcake
 
 ### deSALT: an alignment tool
-Last release: 2020, August, 20th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842925/)
 * [GitHub](https://github.com/ydLiu-HIT/deSALT)
 
 ### flair
-Last release: 2020, May, 4th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32188845/)
 * [GitHub](https://github.com/BrooksLabUCSC/flair)
 
 ### FLAME: a bioinformatics pipeline for alternative splicing analysis of gene-specific or transcriptome-wide long-read sequencing data
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34253685/)
-* [GitHub] (https://github.com/marabouboy/FLAME)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34253685/)
+* [GitHub](https://github.com/marabouboy/FLAME)
 
 ### FLAMES
 
 ### Freddie: annotation-independent detection and discovery of transcriptomic alternative splicing isoforms using long-read sequencing
-Last release: 2023
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36478271/)
-* [GitHub] (https://github.com/vpc-ccg/freddie/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36478271/)
+* [GitHub](https://github.com/vpc-ccg/freddie/)
 
 ### IDP
 
@@ -1326,8 +1333,8 @@ Last release: 2023
 ### IsoTV
 
 ### L-RAPiT
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/36555493/)
-* [GitHub] (https://github.com/Theo-Nelson/long-read-sequencing-pipeline)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36555493/)
+* [GitHub](https://github.com/Theo-Nelson/long-read-sequencing-pipeline)
 
 ### LIQA
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36993612/)
@@ -1337,8 +1344,8 @@ Last release: 2023
 ### LORALS
 
 ### Longcell
-* [PubMed] (https://pubmed.ncbi.nlm.nih.gov/34140043/)
-* [GitHub] (https://github.com/WGLab/LIQA)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/34140043/)
+* [GitHub](https://github.com/WGLab/LIQA)
 
 ### Mandalorian
 
@@ -1477,6 +1484,11 @@ The code is not available
 ## Circular RNA
 * [Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
 * [Review 2 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/34195960/)
+* [Review 1 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/31998941/)
+
+### At-C-RNA: Arabidopsis thaliana CircRNAs
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
+* [URL](https://plantcircrna.ibch.poznan.pl/) 
 
 ### AQUARIUM
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34115093/)
@@ -1538,6 +1550,10 @@ The code is not available
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28265491/)
 * [GitHub](https://github.com/dieterich-lab/FUCHS)
 
+### GreenCircRNA
+* [URL Not available](http://greencirc.cn/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
+
 ### JEDI
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34252942/)
 * [Github](https://github.com/hallogameboy/JEDI)
@@ -1545,6 +1561,10 @@ The code is not available
 ### PCirc
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407069/)
 * [GitHub](https://github.com/Lilab-SNNU/Pcirc)
+
+### PlantCircNet:
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31725858/)
+* [URL](https://biokeanos.com/source/PlantCircNet)
 
 ### psirc
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34663689/)
@@ -1592,6 +1612,10 @@ Kallisto-Splice is part of a tool for a splice-aware mapping
 ### OneStopRNAseq: a pipeline for RNA-Seq analysis
 * [URL](https://mccb.umassmed.edu/OneStopRNAseq/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33023248/)
+
+### PPLine: a pipeline for SNP calling and gene/isoform quantification
+* [URL](https://sourceforge.net/projects/ppline/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26147802/)
 
 ### PipeOne-NM: RNA-Seq Analysis Pipeline for Non-Model Organisms
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37239350/)
@@ -1694,7 +1718,7 @@ Last release
 * [URL](http://matt.crg.eu/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30010778/)
 
-### MBS: a genome browser annotation track for microRNA binding sites in whole human transcriptome
+### MBS: a genome browser annotation track for microRNA binding sites in the whole human transcriptome
 * [URL](https://datasharingada.fondazionerimed.com:8080/MBS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37114805/)
 
@@ -1721,13 +1745,7 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32286305/)
 * [GitHub](https://github.com/comprna/orqas)
 
-### PPLine: a pipeline for SNP calling and gene/isoform quantification
-Last release: 2018, March, 26th
-* [URL](https://sourceforge.net/projects/ppline/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/26147802/)
-
-### PrimerSeq: a tool for RT-PCR primers design that evaluate alternative splicing events
-Last release: 2016, November, 18th
+### PrimerSeq: a tool for RT-PCR primers design that evaluates alternative splicing events
 * [URL](http://primerseq.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24747190/)
 * [GitHub](https://github.com/ctokheim/PrimerSeq)
@@ -1736,60 +1754,31 @@ Last release: 2016, November, 18th
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33436599/)
 * [GitHub](https://github.com/hyochoi/SCISSOR)
 
-### SEASTAR: an alternative transcription start sites detection tool
-Last release: 2017, October, 26th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29546410/)
-* [GitHub](https://github.com/Xinglab/SEASTAR)
-
 ### SimSpliceEvol: an alternative splicing-aware simulation of biological sequence evolution
-Last release: 2019, august, 2nd
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842741/)
 * [GitHub](https://github.com/UdeS-CoBIUS/SimSpliceEvol)
-
-### Shark: mapping-free tool for fishing relevant reads in an RNA-Seq sample
-Last release: 2020, July, 6th
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32926128/)
-* [GitHub](https://github.com/AlgoLab/shark)
 
 ### SLIDR and SLOPPR: flexible identification of spliced leader trans-splicing and prediction of eukaryotic operons from RNA-Seq data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33752599/)
 * [GitHub](https://github.com/wenzelm/slidr-sloppr)
 
-#### SplicePie: an order of splicing prediction
+### SplicePie: an order of splicing prediction
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25800735/)
 * [GitHub](https://github.com/pulyakhina/splicing_analysis_pipeline)
 
-### SpliZ: a splicing quantification score
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/35241832/)
-
 ### ThorAxe: an evolutionary splicing graphs construction
-Last release:
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34266979/)
-
-### TraC: a shared between splice variants sequences
-Last release: 2018, May, 24th
-* [URL](http://labs.pathology.jhu.edu/nauen/trac/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29763731/)
-* [GitHub](https://github.com/nauenlab/TraC)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34266979/)
 
 ### TranscriptAchilles: a transcript-level biomarkers for cancer
 * [URL](https://biotecnun.unav.es/app/TranscriptAchilles)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30942869/)
 * [GitLab](https://gitlab.com/fcarazo.m/transcriptachilles)
 
-### Transposable element-derived alternative splicing in cancer
-Last release: *not found*
-* [URL](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=http://jordan.biology.gatech.edu/teAs/hub.txt)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32075558/)
-
 ### UNCOVER: the algorithm for predicting conserved alternatively spliced exons (and retained introns) in orthologous intron pairs (Upon request)
-Last release: *not found*
 * [URL](http://hollywood.mit.edu/burgelab/software.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16110330/)
 
 ## Databases
-* [Review 1](https://pubmed.ncbi.nlm.nih.gov/31998941/)
-
 ### AceView: a database of alternative splicing isoforms
 * [URL](https://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/16925834/)
@@ -1804,7 +1793,7 @@ Last release: *not found*
 * [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/34755885/)
 
 ### Arabidopsis PeptideAtlas
-* [URL](www.peptideatlas.org/builds/arabidopsis/)
+* [URL](http://www.peptideatlas.org/builds/arabidopsis/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34411258/)
 
 ### ASCancer Atlas: a comprehensive knowledgebase of alternative splicing in human cancers
@@ -1816,12 +1805,14 @@ Last release: *not found*
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36473963/)
 
 ### ASCOT
-* [URL] (http://ascot.cs.jhu.edu/)
-* [GitHub] (https://github.com/jpling/ascot)
+* [URL](http://ascot.cs.jhu.edu/)
+* [GitHub](https://github.com/jpling/ascot)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/31919425/)
 
-### ASlive: a database for alternative splicing in livestock animals
-* [URL](http://202.195.250.104/lsas/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32000661/)
+### ASlive/### LivestockExp
+* [URL](https://bioinfo.njau.edu.cn/livestockExp)
+* [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/36253723/)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/32000661/)
 
 ### ASpedia: a database of human alternative splicing
 * [URL](http://combio.snu.ac.kr/aspedia/)
@@ -1834,10 +1825,6 @@ Last release: *not found*
 ### ASPN: a splicing-derived neoepitopes database
 * [URL](http://jianglab.org.cn/ASPN/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34285345/)
-
-### At-C-RNA: Arabidopsis thaliana CircRNAs
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
-* [URL](https://plantcircrna.ibch.poznan.pl/) 
 
 ### Blood Proteoform Atlas
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35084980/)
@@ -1856,7 +1843,7 @@ Last release: *not found*
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36266726/)
 
 ### CattleGTEx
-* [URL](http://cgtex.roslin.ed.ac.uk/)
+* [URL Not available](http://cgtex.roslin.ed.ac.uk/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35953587/)
 
 ### CuAS: a database of alternative splicing in cucumber
@@ -1895,10 +1882,6 @@ Last release: *not found*
 * [URL](https://ngdc.cncb.ac.cn/gen/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34591957/)
 
-### GreenCircRNA
-* [URL](http://greencirc.cn/)
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32510565/)
-
 ### H-DBAS: a human alternative splicing database
 * [URL](http://h-invitational.jp/h-dbas/)
 * [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19969536?dopt=Abstract)
@@ -1917,9 +1900,10 @@ Last release: *not found*
 
 ### iRBase
 * [URL](https://irbase.igh.cnrs.fr/)
+* [PubMed](10.1186/s13059-017-1184-4)
 
 ### ISOdb: a database of Iso-Seq isoforms
-* [URL](http://isodb.xieslab.org/)
+* [URL Not available](http://isodb.xieslab.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30581839/)
 
 ### ISOexpresso: a database of isoform expression in cancer
@@ -1930,12 +1914,8 @@ Last release: *not found*
 * [URL](https://kassiopeia.motorprotein.de/kassiopeia)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24507667/)
 
-### LivestockExp
-* [URL](https://bioinfo.njau.edu.cn/livestockExp)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36253723/)
-
 ### LncAS2Cancer: alternative splicing in lncRNAs in cancer
-* [URL](https://lncrna2as.cd120.com/)
+* [URL Not available](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
 
 ### MeDAS: a Metazoan Developmental Alternative Splicing database
@@ -1951,8 +1931,8 @@ Last release: *not found*
 * [URL](https://brb.nci.nih.gov/splicing)
 
 ### OncoSplicing
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34554251/)
-* [URL] (http://www.oncosplicing.com/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34554251/)
+* [URL](http://www.oncosplicing.com/)
 
 ### oRNAment: a database of putative RNA binding protein target sites in the transcriptomes of model species
 * [URL](http://rnabiology.ircm.qc.ca/oRNAment/)
@@ -1964,7 +1944,7 @@ Last release: *not found*
 
 ### PID: Plant Intron Database
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34111777/)
-* [URL](http://biodb.sdau.edu.cn/PID/index.php)
+* [URL Not available](http://biodb.sdau.edu.cn/PID/index.php)
 
 ### PlaASDB: a comprehensive database of plant alternative splicing events in response to stress
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37106367/)
@@ -1974,31 +1954,27 @@ Last release: *not found*
 * [URL](http://proteomics.ysu.edu/altsplice/)
 
 ### PlantExp
-* [URL](https://biotec.njau.edu.cn/plantExp)
+* [URL Not available](https://biotec.njau.edu.cn/plantExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36271793/)
-
-### PlantCircNet:
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/31725858/)
-* [URL](https://biokeanos.com/source/PlantCircNet)
 
 ### PlantSPEAD: a splicing-related protein expression database
 * [URL](http://chemyang.ccnu.edu.cn/ccb/database/PlantSPEAD/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/33010087/)
 
 ### PISE: Plant Intron-Splicing Efficiency Database
-* [URL](https://kidsneuro.shinyapps.io/splicevault/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36747048/)
-
+* [URL](https://plantintron.com/)
+* [PubMed](10.1007/s11427-022-2193-3)
+  
 ### PolyA_DB: a database of pre-mRNA cleavage and polyA sites
 * [URL](https://exon.apps.wistar.org/PolyA_DB/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29069441/)
 
 ### ProSAS: a database of the effects of alternative splicing events on the structure of the resulting protein isoforms.
-* [URL](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
+* [URL Not available](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
 
 ### RJunBase: a database of RNA splice junctions in human normal and cancerous tissues
-* [URL](www.RJunBase.org)
+* [URL](http://www.RJunBase.org)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33179749/)
 
 ### RBPDB
@@ -2030,6 +2006,10 @@ Last release: *not found*
 * [URL](http://193.206.120.249/splicing_tissue.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21922594/)
 
+### SpliceVault
+* [URL](https://kidsneuro.shinyapps.io/splicevault/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/36747048/)
+
 ### SpliVap
 * [URL](http://splicing.bioinformatica.crs4.it/)
 
@@ -2049,6 +2029,10 @@ Last release: *not found*
 ### TransCirc: an interactive database for translatable circular RNAs based on multi-omics evidence
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33074314/)
 * [URL](https://www.biosino.org/transcirc/)
+
+### Transposable element-derived alternative splicing in cancer
+* [URL](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=http://jordan.biology.gatech.edu/teAs/hub.txt)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/32075558/)
 
 ### TSVdb: TCGA splicing variants database
 * [URL](http://www.tsvdb.com/)
@@ -2108,6 +2092,11 @@ Last release: 2016, December, 8th (the last commit)
 Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
 * [GitHub](https://github.com/flemingtonlab/SpliceV)
+
+### TraC: a visualization a shared between splice variants sequences
+* [URL](http://labs.pathology.jhu.edu/nauen/trac/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29763731/)
+* [GitHub](https://github.com/nauenlab/TraC)
 
 ### VALERIE: visualizing splicing at single-cell
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32898151/)
