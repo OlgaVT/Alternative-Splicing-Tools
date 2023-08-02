@@ -1573,6 +1573,14 @@ The code is not available
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34556162/)
 * [GitHub](https://github.com/avigayel/SRCP)
 
+### TransCirc: an interactive database for translatable circular RNAs based on multi-omics evidence
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33074314/)
+* [URL](https://www.biosino.org/transcirc/)
+
+### VirusCircBase: a database of virus circular RNAs
+* [URL](http://www.computationalbiology.cn/ViruscircBase/home.html)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32349124/)
+
 ## Aberrant Splicing
 ### FRASER
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33483494/)
@@ -1842,6 +1850,10 @@ Last release
 * [URL](http://www.splicedb.net/casa/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36266726/)
 
+### CAS-viewer: a visualization tool of cancer alternatively splicing
+* [URL](http://genomics.chpc.utah.edu/cas/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
+
 ### CattleGTEx
 * [URL Not available](http://cgtex.roslin.ed.ac.uk/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35953587/)
@@ -1986,7 +1998,7 @@ Last release
 * [URL](http://rna.recount.bio/)
 
 ### SASD: the Synthetic Alternative Splicing Database for identifying novel isoform from proteomics
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35657932/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
 * [URL] Does not work
 
 ### S-CAP: a list of splice-related pathogenicity scores
@@ -1995,14 +2007,12 @@ Last release
 * [Bitbucket](https://bitbucket.org/bejerano/splicing_classifier/)
 
 ### SilkBase: an integrated transcriptomic and genomic database for Bombyx mori and related species
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/24267658/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35670730/)
 * [URL](https://silkbase.ab.a.u-tokyo.ac.jp)
 
 ### SpliceAid: a database of experimentally proven RNA target motifs bound by splicing proteins in human
 * [URL](http://www.introni.it/splicing.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/19261717/)
-
-### SpliceAid2: a database of human splicing factors expression data and RNA target motifs
 * [URL](http://193.206.120.249/splicing_tissue.html)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/21922594/)
 
@@ -2011,7 +2021,7 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36747048/)
 
 ### SpliVap
-* [URL](http://splicing.bioinformatica.crs4.it/)
+* [URL Not working properly](http://splicing.bioinformatica.crs4.it/)
 
 ### TassDB: a tandem splice sites database
 * [URL 1](http://www.tassdb.info/)
@@ -2023,12 +2033,8 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26602693/)
 
 ### TeaAS: a database of alternative splicing in tea plants
-* [URL] (http://www.teaas.cn/index.php)
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34154536/)
-
-### TransCirc: an interactive database for translatable circular RNAs based on multi-omics evidence
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33074314/)
-* [URL](https://www.biosino.org/transcirc/)
+* [URL](http://www.teaas.cn/index.php)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34154536/)
 
 ### Transposable element-derived alternative splicing in cancer
 * [URL](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=http://jordan.biology.gatech.edu/teAs/hub.txt)
@@ -2044,25 +2050,16 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28855263/)
 * [PubMed VAST-TOOLS](https://pubmed.ncbi.nlm.nih.gov/35895261/)
 
-### VirusCircBase: a database of virus circular RNAs
-* [URL](http://www.computationalbiology.cn/ViruscircBase/home.html)
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32349124/)
-
 ## Visualization
-#### CAS-viewer: a visualization tool of cancer alternatively splicing
-* [URL](http://genomics.chpc.utah.edu/cas/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/29697367/)
-
 ### DoChaP: a domain-splicing visualization
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
 * [URL](https://dochap.bgu.ac.il/)
 
-#### GFFView: a RNA-Seq viewer
-* [URL](http://120.27.116.110/)
+### GFFView: a RNA-Seq viewer
+* [URL Not available](http://120.27.116.110/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
 
-#### Integrated Genome Browser: a visual analysis of alternative splicing
-Last release: 2020, December, 3rd 
+### Integrated Genome Browser: a visual analysis of alternative splicing
 * [URL](https://www.bioviz.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
 
@@ -2070,7 +2067,7 @@ Last release: 2020, December, 3rd
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
 * [GitHub](https://github.com/Splicebox/Jutils)
 
-#### ggsashimi: an alternative splicing visualization
+### ggsashimi: an alternative splicing visualization
 Last release: 2021, February, 10th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30118475/)
 * [GitHub](https://github.com/guigolab/ggsashimi)
