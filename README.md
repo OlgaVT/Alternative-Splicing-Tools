@@ -2068,16 +2068,14 @@ Last release
 * [GitHub](https://github.com/Splicebox/Jutils)
 
 ### ggsashimi: an alternative splicing visualization
-Last release: 2021, February, 10th
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30118475/)
 * [GitHub](https://github.com/guigolab/ggsashimi)
 
-#### Manananggal: a visualization of alternative splicing events
-Last release: 2016, December, 8th (the last commit)
+### Manananggal: a visualization of alternative splicing events
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
 * [GitHub](https://github.com/barannm/Manananggal)
 
-#### RNASeqViewer: a visualization tool for gene expression and isoforms
+### RNASeqViewer: a visualization tool for gene expression and isoforms
 * [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24215023/)
 
@@ -2086,7 +2084,6 @@ Last release: 2016, December, 8th (the last commit)
 * [GitHub](http://github.com/ans4013/ScisorWiz)
 
 #### SpliceV: a splicing visualization
-Last release: 2019, September, 27th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
 * [GitHub](https://github.com/flemingtonlab/SpliceV)
 
@@ -2100,7 +2097,7 @@ Last release: 2019, September, 27th (the last commit)
 * [CRAN](https://cran.r-project.org/web/packages/VALERIE/index.html)
 
 #### Vials: a visualization of alternative splicing tool
-* [URL](http://vials.io/)
+* [URL Not available](http://vials.io/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/26529712/)
 * [GitHub (archived)](https://github.com/Caleydo/vials)
 
@@ -2112,23 +2109,19 @@ Last release: 2019, September, 27th (the last commit)
  
 ## Transcript assembly
 #### BayesDenovo: a transcriptome assembly
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34480063/)
-* [GitHub] (https://github.com/henryxushi/BayesDenovo)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34480063/)
+* [GitHub](https://github.com/henryxushi/BayesDenovo)
 
 #### CLASS2: a transcriptome assembly tool
-Last release: 2017, May, 17th
 * [URL](https://sourceforge.net/projects/splicebox/files/)
 * [PubMed CLASS](https://pubmed.ncbi.nlm.nih.gov/23734605/)
 * [PubMed CLASS2](https://pubmed.ncbi.nlm.nih.gov/26975657/)
 
 #### ConSemble: a tool for trascriptome assembly improvement
-Last release:
-
 * [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34674629/)
 * [URL] (http://bioinfolab.unl.edu/emlab/consemble/ )
  
 #### isoLASSO: a transcriptome assembly and isoform quantification tool
-Last release: 2012, November, 17th
 * [URL](http://alumni.cs.ucr.edu/~liw/isolasso.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951053/)
 
@@ -2141,8 +2134,7 @@ Last release: 2012, November, 17th
 * [GitHub] (https://github.com/jzbio/MultiTrans)
 
 #### Oases: a transcriptome assembly tool
-Last release: 2011, December, 6th
-* [URL](https://www.ebi.ac.uk/~zerbino/oases/)
+* [URL Not available](https://www.ebi.ac.uk/~zerbino/oases/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22368243/)
 
 #### rnaSPAdes: a transcriptome assembly tool
@@ -2151,12 +2143,9 @@ Last release: 2011, December, 6th
 * [GitHub](https://github.com/ablab/spades)
 
 #### Scripture: a transcriptome assembly tool
-Last release:
-* [URL](http://software.broadinstitute.org/software/scripture/home)
-* [PubMed]()
+* [URL Not available](http://software.broadinstitute.org/software/scripture/home)
 
 #### SOAPdenovo-trans: a transcriptome assembly tool
-Last release: 2017, August, 23rd
 * [URL](https://sourceforge.net/projects/soapdenovotrans/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24532719/)
 * [GitHub](https://github.com/aquaskyline/SOAPdenovo-Trans)
@@ -2166,35 +2155,29 @@ Last release: 2017, August, 23rd
 * [GitHub](https://github.com/yutingsdu/Tiglon-v.1.1)
 
 #### TRANS-Abyss: a transcriptome assembly tool
-Last release: 2018, February, 19th
 * [URL](https://www.bcgsc.ca/resources/software/trans-abyss)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20935650/)
 * [GitHub](https://github.com/bcgsc/transabyss)
 
 #### TransRef: a transcriptome assembly
-Last release
-* [Pubmed] (https://pubmed.ncbi.nlm.nih.gov/34254977/)
-* [Sourceforge] (https://sourceforge.net/projects/transassembly/files/)
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34254977/)
+* [Sourceforge](https://sourceforge.net/projects/transassembly/files/)
 
 #### Trinity: a transcriptome assembly tool
-Last release: 2015, January, 24th
 * [URL](https://sourceforge.net/projects/trinityrnaseq/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/21572440/)
 
 #### Velvet: a transcriptome assembly tool
-Last release: 2018, July, 5th
-* [URL](https://www.ebi.ac.uk/~zerbino/velvet/)
+* [URL Not available](https://www.ebi.ac.uk/~zerbino/velvet/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/18349386/)
 * [GitHub](https://github.com/dzerbino/velvet/tree/master)
 
 ## Time-series
 #### Spycone
-Last release: 2023
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36579860/)
 * [GitHub](https://github.com/yollct/spycone) 
 
 #### TSIS: a time-series isoform switches detection tool
-Last release: 2018, December, 29th (the last commit)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29028262/)
 * [GitHub](https://github.com/wyguo/TSIS)
 
@@ -2204,7 +2187,6 @@ Last release: 2018, December, 29th (the last commit)
 ### Splice variants
 * [Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523691/)
 * [Benchmarking deep learning splice prediction tools using functional splice assays](https://pubmed.ncbi.nlm.nih.gov/33942434/)
-* [Exon identity influences splicing induced by exonic variants and in silico prediction efficacy](https://www.sciencedirect.com/science/article/abs/pii/S1569199320309358?via%3Dihub)
 * [Performance evaluation of computational methods for splice-disrupting variants and improving the performance using the machine learning-based framework](https://pubmed.ncbi.nlm.nih.gov/35976049/)
 
 ### Splicing
