@@ -571,6 +571,10 @@ No documentation
 * [URL](http://www.stat.ucla.edu/~jingyi.li/software-and-data.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22135461/)
 
+#### SOSTAR: iSofOrmS annoTAtoR pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39350015/)
+* [GitHub](https://github.com/LBGC-CFB/SOSTAR)
+
 #### Sparselso: an isoform identification tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968634/)
 * [GitHub](https://github.com/henryxushi/SparseIso)
@@ -776,6 +780,10 @@ Redirects to ESEfinder
 ### GLiMMPS: an sQTL detection
 * [GutHub](https://github.com/Xinglab/GLiMMPS)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/23876401/)
+
+### MAJIQTL
+* [BioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.01.610696v1.full)
+The code will be after publication
 
 ### PVAAS: a tool to identify SNVs associated with aberrant splicing
 * [URL](http://pvaas.sourceforge.net/)
@@ -1149,6 +1157,11 @@ Last release: 2021, February
 
 ### RNABP: a branchpoint prediction
 * [URL Not available](http://nsclbio.jbnu.ac.kr/tools/RNABP/)
+
+### SPLASH2: a k-mer counting approach for regulated sequence variation detection
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39313645/)
+* [GitHub](https://github.com/salzman-lab/SPLASH)
+
 
 ### SVM-BPfinder: a branchpoint prediction tool
 Last release: 2016
@@ -1858,6 +1871,10 @@ Last release
 * [URL Not available](http://cgtex.roslin.ed.ac.uk/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35953587/)
 
+### Cortexa: mouse brain
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39237879/)
+* [GitHub](https://cortexa-01.zdv.uni-mainz.de/)
+
 ### CuAS: a database of alternative splicing in cucumber
 * [URL](http://cmb.bnu.edu.cn/alt_iso/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32183712/)
@@ -1942,6 +1959,10 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33600011/)
 * [URL](https://brb.nci.nih.gov/splicing)
 
+### NMDtxDB: A database of NMD targets
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39095083/)
+* [GitHub](https://github.com/dieterich-lab/NMDtxDB)
+
 ### OncoSplicing
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34554251/)
 * [URL](http://www.oncosplicing.com/)
@@ -1953,6 +1974,10 @@ Last release
 ### Pan-cancer repository of validated natural and cryptic mRNA splicing mutations
 * [URL](https://validsplicemut.cytognomix.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31275557/)
+
+### PerturbAtlas: an atlas of public genetic perturbation bulk RNA-seq datasets
+* [URL](https://perturbatlas.kratoss.site/#/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39351872/)
 
 ### PID: Plant Intron Database
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34111777/)
@@ -2022,6 +2047,10 @@ Last release
 
 ### SpliVap
 * [URL Not working properly](http://splicing.bioinformatica.crs4.it/)
+
+### SpliceVarDB
+* [URL](https://compbio.ccia.org.au/splicevardb/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39226898/)
 
 ### TassDB: a tandem splice sites database
 * [URL 1](http://www.tassdb.info/)
