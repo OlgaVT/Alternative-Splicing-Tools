@@ -287,6 +287,10 @@ Part of TAP pipeline
 * [URL Dropbox](https://www.dropbox.com/s/j5o0og159ig6tej/SpliceDetector%20Executable%20File.rar?dl=0)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29567976/)
 
+#### splicekit: a pipeline
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39219843/)
+* [GitHub](https://github.com/bedapub/splicekit)
+
 #### spliceR: a tool for alternative splicing events, differential splicing detection, and isoform switching
 * [Bioconductor](http://www.bioconductor.org/packages/2.13/bioc/html/spliceR.html)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24655717/)
@@ -687,6 +691,10 @@ A list of scripts
 The code is upon request
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542625/)
 
+#### junctionCounts
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39131822/)
+* [GitHub](https://github.com/ajw2329/junctionCounts)
+
 #### JunctionSeq: a differential exon and junctions usage
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/27257077/)
 * [Bioconductor](https://bioconductor.org/packages/release/bioc/html/JunctionSeq.html)
@@ -860,6 +868,10 @@ The code
 * [URL Not available](https://home.jbnu.ac.kr/NSCL/dsc.htm)
 * [GitHub](https://github.com/louadi/DSC)
 
+### DeltaSplice: splicing-altering mutations
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39060028/)
+* [GitHub](https://github.com/chaolinzhanglab/DeltaSplice)
+
 ### DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33538820/)
 * [GitHub 1](https://github.com/jerryji1993/DNABERT)
@@ -1012,6 +1024,10 @@ No code provided
 * [URL Not available](http://www.veridical.org/defaultsite)
  
 ## Alternative splicing regulation
+### AGML: RBP-AS association prediction
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39133592/)
+* [GitHub](https://github.com/yushanqiu/AGML)
+
 ### AIRBP: Identification of RNA-binding proteins using machine-learning techniques
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33685590/)
 * [URL Not available](http://cs.uno.edu/∼tamjid/Software/AIRBP/code_data.zip)
@@ -2224,3 +2240,4 @@ Last release
 * [Alternative splicing analysis benchmark with DICAST](https://pubmed.ncbi.nlm.nih.gov/37260511/)
 * [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://pubmed.ncbi.nlm.nih.gov/36369064/)
 * [Exploring differential exon usage via short- and long-read RNA sequencing strategies](https://pubmed.ncbi.nlm.nih.gov/36168804/)
+* [Enhancing novel isoform discovery: leveraging nanopore long-read sequencing and machine learning approaches](https://pubmed.ncbi.nlm.nih.gov/39158328/)
