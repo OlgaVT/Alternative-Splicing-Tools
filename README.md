@@ -1303,6 +1303,10 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36054357/)
 * [GitHub](https://github.com/gxiaolab/scAllele/)
 
+### scASfind: Mining alternative splicing patterns in scRNA-seq
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/39075577/)
+* [GitHub](https://github.com/hemberg-lab/scASfind)
+
 ### SICILIAN: splice junctions identification in bulk and single RNA-Seq
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34353340/)
 * [GitHub](https://github.com/salzmanlab/SICILIAN)
@@ -1326,6 +1330,10 @@ No documentation
 ### brca-isoforms: long-read isoform analysis platform and sequencing resource for breast cancer
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [URL](https://brca-isoforms.jax.org/)
+
+### NAGATA: Nanopore guided annotation of transcriptome architectures
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38953320/)
+* [GitHub](https://github.com/DepledgeLab/NAGATA)
 
 ### Cupcake
 
@@ -1794,6 +1802,7 @@ Last release
 ### SimSpliceEvol: an alternative splicing-aware simulation of biological sequence evolution
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31842741/)
 * [GitHub](https://github.com/UdeS-CoBIUS/SimSpliceEvol)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/38992593/)
 
 ### SLIDR and SLOPPR: flexible identification of spliced leader trans-splicing and prediction of eukaryotic operons from RNA-Seq data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33752599/)
@@ -2100,6 +2109,10 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33988713/)
 * [URL](https://dochap.bgu.ac.il/)
 
+### Geneapp: AS events visualization
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38936077/)
+* [URL](https://geneapp.net/)
+
 ### GFFView: a RNA-Seq viewer
 * [URL Not available](http://120.27.116.110/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28355123/)
@@ -2107,6 +2120,10 @@ Last release
 ### Integrated Genome Browser: a visual analysis of alternative splicing
 * [URL](https://www.bioviz.org/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24792048/)
+
+### IsoVis
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38709877/)
+* [URL](https://isomix.org/isovis/)
 
 ### Jutils: A visualization toolkit for differential alternative splicing events
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
