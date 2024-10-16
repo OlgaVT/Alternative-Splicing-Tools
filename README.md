@@ -6,6 +6,7 @@ A list of alternative splicing analysis resources
 [Review 3](https://pubmed.ncbi.nlm.nih.gov/29931155/)
 [Review 4](https://academic.oup.com/bib/article/22/6/bbab259/6330938?login=true)
 [Review 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4728800/)
+[Review 6](https://academic.oup.com/bfg/article/23/2/83/7178017)
 
 ## Splice-aware mapping tools
 ### 2passtools: a tool for filtering long RNA-Seq alignment from minimap2
@@ -152,6 +153,11 @@ The R code is in the supplementary materials
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535139/)
 * [GitHub](https://github.com/BMILAB/AStrap)
 
+#### betAS
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38278530/)
+* [URL](https://compbio.imm.medicina.ulisboa.pt/app/betAS)
+* [GitHub](https://github.com/DiseaseTranscriptomicsLab/betAS)
+
 #### CASH: a differential splicing analysis tool
 * [URL 1](https://soft.novelbio.com/cash/)
 * [URL 2](https://sourceforge.net/projects/cash-program/)
@@ -191,6 +197,10 @@ Based on not supporting tool MISO
 #### iDiffIR: a differential intron retention tool
 * [URL](https://combi.cs.colostate.edu/idiffir/introduction.html)
 * [Bitbucket](https://bitbucket.org/comp_bio/idiffir/src/master/)
+
+#### iFLAS: a plant-optimized AS toolkit
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38291701/)
+* [GitHub](https://github.com/CrazyHsu/iFLAS)
 
 #### IntEREst: an intron retention identification tool
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29642843/)
@@ -262,6 +272,7 @@ Part of TAP pipeline
 #### rMATS: a differential splicing detection
 * [URL](http://rnaseq-mats.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/25480548/)
+* [rMATS-Turbo](https://pubmed.ncbi.nlm.nih.gov/38396040/)
 * [GitHub](https://github.com/Xinglab/rmats-turbo)
 
 #### SAJR: a differential splicing tool
@@ -583,6 +594,11 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28968634/)
 * [GitHub](https://github.com/henryxushi/SparseIso)
 
+#### SPIT: DTU
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38508189/)
+* [GitHub](https://github.com/berilerdogdu/SPIT)
+* [Colab](https://colab.research.google.com/drive/1u3NpleqcAfNz_0EAgO2UHItozd9PsF1w?usp=sharing)
+
 #### SpliceGrapher: a tool for creating splice graphs and isoforms predicting
 * [URL](http://splicegrapher.sourceforge.net/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/22293517/)
@@ -623,6 +639,10 @@ Archived
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/23821651/)
 * [PibMed 2](https://pubmed.ncbi.nlm.nih.gov/25560536/)
 * [GitHub](https://github.com/nariai/tigar2)
+
+#### TranD: transcript diversity metrics
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38340337/)
+* [GitHub](https://github.com/McIntyre-Lab/TranD)
 
 #### Traph: an isoform quantification tool
 * [URL](https://www.cs.helsinki.fi/en/gsa/traph/)
@@ -1197,6 +1217,10 @@ No documentation
 
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/36845399/)
 
+### biosurfer: a computational approach for comparing protein isoforms
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38559226/)
+* [GitHub](https://github.com/sheynkman-lab/biosurfer)
+
 ### jcast: takes in alternative splicing events and returns custom protein sequence databases for isoform analysis
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31825849/)
 * [PubMed (Protocol)](https://pubmed.ncbi.nlm.nih.gov/33377032/)
@@ -1323,6 +1347,11 @@ No documentation
 [Review 1](https://pubmed.ncbi.nlm.nih.gov/37066125/)
 [Review 2](10.1186/s13059-020-1935-5)
 
+### ASAPA: a pipeline that identifies the links among alternative splicing, alternative transcription initiation and alternative polyadenylation
+A code is not found
+
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38528184/)
+
 ### BRCA-LRseq-pipeline
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [GitHub](https://github.com/TheJacksonLaboratory/BRCA-LRseq-pipeline)
@@ -1397,6 +1426,10 @@ No documentation
 ### ScanExitronLR
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/632703v1)
 * [GitHub](https://github.com/Kingsford-Group/scallop/tree/isoseq)
+
+### SCASL: a single-cell clustering based on alternative splicing landscapes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38461306/)
+* [GitHub](https://github.com/xryanglab/SCASL)
 
 ### scNaST
 
@@ -1948,6 +1981,10 @@ Last release
 * [URL](http://human-proteoform-atlas.org)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34986596/)
 
+### IDeAS: an interactive database for dysregulated alternative splicing in cancers across Chinese and western patients
+* [URL](https://www.biosino.org/ideas/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38012117/)
+ 
 ### IntroVerse: a comprehensive database of introns across human tissues
 * [URL](https://rytenlab.com/browser/app/introverse)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36399497/)
