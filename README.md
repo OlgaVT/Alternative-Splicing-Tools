@@ -226,6 +226,11 @@ Not maintained.
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30104386/)
 * [GitHub](https://github.com/qqwang-berkeley/JUM)
 
+### Jutils/MntJULiP: A visualization toolkit for differential alternative splicing events/Now with covariates
+* [Pubmed 1](https://pubmed.ncbi.nlm.nih.gov/34021745/)
+* [PubMed 2](https://pubmed.ncbi.nlm.nih.gov/38260578/)
+* [GitHub](https://github.com/Splicebox)
+
 #### Keep Me Around: an intron retention identification tool
 * [arRxiv](https://arxiv.org/abs/1510.00696)
 * [GitHub](https://github.com/pachterlab/kma)
@@ -1194,6 +1199,10 @@ Last release: 2021, February
 ### RNABP: a branchpoint prediction
 * [URL Not available](http://nsclbio.jbnu.ac.kr/tools/RNABP/)
 
+### Sparse Adjusted Motifs (SAM): modeling of RNA-binding protein motifs
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38229106/)
+* [GitHub](https://github.com/kavigupta/sam/tree/main/spliceai/Canonical)
+
 ### SPLASH2: a k-mer counting approach for regulated sequence variation detection
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/39313645/)
 * [GitHub](https://github.com/salzman-lab/SPLASH)
@@ -1288,6 +1297,10 @@ No documentation
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/34857024/)
 * [GitHub](https://github.com/louadi/NEASE) 
 
+### Splitpea: PPI rewiring
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38160308/)
+* [GitHub](https://github.com/ylaboratory/splitpea)
+
 ## Single-cell data (much much more here https://www.scrna-tools.org/)
 ### acorde: networks of isoform co-usage from single-cell data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35383181/)
@@ -1359,6 +1372,10 @@ A code is not found
 ### brca-isoforms: long-read isoform analysis platform and sequencing resource for breast cancer
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35044822/)
 * [URL](https://brca-isoforms.jax.org/)
+
+### CTAT-LR-fusion: fusion transcripts detection
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38464114/)
+* [GitHub](https://github.com/TrinityCTAT/CTAT-LR-fusion)
 
 ### NAGATA: Nanopore guided annotation of transcriptome architectures
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/38953320/)
@@ -1555,6 +1572,7 @@ The code is not available
 * [Review 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986655/)
 * [Review 2 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/34195960/)
 * [Review 1 Circular RNA databases](https://pubmed.ncbi.nlm.nih.gov/31998941/)
+* [Review 2](https://pubmed.ncbi.nlm.nih.gov/38500957/)
 
 ### At-C-RNA: Arabidopsis thaliana CircRNAs
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34788390/)
@@ -1599,6 +1617,10 @@ The code is not available
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36789427/)
 * [GitHub](https://github.com/biomedbigdata/circRNA-sponging)
 
+### circtools
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38381332/)
+* [GitHub](https://github.com/dieterich-lab/circtools)
+
 ### Ciri
 * [URL](https://sourceforge.net/projects/ciri/)
 * [PubMed 1](https://pubmed.ncbi.nlm.nih.gov/27350239/)
@@ -1615,6 +1637,10 @@ The code is not available
 ### find_circ
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/23446348/)
 * [GitHub](https://github.com/marvin-jens/find_circ)
+
+### FL-circAS: an integrative resource and analysis for full-length sequences and alternative splicing of circular RNAs with nanopore sequencing
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37823705/)
+* [URL](https://cosbi.ee.ncku.edu.tw/FL-circAS/)
 
 ### FUCHS
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/28265491/)
@@ -1815,6 +1841,11 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34316711/)
 * [GitHub](https://github.com/galantelab/reboot)
 
+### RedRibbon: associations between gene and transcript level
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38081640/)
+* [GitHub 1](https://github.com/antpiron/RedRibbon)
+* [GitHub 2](https://github.com/antpiron/cRedRibbon)
+
 ### rnabridge-denovo: de novo Bridging Paired-end RNA-seq Data
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/37033458/)
 * [GitHub](https://github.com/Shao-Group/rnabridge-denovo)
@@ -1961,6 +1992,10 @@ Last release
 * [URL](https://bioinfo.njau.edu.cn/fishExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35891795/)
 
+### FLIBase: a repository of full-length isoforms across human cancers and tissues
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37697439/)
+* [URL](http://www.flibase.org/)
+
 ### FungiExp
 * [URL](https://bioinfo.njau.edu.cn/fungiExp)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/36655761/)
@@ -2008,6 +2043,10 @@ Last release
 ### LncAS2Cancer: alternative splicing in lncRNAs in cancer
 * [URL Not available](https://lncrna2as.cd120.com/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32820322/)
+
+### MAJIQlopedia: an encyclopedia of RNA splicing variations in human tissues and cancer
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37953365/)
+* [URL](https://majiq.biociphers.org/majiqlopedia/)
 
 ### MeDAS: a Metazoan Developmental Alternative Splicing database
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33084905/)
@@ -2114,6 +2153,10 @@ Last release
 * [URL](https://compbio.ccia.org.au/splicevardb/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/39226898/)
 
+### scTEA-db: a database of novel terminal exon isoforms identified from human single cell transcriptomes
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37850641/)
+* [URL](https://www.sctea-db.org/)
+
 ### TassDB: a tandem splice sites database
 * [URL 1](http://www.tassdb.info/)
 * [URL 2](http://tassdb2.leibniz-fli.de/)
@@ -2162,9 +2205,6 @@ Last release
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/38709877/)
 * [URL](https://isomix.org/isovis/)
 
-### Jutils: A visualization toolkit for differential alternative splicing events
-* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34021745/)
-* [GitHub](https://github.com/Splicebox/Jutils)
 
 ### ggsashimi: an alternative splicing visualization
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30118475/)
@@ -2173,6 +2213,10 @@ Last release
 ### Manananggal: a visualization of alternative splicing events
 * [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319012/)
 * [GitHub](https://github.com/barannm/Manananggal)
+
+### PTMViz: Understanding PTM Cross Talk Through a Visualization Tool
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38995535/)
+* [GitHub](https://github.com/ByrumLab/PTMViz )
 
 ### RNASeqViewer: a visualization tool for gene expression and isoforms
 * [URL Not available](http://bioinfo.au.tsinghua.edu.cn/software/RNAseqViewer/)
@@ -2241,6 +2285,10 @@ Last release
 * [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.24.918482v1)
 * [GitHub](https://github.com/ablab/spades)
 
+#### Roast: supertranscriptome assembly
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38166712/)
+* [GitHub](https://github.com/azizmithani/roast)
+
 #### Scripture: a transcriptome assembly tool
 * [URL Not available](http://software.broadinstitute.org/software/scripture/home)
 
@@ -2295,3 +2343,4 @@ Last release
 * [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://pubmed.ncbi.nlm.nih.gov/36369064/)
 * [Exploring differential exon usage via short- and long-read RNA sequencing strategies](https://pubmed.ncbi.nlm.nih.gov/36168804/)
 * [Enhancing novel isoform discovery: leveraging nanopore long-read sequencing and machine learning approaches](https://pubmed.ncbi.nlm.nih.gov/39158328/)
+* [Comprehensive benchmark of differential transcript usage analysis for static and dynamic conditions](https://pubmed.ncbi.nlm.nih.gov/38313260/)
