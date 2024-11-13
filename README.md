@@ -1207,6 +1207,9 @@ Last release: 2021, February
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/39313645/)
 * [GitHub](https://github.com/salzman-lab/SPLASH)
 
+### SplicingLore: a web resource for studying the regulation of cassette exons by human splicing factors
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38128543/)
+* [URL](https://splicinglore.ens-lyon.fr/)
 
 ### SVM-BPfinder: a branchpoint prediction tool
 Last release: 2016
@@ -1253,7 +1256,11 @@ No documentation
 * [GitHub pypgatk](https://github.com/bigbio/py-pgatk/)
 * [URL pgdb](https://nf-co.re/pgdb)
 
-### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
+### RiboSplitter
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37968320/)
+* [GitHub](https://github.com/R-Najjar/RiboSplitter)
+
+* ### SpliceVista: a tool for splice variant identification and visualization in shotgun proteomics data
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/24692640/)
 * [GitHub](https://github.com/yafeng/SpliceVista)
 
@@ -1288,6 +1295,11 @@ No documentation
 ### DomainGraph: effect of alternative splicing on domain-domain interactions
 * [URL](https://domaingraph.bioinf.mpi-inf.mpg.de/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/20513647/)
+
+### EXPANSION: a webserver to explore the functional consequences of protein-coding alternative splice variants in cancer genomics
+* [Web](https://expansion.bioinfolab.sns.it/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37810457/)
+* [GitHub](https://github.com/raimondilab/expansion)
 
 ### Iso-Net
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/32534132/)
@@ -1515,6 +1527,10 @@ A code is not found
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33826865/)
 * [URL Not available](http://mlda.swu.edu.cn/codes.php?name=IsoDA)
 
+### IsoFrog
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37647643/)
+* [GutHub](https://github.com/genemine/IsoFrog)
+
 ### IsoFun
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31250882/)
 * [URL Not available](http://mlda.swu.edu.cn/codes.php? name=IsoFun)
@@ -1543,6 +1559,7 @@ A code is not found
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/29688305/)
 * [GitHub](https://github.com/SCCC-BBC/PathwaySplice)
 * [Bioconductor](http://bioconductor.riken.jp/packages/3.8/bioc/html/PathwaySplice.html)
+
 
 ### SAPFIR: A webserver for the identification of alternative protein features
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35751026/)
@@ -1681,6 +1698,7 @@ The code is not available
 ### FRASER
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33483494/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37066374/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38006880/)
 * [Bioconductor](http://bioconductor.org/packages/release/bioc/html/FRASER.html)
 
 #### LeafCutter: an intron quantification and differential analysis
@@ -1944,6 +1962,10 @@ Last release
 * [URL](http://www.cancersplicingqtl-hust.com/#/)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/30329095/)
 
+### CanISO: a database of genomic and transcriptomic variations in domestic dog (Canis lupus familiaris)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37828501/)
+* [URL](https://www.kobic.re.kr/caniso/)
+
 ### CanIsoNet: a database to study the functional impact of isoform switching events in diseases
 * [URL](https://www.caniso.net)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/37123454/)
@@ -1967,6 +1989,10 @@ Last release
 ### CuAS: a database of alternative splicing in cucumber
 * [URL](http://cmb.bnu.edu.cn/alt_iso/index.php)
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/32183712/)
+
+### DASES: a database of alternative splicing for esophageal squamous cell carcinoma
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38028612/)
+* [URL not working](http://www.hxdsjzx.cn/DASES/)
 
 ### dbNSFP v4: a comprehensive database of transcript-specific functional predictions and annotations for human nonsynonymous and splice-site SNVs
 * [URL](http://database.liulab.science/dbNSFP)
@@ -2056,6 +2082,11 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34718719/)
 * [URL](https://bioinfo.njau.edu.cn/metazExp)
 
+### MkcDBGAS
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37833843/)
+* [GitHub](https://github.com/CMB-BNU/mkcDBGAS)
+* [Web](https://cmb.bnu.edu.cn/mkcDBGAS/index.php/download)
+
 ### MutSpliceDB: A database of splice sites variants with RNA-seq based evidence on effects on splicing
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/33600011/)
 * [URL](https://brb.nci.nih.gov/splicing)
@@ -2110,6 +2141,10 @@ Last release
 ### ProSAS: a database of the effects of alternative splicing events on the structure of the resulting protein isoforms.
 * [URL Not available](https://drupal.bio.ifi.lmu.de/forschung/structural-bioinformatics/prosas/)
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933774)
+
+### QuantAS
+The code is not found
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/37596706/)
 
 ### RJunBase: a database of RNA splice junctions in human normal and cancerous tissues
 * [URL](http://www.RJunBase.org)
@@ -2226,9 +2261,14 @@ Last release
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/35604081/)
 * [GitHub](http://github.com/ans4013/ScisorWiz)
 
-#### SpliceV: a splicing visualization
+### SpliceV: a splicing visualization
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068132/)
 * [GitHub](https://github.com/flemingtonlab/SpliceV)
+
+### SpliceWiz
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/38152981/)
+* [GitHub](https://github.com/alexchwong/SpliceWiz)
+* [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SpliceWiz.html)
 
 ### TraC: a visualization a shared between splice variants sequences
 * [URL](http://labs.pathology.jhu.edu/nauen/trac/)
