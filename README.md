@@ -1954,6 +1954,10 @@ Last release
 * [URL](http://jianglab.org.cn/ASPN/)
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/34285345/)
 
+### ASVirus: a text-mining based database
+* [Pubmed](https://pubmed.ncbi.nlm.nih.gov/40063927/)
+* [URL](https://bddg.hznu.edu.cn/asvirus/)
+
 ### Blood Proteoform Atlas
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/35084980/)
 * [URL](https://blood-proteoform-atlas.org/)
